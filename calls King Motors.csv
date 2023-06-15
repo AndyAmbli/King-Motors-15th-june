@@ -1,0 +1,1057 @@
+Agent,Lead,Disposition,Not answered,DND,Invalid number,Follow up,Started at,Ended at,Time spent in call,Call duration,Retries,Recording URL,Telephony callback received?,Telephony provider start delay
+Sangeetha,Sam Arun Kumar,Follow-up - Customer out of station,No,No,No,3 days,"Jun 01, 2023 09:40 IST","Jun 01, 2023 09:41 IST",0:00:53,0:00:36,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9791532203-102-51470-2348-2551-9344090298-o-0-010623-094022.wav,Yes,0:00:00
+Sangeetha,Harif Rahman,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 09:48 IST","Jun 01, 2023 09:49 IST",0:01:13,NA,0,NA,Yes,0:00:00
+Sangeetha,Arumugam S,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 09:52 IST","Jun 01, 2023 09:56 IST",0:03:26,NA,0,NA,Yes,0:00:00
+Sangeetha,Micheal Null,Lost Lead - Not Interested - TR Missed - Bought competing brand/ JAWA-YEZDI with other dealer,No,Yes,No,NA,"Jun 01, 2023 09:57 IST","Jun 01, 2023 09:58 IST",0:01:01,0:01:00,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/8838220966-102-51470-2348-2551-9344090298-o-0-010623-095711.wav,Yes,0:00:00
+Sangeetha,Velmurugan,Follow-up - Customer Busy,No,No,No,NA,"Jun 01, 2023 09:58 IST","Jun 01, 2023 09:59 IST",0:01:11,0:01:01,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/7418635399-102-51470-2348-2551-9344090298-o-0-010623-095907.wav,Yes,0:00:00
+Sangeetha,Dinojoelroy,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 09:59 IST","Jun 01, 2023 10:07 IST",0:08:00,NA,0,NA,Yes,0:00:00
+Sangeetha,lokesh anand ap,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 01, 2023 10:09 IST","Jun 01, 2023 10:12 IST",0:03:19,0:00:37,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9952939656-102-51470-2348-2550-9344090298-o-0-010623-100932.wav,Yes,0:00:00
+Sangeetha,selva kumar,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 01, 2023 10:12 IST","Jun 01, 2023 10:28 IST",0:15:49,NA,4,NA,Yes,0:06:54
+Sangeetha,PRASANNA GOKUL,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 01, 2023 10:28 IST","Jun 01, 2023 10:29 IST",0:01:00,0:01:00,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9840604186-102-51470-2325-2425-9344090298-o-0-010623-102840.wav,Yes,0:00:00
+Sangeetha,THILAK V,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 01, 2023 10:29 IST","Jun 01, 2023 10:31 IST",0:01:47,0:01:16,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9445567494-102-51470-2325-2430-9344090298-o-0-010623-103026.wav,Yes,0:00:19
+Sangeetha,PRASAD V,Interested - Follow-up,No,No,No,NA,"Jun 01, 2023 10:31 IST","Jun 01, 2023 10:45 IST",0:14:19,0:05:20,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9962157212-102-51470-2300-2427-9344090298-o-0-010623-103147.wav,Yes,0:00:00
+Sangeetha,PRASAD V,Lost Lead - Not Interested - Dissatisfied with the model after Test Ride,No,Yes,No,NA,"Jun 01, 2023 10:46 IST","Jun 01, 2023 10:48 IST",0:02:21,0:01:29,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9962157212-102-51470-2300-2427-9344090298-o-0-010623-104624.wav,Yes,0:00:00
+Sangeetha,naveen kumar,Follow-up - Customer Busy,No,No,No,NA,"Jun 01, 2023 10:48 IST","Jun 01, 2023 10:48 IST",0:00:19,0:00:23,0,NA,Yes,0:00:00
+Sangeetha,STALIN NA,Follow-up - Customer Busy,No,No,No,NA,"Jun 01, 2023 10:49 IST","Jun 01, 2023 10:53 IST",0:04:12,0:01:23,1,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/8610037909-102-51470-2258-2551-9344090298-o-0-010623-105206.wav,Yes,0:02:29
+Sangeetha,ARYA DUTTA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 10:58 IST","Jun 01, 2023 11:04 IST",0:05:53,NA,0,NA,Yes,0:00:23
+Sangeetha,SILAMBARASAN NA,Follow-up - Customer disconnecting call,No,Yes,No,NA,"Jun 01, 2023 11:05 IST","Jun 01, 2023 11:06 IST",0:00:33,0:00:06,0,NA,Yes,0:00:00
+Sangeetha,RAJESH R,Not interested now -TR Completed in Showroom,No,Yes,No,NA,"Jun 01, 2023 11:29 IST","Jun 01, 2023 11:34 IST",0:04:44,0:00:52,2,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9791126037-102-51470-2138-2551-9344090298-o-0-010623-113343.wav,Yes,0:03:55
+Sangeetha,PRATHASH NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 01, 2023 11:34 IST","Jun 01, 2023 11:38 IST",0:04:00,NA,0,NA,Yes,0:00:00
+Sangeetha,Deepanraj NA,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 01, 2023 11:38 IST","Jun 01, 2023 11:39 IST",0:01:24,0:01:06,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/7339320069-102-51470-2138-2427-9344090298-o-0-010623-113855.wav,Yes,0:00:00
+Sangeetha,m nagenthiram,Follow-up - Ringing No Response,No,Yes,No,NA,"Jun 01, 2023 11:42 IST","Jun 01, 2023 11:43 IST",0:01:05,0:00:58,0,NA,Yes,0:00:00
+Sangeetha,HARSGAVARDHA NA,Follow-up - Customer Busy,No,No,No,NA,"Jun 01, 2023 11:44 IST","Jun 01, 2023 11:48 IST",0:03:40,0:03:21,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/6382970066-102-51470-2121-2548-9344090298-o-0-010623-114445.wav,Yes,0:00:00
+Sangeetha,RAMAN NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 01, 2023 11:48 IST","Jun 01, 2023 11:50 IST",0:02:42,NA,0,NA,No,N/A
+Sangeetha,SELVARAJ RAJ,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 01, 2023 11:50 IST","Jun 01, 2023 11:52 IST",0:01:14,0:00:49,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9791679306-102-51470-2121-2430-9344090298-o-0-010623-115116.wav,Yes,0:00:01
+Sangeetha,prashanth b,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 11:52 IST","Jun 01, 2023 11:55 IST",0:03:45,NA,0,NA,Yes,0:00:00
+Sangeetha,SATHISH NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 01, 2023 11:56 IST","Jun 01, 2023 11:57 IST",0:01:23,NA,0,NA,Yes,0:00:00
+Sangeetha,KULOTHUNGAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 11:57 IST","Jun 01, 2023 11:58 IST",0:01:01,NA,0,NA,Yes,0:00:00
+Sangeetha,N GHOUSE BASHA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 11:58 IST","Jun 01, 2023 11:59 IST",0:00:48,NA,0,NA,Yes,0:00:00
+Sangeetha,jaison suresh,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 01, 2023 11:59 IST","Jun 01, 2023 12:01 IST",0:01:59,NA,0,NA,Yes,0:00:00
+Sangeetha,VIVEK NA,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 01, 2023 12:01 IST","Jun 01, 2023 12:03 IST",0:02:26,0:02:29,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/6382004868-102-51470-2121-2430-9344090298-o-0-010623-120145.wav,Yes,0:00:00
+Sangeetha,JAYA BASKAR TI,Follow-up - Customer Busy,No,No,No,NA,"Jun 01, 2023 12:04 IST","Jun 01, 2023 12:04 IST",0:00:37,0:00:27,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9003075283-102-51470-2121-2430-9344090298-o-0-010623-120412.wav,Yes,0:00:02
+Sangeetha,BALA CHANDRA,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 01, 2023 12:04 IST","Jun 01, 2023 12:05 IST",0:00:59,0:00:47,0,NA,Yes,0:00:21
+Sangeetha,LAKSHMI NARAYANAN,Not interested now -TR Completed in Showroom,No,Yes,No,NA,"Jun 01, 2023 12:05 IST","Jun 01, 2023 12:07 IST",0:01:50,0:01:28,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9994374429-102-51470-2121-2425-9344090298-o-0-010623-120610.wav,Yes,0:00:00
+Sangeetha,CHARLES S,Lost Lead - Not Interested - Already Purchased,No,No,No,NA,"Jun 01, 2023 12:07 IST","Jun 01, 2023 12:08 IST",0:00:45,0:00:39,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9944497096-102-51470-2121-2426-9344090298-o-0-010623-120746.wav,Yes,0:00:00
+Sangeetha,RAMACHANDRA NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 01, 2023 12:08 IST","Jun 01, 2023 12:09 IST",0:00:47,0:00:47,0,NA,Yes,0:00:01
+Sangeetha,HARSGAVARDHA NA,Follow-up - Customer Busy,No,No,No,13 days,"Jun 01, 2023 12:09 IST","Jun 01, 2023 12:12 IST",0:03:05,0:00:51,1,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/6382970066-102-51470-2121-2551-9344090298-o-0-010623-121152.wav,Yes,0:02:06
+Sangeetha,Faruque Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 12:22 IST","Jun 01, 2023 12:24 IST",0:01:21,NA,0,NA,Yes,0:00:00
+Sangeetha,Gowtham Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 12:24 IST","Jun 01, 2023 12:26 IST",0:02:39,NA,2,NA,Yes,0:01:50
+Sangeetha,CHAKKARAVARTHY Null,Follow-up - Customer Busy,No,No,No,13 days,"Jun 01, 2023 12:26 IST","Jun 01, 2023 12:30 IST",0:03:11,0:01:01,1,NA,Yes,0:01:05
+Sangeetha,Ramkunar Null,Interested - Follow-up,No,No,No,3 days,"Jun 01, 2023 12:32 IST","Jun 01, 2023 12:35 IST",0:03:31,0:00:53,1,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9791015827-102-51470-2039-2427-9344090298-o-0-010623-123509.wav,Yes,0:02:33
+Sangeetha,Sathiyamoorthy Null,Interested - Follow-up,No,No,No,NA,"Jun 01, 2023 12:47 IST","Jun 01, 2023 12:56 IST",0:09:17,0:05:54,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/8270296512-102-51470-2039-2548-9344090298-o-0-010623-124750.wav,Yes,0:00:19
+Sangeetha,jagadeesan Null,Follow-up - Customer Busy,No,No,No,NA,"Jun 01, 2023 12:57 IST","Jun 01, 2023 12:57 IST",0:00:20,0:00:22,0,NA,Yes,0:00:00
+Sangeetha,Ankit Null,Follow-up - Customer Busy,No,No,No,NA,"Jun 01, 2023 12:57 IST","Jun 01, 2023 12:58 IST",0:01:08,0:00:20,0,NA,Yes,0:00:01
+Sangeetha,Samual Null,Follow-up - Ringing No Response,No,No,No,NA,"Jun 01, 2023 12:59 IST","Jun 01, 2023 12:59 IST",0:00:42,0:00:54,0,NA,Yes,0:00:01
+Sangeetha,venkatesh Null,Follow-up - Ringing No Response,No,No,No,NA,"Jun 01, 2023 12:59 IST","Jun 01, 2023 13:00 IST",0:00:52,0:00:59,0,NA,Yes,0:00:00
+Sangeetha,Ranjith Null,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 01, 2023 13:00 IST","Jun 01, 2023 13:01 IST",0:00:48,0:00:40,0,NA,Yes,0:00:20
+Sangeetha,Lakshmikanthan Null,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 01, 2023 13:01 IST","Jun 01, 2023 13:02 IST",0:01:12,0:01:05,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9566380887-102-51470-2407-2550-9344090298-o-0-010623-130208.wav,Yes,0:00:00
+Sangeetha,CHRISHYSHER NA,Interested-Pending BOBBER Test Ride,No,No,No,NA,"Jun 01, 2023 13:03 IST","Jun 01, 2023 13:05 IST",0:02:21,0:01:17,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9094514021-102-51470-2374-2550-9344090298-o-0-010623-130327.wav,Yes,0:00:01
+Sangeetha,CHRISHYSHER NA,Interested - TR Scheduled,No,No,No,NA,"Jun 01, 2023 13:06 IST","Jun 01, 2023 13:12 IST",0:06:30,0:02:18,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9094514021-102-51470-2368-2430-9344090298-o-0-010623-130633.wav,Yes,0:00:01
+Sangeetha,SHAM NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 13:13 IST","Jun 01, 2023 13:14 IST",0:00:36,NA,0,NA,Yes,0:00:00
+Sangeetha,DHAKSHANA MOORTHY,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 01, 2023 13:14 IST","Jun 01, 2023 13:15 IST",0:00:35,0:00:47,0,NA,Yes,0:00:00
+Sangeetha,SATHISH NA,Interested - Follow-up,No,No,No,5 days,"Jun 01, 2023 13:15 IST","Jun 01, 2023 13:16 IST",0:01:24,0:01:18,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9884332000-102-51470-2356-2425-9344090298-o-0-010623-131528.wav,Yes,0:00:00
+Sangeetha,UTKARSH RAJ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 13:17 IST","Jun 01, 2023 13:17 IST",0:00:24,NA,0,NA,Yes,0:00:00
+Sangeetha,Kannan Null,Interested - Follow-up,No,No,No,4 months,"Jun 01, 2023 13:17 IST","Jun 01, 2023 13:19 IST",0:01:36,0:01:30,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9500837673-102-51470-2350-2430-9344090298-o-0-010623-131809.wav,Yes,0:00:01
+Sangeetha,Shankar Vaithiyanathan,Interested-Pending BOBBER Test Ride,No,No,No,12 days,"Jun 01, 2023 13:19 IST","Jun 01, 2023 13:21 IST",0:01:57,0:01:24,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9597591791-102-51470-2350-2547-9344090298-o-0-010623-131946.wav,Yes,0:00:00
+Sangeetha,Ramganapathy Null,Interested - Follow-up,No,No,No,NA,"Jun 01, 2023 13:21 IST","Jun 01, 2023 13:27 IST",0:05:39,0:02:20,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9943944499-102-51470-2350-2425-9344090298-o-0-010623-132150.wav,Yes,0:00:00
+Sangeetha,Arshu Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 01, 2023 13:27 IST","Jun 01, 2023 13:27 IST",0:00:18,NA,0,NA,Yes,0:00:00
+Sangeetha,Praveen Null,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 01, 2023 13:27 IST","Jun 01, 2023 13:28 IST",0:00:33,0:00:21,0,NA,Yes,0:00:24
+Sangeetha,NA ASIF,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 01, 2023 13:28 IST","Jun 01, 2023 13:28 IST",0:00:28,NA,0,NA,Yes,0:00:16
+Sangeetha,JAWAAD AHMED GHIAS,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 01, 2023 13:29 IST","Jun 01, 2023 13:29 IST",0:00:09,0:00:23,0,NA,Yes,0:00:00
+Sangeetha,MOHAMEED ASHIK,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 13:29 IST","Jun 01, 2023 13:29 IST",0:00:19,NA,0,NA,Yes,0:00:00
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 01, 2023 13:29 IST","Jun 01, 2023 13:30 IST",0:01:19,0:01:14,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9489911111-102-51470-2328-2426-9344090298-o-0-010623-133005.wav,Yes,0:00:00
+Sangeetha,JAWAAD AHMED GHIAS,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 01, 2023 13:31 IST","Jun 01, 2023 13:31 IST",0:00:45,NA,0,NA,Yes,0:00:27
+Sangeetha,c vishesh,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 01, 2023 13:33 IST","Jun 01, 2023 13:33 IST",0:00:24,NA,0,NA,Yes,0:00:00
+Sangeetha,RAJA NA,Follow-up - Number not Reachable,No,No,No,NA,"Jun 01, 2023 13:33 IST","Jun 01, 2023 13:33 IST",0:00:11,0:00:20,0,NA,Yes,0:00:00
+Sangeetha,MURUGAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 13:34 IST","Jun 01, 2023 13:34 IST",0:00:17,NA,0,NA,Yes,0:00:00
+Sangeetha,MANIKANDAN NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 01, 2023 13:34 IST","Jun 01, 2023 13:34 IST",0:00:09,NA,0,NA,Yes,0:00:00
+Sangeetha,ladi sailesh kumar,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 01, 2023 13:34 IST","Jun 01, 2023 13:35 IST",0:00:22,NA,0,NA,Yes,0:00:00
+Sangeetha,B JAYAKRISHNAN,Number not belongs to the customer,No,Yes,No,NA,"Jun 01, 2023 13:35 IST","Jun 01, 2023 13:35 IST",0:00:40,0:00:36,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9940199693-102-51470-2304-2551-9344090298-o-0-010623-133518.wav,Yes,0:00:00
+Sangeetha,VIVEK NA,Follow-up - Customer Busy,No,No,No,NA,"Jun 01, 2023 13:36 IST","Jun 01, 2023 13:37 IST",0:01:41,0:00:44,1,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9600688726-102-51470-2304-2551-9344090298-o-0-010623-133708.wav,Yes,0:00:58
+Sangeetha,BALAJI NA,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 01, 2023 13:37 IST","Jun 01, 2023 13:40 IST",0:02:17,0:02:12,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/8968145574-102-51470-2304-2551-9344090298-o-0-010623-133810.wav,Yes,0:00:01
+Sangeetha,RATHISH R,Follow-up - Customer out of station,No,No,No,16 days,"Jun 01, 2023 13:40 IST","Jun 01, 2023 13:41 IST",0:01:36,0:01:34,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/7598523213-102-51470-2304-2430-9344090298-o-0-010623-134035.wav,Yes,0:00:00
+Sangeetha,BALAJI NA,Follow-up - Number not Reachable,No,No,No,NA,"Jun 01, 2023 13:42 IST","Jun 01, 2023 13:42 IST",0:00:44,0:00:24,0,http://103.73.188.156/Recording/Rec1/102/1965/1-6-2023/9566246074-102-51470-2304-2551-9344090298-o-0-010623-134215.wav,Yes,0:00:01
+Sangeetha,serangeevi na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 01, 2023 13:53 IST","Jun 01, 2023 13:55 IST",0:01:54,NA,1,NA,Yes,0:00:58
+Sangeetha,VENKATESH NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 01, 2023 13:56 IST","Jun 01, 2023 13:57 IST",0:01:20,NA,0,NA,Yes,0:00:24
+Sangeetha,Sathiyamoorthy Null,Interested - TR Scheduled,No,No,No,NA,"Jun 01, 2023 13:59 IST","Jun 01, 2023 14:04 IST",0:05:36,0:00:03,0,NA,Yes,0:00:01
+Sangeetha,selva kumar,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 01, 2023 14:05 IST","Jun 01, 2023 14:05 IST",0:00:23,NA,0,NA,Yes,0:00:00
+Sangeetha,Manoj,Follow-up - Customer out of station,No,No,No,10 days,"Jun 02, 2023 09:48 IST","Jun 02, 2023 09:49 IST",0:01:14,0:01:02,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/8428713093-102-51501-2400-2551-9344090298-o-0-020623-094843.wav,Yes,0:00:00
+Sangeetha,Mani,Follow-up - Ringing No Response,No,No,No,NA,"Jun 02, 2023 09:49 IST","Jun 02, 2023 09:50 IST",0:00:49,0:00:59,0,NA,Yes,0:00:01
+Sangeetha,Karthi,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 09:50 IST","Jun 02, 2023 10:02 IST",0:11:33,NA,0,NA,Yes,0:00:01
+Sangeetha,Vijayaraj Balakrishnan NA,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 02, 2023 10:04 IST","Jun 02, 2023 10:07 IST",0:03:37,0:00:25,1,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/8973125029-102-51501-2400-2430-9344090298-o-0-020623-100708.wav,Yes,0:02:48
+Sangeetha,Kartik N,Interested - TR Scheduled,No,No,No,NA,"Jun 02, 2023 10:07 IST","Jun 02, 2023 10:14 IST",0:06:45,0:03:03,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/8610021326-102-51501-2400-2430-9344090298-o-0-020623-100819.wav,Yes,0:00:00
+Sangeetha,VEERIAH,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 10:22 IST","Jun 02, 2023 10:29 IST",0:06:55,NA,0,NA,Yes,0:00:00
+Sangeetha,SRINIVASAN ,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 02, 2023 10:31 IST","Jun 02, 2023 10:32 IST",0:00:53,0:00:44,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9444727847-102-51501-2369-2430-9344090298-o-0-020623-103200.wav,Yes,0:00:00
+Sangeetha,PRITHVI RAMKUMAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 10:32 IST","Jun 02, 2023 10:35 IST",0:02:36,NA,0,NA,Yes,0:00:00
+Sangeetha,PRITHVI RAMKUMAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 10:51 IST","Jun 02, 2023 10:52 IST",0:00:26,NA,0,NA,Yes,0:00:00
+Sangeetha,Mohammed Null,Lost Lead - Not Interested - No plans to purchase now,No,Yes,No,NA,"Jun 02, 2023 10:52 IST","Jun 02, 2023 10:53 IST",0:00:47,0:00:44,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9884064553-102-51501-2302-2425-9344090298-o-0-020623-105244.wav,Yes,0:00:00
+Sangeetha,Vineet Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 02, 2023 10:53 IST","Jun 02, 2023 10:53 IST",0:00:19,NA,0,NA,Yes,0:00:00
+Sangeetha,Rajganesh Rganesh,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 10:53 IST","Jun 02, 2023 10:58 IST",0:04:15,NA,0,NA,Yes,0:00:00
+Sangeetha,Pradeep NA ,Interested - Follow-up,No,No,No,7 days,"Jun 02, 2023 10:58 IST","Jun 02, 2023 11:00 IST",0:01:59,0:01:38,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/7708631165-102-51501-2299-2430-9344090298-o-0-020623-105911.wav,Yes,0:00:01
+Sangeetha,CHAKKARAVARTHY Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 11:01 IST","Jun 02, 2023 11:01 IST",0:00:30,NA,0,NA,Yes,0:00:00
+Sangeetha,JIHIN JOHNY,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 11:01 IST","Jun 02, 2023 11:05 IST",0:04:10,NA,0,NA,Yes,0:00:00
+Sangeetha,HARSGAVARDHA NA,Interested - Follow-up,No,No,No,3 days,"Jun 02, 2023 11:06 IST","Jun 02, 2023 11:07 IST",0:01:36,0:01:23,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/6382970066-102-51501-2299-2551-9344090298-o-0-020623-110622.wav,Yes,0:00:00
+Sangeetha,Faruque Null,Follow-up - Language Barrier,No,Yes,No,NA,"Jun 02, 2023 11:08 IST","Jun 02, 2023 11:09 IST",0:00:43,0:00:44,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9707424122-102-51501-2299-2551-9344090298-o-0-020623-110847.wav,Yes,0:00:00
+Sangeetha,Gowtham Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 11:09 IST","Jun 02, 2023 11:12 IST",0:02:57,NA,0,NA,Yes,0:00:00
+Sangeetha,CHAKKARAVARTHY Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 11:12 IST","Jun 02, 2023 11:13 IST",0:01:37,NA,0,NA,Yes,0:00:00
+Sangeetha,jagadeesan Null,Interested - Customer will visit showroom,No,No,No,18 days,"Jun 02, 2023 11:14 IST","Jun 02, 2023 11:16 IST",0:01:58,0:01:10,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9791517834-102-51501-2299-2427-9344090298-o-0-020623-111442.wav,Yes,0:00:19
+Sangeetha,Ankit Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 11:16 IST","Jun 02, 2023 11:21 IST",0:05:05,NA,0,NA,Yes,0:00:00
+Sangeetha,Samual Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 11:23 IST","Jun 02, 2023 11:24 IST",0:00:23,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/6003292217-102-51501-2299-2430-9344090298-o-0-020623-112352.wav,Yes,0:00:00
+Sangeetha,venkatesh Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 11:24 IST","Jun 02, 2023 11:27 IST",0:02:52,NA,0,NA,Yes,0:00:27
+Sangeetha,Ranjith Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 11:27 IST","Jun 02, 2023 11:28 IST",0:01:09,NA,0,NA,Yes,0:00:00
+Sangeetha,JIHIN JOHNY,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 02, 2023 11:28 IST","Jun 02, 2023 11:28 IST",0:00:17,NA,0,NA,Yes,0:00:00
+Sangeetha,SHAM NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 11:29 IST","Jun 02, 2023 11:35 IST",0:06:21,NA,0,NA,Yes,0:00:00
+Sangeetha,DHAKSHANA MOORTHY,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 02, 2023 11:35 IST","Jun 02, 2023 11:36 IST",0:00:39,0:00:47,0,NA,Yes,0:00:00
+Sangeetha,UTKARSH RAJ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 11:41 IST","Jun 02, 2023 11:44 IST",0:03:28,NA,0,NA,Yes,0:00:00
+Sangeetha,Arshu Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 02, 2023 11:45 IST","Jun 02, 2023 11:54 IST",0:08:34,NA,0,NA,Yes,0:00:01
+Sangeetha,Praveen Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 11:54 IST","Jun 02, 2023 11:56 IST",0:02:02,NA,0,NA,Yes,0:00:00
+Sangeetha,NA ASIF,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 11:56 IST","Jun 02, 2023 11:58 IST",0:02:06,NA,0,NA,Yes,0:00:00
+Sangeetha,JAWAAD AHMED GHIAS,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 02, 2023 11:58 IST","Jun 02, 2023 12:03 IST",0:04:34,NA,0,NA,Yes,0:00:00
+Sangeetha,MOHAMEED ASHIK,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 02, 2023 12:03 IST","Jun 02, 2023 12:04 IST",0:00:25,NA,0,NA,Yes,0:00:00
+Sangeetha,c vishesh,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 12:04 IST","Jun 02, 2023 12:06 IST",0:02:10,NA,0,NA,Yes,0:00:28
+Sangeetha,RAJA NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 12:06 IST","Jun 02, 2023 12:07 IST",0:00:37,NA,0,NA,Yes,0:00:00
+Sangeetha,MURUGAN NA,Lost Lead - Not Interested - Dissatisfied with the model after Test Ride,No,Yes,No,NA,"Jun 02, 2023 12:07 IST","Jun 02, 2023 12:09 IST",0:01:08,0:01:12,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/6374557414-102-51501-2151-2427-9344090298-o-0-020623-120805.wav,Yes,0:00:01
+Sangeetha,MANIKANDAN NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 12:09 IST","Jun 02, 2023 12:09 IST",0:00:13,NA,0,NA,Yes,0:00:00
+Sangeetha,ladi sailesh kumar,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 12:09 IST","Jun 02, 2023 12:12 IST",0:02:23,NA,0,NA,Yes,0:00:20
+Sangeetha,VIVEK NA,Lost Lead - Not Interested - No plans to purchase now,No,Yes,No,NA,"Jun 02, 2023 12:12 IST","Jun 02, 2023 12:14 IST",0:01:27,0:14:03,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9600688726-102-51501-2151-2547-9344090298-o-0-020623-121311.wav,Yes,0:00:00
+Sangeetha,SHAFI NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 12:14 IST","Jun 02, 2023 12:17 IST",0:02:49,NA,0,NA,Yes,0:00:00
+Sangeetha,MATHI NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 02, 2023 12:17 IST","Jun 02, 2023 12:18 IST",0:01:04,NA,0,NA,Yes,0:00:00
+Sangeetha,BALAJI NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 12:18 IST","Jun 02, 2023 12:22 IST",0:03:22,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9566246074-102-51501-2151-2550-9344090298-o-0-020623-121925.wav,Yes,0:00:25
+Sangeetha,serangeevi na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 12:24 IST","Jun 02, 2023 12:26 IST",0:02:52,NA,0,NA,Yes,0:00:27
+Sangeetha,VENKATESH NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 12:27 IST","Jun 02, 2023 12:32 IST",0:05:09,NA,0,NA,Yes,0:00:01
+Sangeetha,BHARATH NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 12:32 IST","Jun 02, 2023 12:35 IST",0:02:42,NA,0,NA,Yes,0:00:00
+Sangeetha,NA SIVADHARSHINI,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 02, 2023 12:35 IST","Jun 02, 2023 12:36 IST",0:01:14,NA,0,NA,Yes,0:00:26
+Sangeetha,BHARATH NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 12:36 IST","Jun 02, 2023 12:39 IST",0:02:13,NA,1,NA,Yes,0:01:11
+Sangeetha,NA SIVADHARSHINI,Dropped Lead: Customer not in Chennai,No,Yes,No,NA,"Jun 02, 2023 12:39 IST","Jun 02, 2023 12:40 IST",0:01:42,0:01:17,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9003964213-102-51501-2061-2548-9344090298-o-0-020623-123959.wav,Yes,0:00:23
+Sangeetha,SUNDAR KARTHIKEYAN,Interested - Follow-up,No,No,No,10 days,"Jun 02, 2023 12:41 IST","Jun 02, 2023 12:43 IST",0:02:00,0:01:15,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/8610502087-102-51501-2061-2430-9344090298-o-0-020623-124136.wav,Yes,0:00:24
+Sangeetha,serangeevi na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 13:01 IST","Jun 02, 2023 13:02 IST",0:01:07,NA,1,NA,Yes,0:00:48
+Sangeetha,VENKATESH NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 13:02 IST","Jun 02, 2023 13:02 IST",0:00:15,NA,0,NA,Yes,0:00:01
+Sangeetha,JAIKARTHIK S,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 02, 2023 13:03 IST","Jun 02, 2023 13:03 IST",0:00:19,0:00:29,0,NA,Yes,0:00:01
+Sangeetha,SINGA DHEENA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 13:03 IST","Jun 02, 2023 13:04 IST",0:00:22,NA,0,NA,Yes,0:00:00
+Sangeetha,SHYAM SUNDAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 13:04 IST","Jun 02, 2023 13:10 IST",0:06:04,NA,0,NA,Yes,0:00:20
+Sangeetha,NA BARATH,Postponed the purchase- TR Completed in showroom,No,No,No,15 days,"Jun 02, 2023 13:10 IST","Jun 02, 2023 13:11 IST",0:01:10,0:01:02,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9677180980-102-51501-2409-2425-9344090298-o-0-020623-131046.wav,Yes,0:00:00
+Sangeetha,ALBERT NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 02, 2023 13:11 IST","Jun 02, 2023 13:12 IST",0:00:37,0:00:59,0,NA,Yes,0:00:01
+Sangeetha,PREMKUMAR NA,Follow-up - Customer Busy,No,No,No,NA,"Jun 02, 2023 13:12 IST","Jun 02, 2023 13:12 IST",0:00:10,0:00:50,0,NA,Yes,0:00:00
+Sangeetha,HARI PRASHANA R,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 13:12 IST","Jun 02, 2023 13:13 IST",0:00:55,NA,0,NA,Yes,0:00:01
+Sangeetha,SHIVAM MALANI,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 02, 2023 13:13 IST","Jun 02, 2023 13:15 IST",0:01:39,NA,1,NA,Yes,0:01:01
+Sangeetha,SATHISH KUMART,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 02, 2023 13:15 IST","Jun 02, 2023 13:17 IST",0:01:39,NA,1,NA,Yes,0:01:23
+Sangeetha,MADHAN KUMAR,Postponed the purchase- TR Completed in showroom,No,No,No,NA,"Jun 02, 2023 13:17 IST","Jun 02, 2023 13:18 IST",0:00:56,0:00:51,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/8807773979-102-51501-2383-2426-9344090298-o-0-020623-131739.wav,Yes,0:00:01
+Sangeetha,SARAVANAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 13:18 IST","Jun 02, 2023 13:21 IST",0:02:55,NA,1,NA,Yes,0:01:17
+Sangeetha,LOKESH NA,Follow-up - Customer out of station,No,No,No,16 days,"Jun 02, 2023 13:21 IST","Jun 02, 2023 13:22 IST",0:01:13,0:01:12,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9003114187-102-51501-2383-2427-9344090298-o-0-020623-132153.wav,Yes,0:00:00
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 02, 2023 13:22 IST","Jun 02, 2023 13:26 IST",0:03:12,0:00:32,1,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9489911111-102-51501-2383-2546-9344090298-o-0-020623-132556.wav,Yes,0:02:40
+Sangeetha,HAEIGARAN NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 02, 2023 13:26 IST","Jun 02, 2023 13:27 IST",0:00:45,0:00:54,0,NA,Yes,0:00:01
+Sangeetha,NAVEENTHAN  NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 02, 2023 13:27 IST","Jun 02, 2023 13:29 IST",0:01:21,NA,0,NA,Yes,0:00:00
+Sangeetha,VIJAY CHAMUNDI,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 13:29 IST","Jun 02, 2023 13:30 IST",0:01:18,NA,0,NA,Yes,0:00:01
+Sangeetha,AMARNATH NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 02, 2023 13:30 IST","Jun 02, 2023 13:31 IST",0:00:15,NA,0,NA,Yes,0:00:00
+Sangeetha,saran na,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 02, 2023 13:31 IST","Jun 02, 2023 13:33 IST",0:01:58,0:02:02,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/8124340511-102-51501-2383-2427-9344090298-o-0-020623-133205.wav,Yes,0:00:00
+Sangeetha,KIRUTHIC KAILUSH A,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 13:33 IST","Jun 02, 2023 13:35 IST",0:01:29,NA,1,NA,Yes,0:00:40
+Sangeetha,RAJ KUMAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 13:44 IST","Jun 02, 2023 13:45 IST",0:00:52,NA,0,NA,Yes,0:00:00
+Sangeetha,BASHEER ABDUL HAFIZ T,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 13:48 IST","Jun 02, 2023 13:49 IST",0:01:17,NA,0,NA,Yes,0:00:01
+Sangeetha,ARUN KUMAR,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 02, 2023 13:49 IST","Jun 02, 2023 13:51 IST",0:02:16,0:01:31,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9176995900-102-51501-2354-2551-9344090298-o-0-020623-135018.wav,Yes,0:00:24
+Sangeetha,Jay NA,Lost Lead - Not Interested - Dissatisfied with the model after Test Ride,No,Yes,No,NA,"Jun 02, 2023 13:52 IST","Jun 02, 2023 13:53 IST",0:01:21,0:01:22,0,http://103.73.188.156/Recording/Rec1/102/1965/2-6-2023/9840566525-102-51501-2354-2551-9344090298-o-0-020623-135221.wav,Yes,0:00:00
+Sangeetha,VIJAYSHAKAR K,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 13:57 IST","Jun 02, 2023 13:57 IST",0:00:47,NA,0,NA,Yes,0:00:00
+Sangeetha,THILAK na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 02, 2023 13:58 IST","Jun 02, 2023 14:03 IST",0:05:11,NA,0,NA,Yes,0:00:00
+Sangeetha,SATHISH KUMAR,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 03, 2023 09:35 IST","Jun 03, 2023 09:39 IST",0:04:05,NA,0,NA,Yes,0:00:00
+Sangeetha,RAJ KUMAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 09:51 IST","Jun 03, 2023 09:59 IST",0:08:52,NA,0,NA,Yes,0:00:01
+Sangeetha,BASHEER ABDUL HAFIZ T,Lost Lead - Not Interested - No plans to purchase now,No,No,No,NA,"Jun 03, 2023 10:00 IST","Jun 03, 2023 10:01 IST",0:01:52,0:01:20,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/9962200015-102-51530-2388-2551-9344090298-o-0-030623-100038.wav,Yes,0:00:20
+Sangeetha,VIJAYSHAKAR K,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 10:02 IST","Jun 03, 2023 10:08 IST",0:05:57,NA,0,NA,Yes,0:00:01
+Sangeetha,DINAKARAN NA,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 03, 2023 10:08 IST","Jun 03, 2023 10:08 IST",0:00:40,0:00:39,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/8778944791-102-51530-2366-2427-9344090298-o-0-030623-100819.wav,Yes,0:00:00
+Sangeetha,STALIN NA,Follow-up - Customer Busy,No,No,No,NA,"Jun 03, 2023 10:08 IST","Jun 03, 2023 10:10 IST",0:01:13,0:01:04,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/8610037909-102-51530-2366-2551-9344090298-o-0-030623-100925.wav,Yes,0:00:00
+Sangeetha,ARYA DUTTA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 10:10 IST","Jun 03, 2023 10:12 IST",0:02:21,NA,0,NA,Yes,0:00:01
+Sangeetha,SILAMBARASAN NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 03, 2023 10:12 IST","Jun 03, 2023 10:19 IST",0:07:09,NA,0,NA,Yes,0:00:00
+Sangeetha,PRATHASH NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 03, 2023 10:20 IST","Jun 03, 2023 10:22 IST",0:01:59,NA,0,NA,Yes,0:00:00
+Sangeetha,m nagenthiram,Follow-up - Ringing No Response,No,No,No,NA,"Jun 03, 2023 10:22 IST","Jun 03, 2023 10:22 IST",0:00:45,0:00:58,0,NA,Yes,0:00:00
+Sangeetha,RAMAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 10:23 IST","Jun 03, 2023 10:27 IST",0:04:09,NA,0,NA,Yes,0:00:00
+Sangeetha,prashanth b,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 10:27 IST","Jun 03, 2023 10:29 IST",0:02:12,NA,0,NA,Yes,0:00:01
+Sangeetha,SATHISH NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 03, 2023 10:29 IST","Jun 03, 2023 10:31 IST",0:02:22,NA,0,NA,Yes,0:00:01
+Sangeetha,KULOTHUNGAN NA,Follow-up - Number switched off,No,No,No,NA,"Jun 03, 2023 10:32 IST","Jun 03, 2023 10:32 IST",0:00:14,0:00:24,0,NA,Yes,0:00:00
+Sangeetha,N GHOUSE BASHA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 10:32 IST","Jun 03, 2023 10:37 IST",0:05:23,NA,0,NA,Yes,0:00:00
+Sangeetha,jaison suresh,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 03, 2023 10:37 IST","Jun 03, 2023 10:39 IST",0:01:42,NA,0,NA,Yes,0:00:23
+Sangeetha,JAYA BASKAR TI,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 10:39 IST","Jun 03, 2023 10:42 IST",0:02:42,NA,0,NA,Yes,0:00:00
+Sangeetha,BALA CHANDRA,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 03, 2023 10:42 IST","Jun 03, 2023 10:42 IST",0:00:26,0:00:37,0,NA,Yes,0:00:01
+Sangeetha,RAMACHANDRA NA,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 03, 2023 10:43 IST","Jun 03, 2023 10:44 IST",0:01:03,0:00:54,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/9663580945-102-51530-2366-2426-9344090298-o-0-030623-104313.wav,Yes,0:00:00
+Sangeetha,naveen kumar,Follow-up - Ringing No Response,No,No,No,NA,"Jun 03, 2023 10:44 IST","Jun 03, 2023 10:44 IST",0:00:34,0:00:50,0,NA,Yes,0:00:00
+Sangeetha,selva kumar,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 03, 2023 10:45 IST","Jun 03, 2023 10:46 IST",0:01:09,NA,0,NA,Yes,0:00:00
+Sangeetha,STALIN NA,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 03, 2023 10:56 IST","Jun 03, 2023 10:56 IST",0:00:39,0:00:37,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/8610037909-102-51530-2366-2430-9344090298-o-0-030623-105624.wav,Yes,0:00:00
+Sangeetha,Gowtham Null,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 03, 2023 10:57 IST","Jun 03, 2023 10:58 IST",0:00:44,0:00:36,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/8056640454-102-51530-2366-2547-9344090298-o-0-030623-105746.wav,Yes,0:00:01
+Sangeetha,CHAKKARAVARTHY Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 03, 2023 11:13 IST","Jun 03, 2023 11:14 IST",0:01:21,NA,0,NA,Yes,0:00:00
+Sangeetha,Ankit Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 03, 2023 11:14 IST","Jun 03, 2023 11:18 IST",0:03:41,NA,0,NA,Yes,0:00:00
+Sangeetha,Samual Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 03, 2023 11:18 IST","Jun 03, 2023 11:22 IST",0:04:11,NA,0,NA,Yes,0:00:01
+Sangeetha,venkatesh Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 03, 2023 11:22 IST","Jun 03, 2023 11:22 IST",0:00:24,NA,0,NA,Yes,0:00:00
+Sangeetha,Ranjith Null,Follow-up - Ringing No Response,No,No,No,NA,"Jun 03, 2023 11:23 IST","Jun 03, 2023 11:23 IST",0:00:39,0:00:46,0,NA,Yes,0:00:00
+Sangeetha,JIHIN JOHNY,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 03, 2023 11:23 IST","Jun 03, 2023 11:26 IST",0:02:34,NA,0,NA,Yes,0:00:00
+Sangeetha,SHAM NA,Follow-up - Number not Reachable,No,No,No,NA,"Jun 03, 2023 11:26 IST","Jun 03, 2023 11:26 IST",0:00:27,0:00:13,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/9445686072-102-51530-2180-2430-9344090298-o-0-030623-112636.wav,Yes,0:00:00
+Sangeetha,SHAM NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 03, 2023 11:26 IST","Jun 03, 2023 11:27 IST",0:00:32,NA,0,NA,Yes,0:00:00
+Sangeetha,DHAKSHANA MOORTHY,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 03, 2023 11:27 IST","Jun 03, 2023 11:28 IST",0:00:25,0:00:31,0,NA,Yes,0:00:00
+Sangeetha,UTKARSH RAJ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 11:30 IST","Jun 03, 2023 11:31 IST",0:01:11,NA,0,NA,Yes,0:00:01
+Sangeetha,VENKATESH NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 03, 2023 11:45 IST","Jun 03, 2023 11:46 IST",0:01:04,NA,0,NA,Yes,0:00:00
+Sangeetha,BHARATH NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 11:46 IST","Jun 03, 2023 11:47 IST",0:00:23,NA,0,NA,Yes,0:00:00
+Sangeetha,JAIKARTHIK S,Follow-up - Ringing No Response,No,No,No,NA,"Jun 03, 2023 11:49 IST","Jun 03, 2023 11:50 IST",0:00:50,0:00:58,0,NA,Yes,0:00:00
+Sangeetha,SINGA DHEENA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 03, 2023 11:50 IST","Jun 03, 2023 11:51 IST",0:00:51,NA,0,NA,Yes,0:00:30
+Sangeetha,SHYAM SUNDAR,Follow-up - Number not Reachable,No,No,No,NA,"Jun 03, 2023 11:51 IST","Jun 03, 2023 11:51 IST",0:00:26,0:00:11,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/9940353634-102-51530-2102-2547-9344090298-o-0-030623-115138.wav,Yes,0:00:00
+Sangeetha,SHYAM SUNDAR,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 03, 2023 11:52 IST","Jun 03, 2023 11:52 IST",0:00:44,0:00:15,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/9940353634-102-51530-2102-2427-9344090298-o-0-030623-115231.wav,Yes,0:00:23
+Sangeetha,BALAJI NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 11:56 IST","Jun 03, 2023 12:03 IST",0:07:21,NA,0,NA,Yes,0:00:01
+Sangeetha,BALAJI NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 12:08 IST","Jun 03, 2023 12:12 IST",0:03:26,NA,0,NA,Yes,0:00:01
+Sangeetha,MATHI NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 12:12 IST","Jun 03, 2023 12:13 IST",0:01:26,NA,0,NA,Yes,0:00:01
+Sangeetha,SHAFI NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 03, 2023 12:13 IST","Jun 03, 2023 12:14 IST",0:01:08,NA,0,NA,Yes,0:00:00
+Sangeetha,ladi sailesh kumar,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 03, 2023 12:14 IST","Jun 03, 2023 12:15 IST",0:00:36,0:00:23,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/8895292193-102-51530-2102-2546-9344090298-o-0-030623-121505.wav,Yes,0:00:00
+Sangeetha,ladi sailesh kumar,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 03, 2023 12:15 IST","Jun 03, 2023 12:15 IST",0:00:21,0:00:27,0,NA,Yes,0:00:01
+Sangeetha,MANIKANDAN NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 03, 2023 12:16 IST","Jun 03, 2023 12:19 IST",0:03:57,NA,0,NA,Yes,0:00:00
+Sangeetha,RAJA NA,Follow-up - Number not Reachable,No,No,No,NA,"Jun 03, 2023 12:24 IST","Jun 03, 2023 12:25 IST",0:00:12,0:00:20,0,NA,Yes,0:00:00
+Sangeetha,c vishesh,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 12:25 IST","Jun 03, 2023 12:31 IST",0:06:01,NA,0,NA,Yes,0:00:00
+Sangeetha,JAWAAD AHMED GHIAS,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 03, 2023 12:31 IST","Jun 03, 2023 12:32 IST",0:01:30,NA,0,NA,Yes,0:00:00
+Sangeetha,NA ASIF,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 12:32 IST","Jun 03, 2023 12:33 IST",0:01:02,NA,0,NA,Yes,0:00:00
+Sangeetha,Praveen Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 03, 2023 12:34 IST","Jun 03, 2023 12:34 IST",0:00:31,NA,0,NA,Yes,0:00:00
+Sangeetha,Arshu Null,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 03, 2023 12:34 IST","Jun 03, 2023 12:35 IST",0:00:51,0:00:32,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/9597776727-102-51530-2102-2545-9344090298-o-0-030623-123459.wav,Yes,0:00:00
+Sangeetha,UTKARSH RAJ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 12:35 IST","Jun 03, 2023 12:38 IST",0:03:04,NA,0,NA,Yes,0:00:00
+Sangeetha,UTKARSH RAJ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 12:39 IST","Jun 03, 2023 12:40 IST",0:01:10,NA,0,NA,Yes,0:00:01
+Sangeetha,DHAKSHANA MOORTHY,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 03, 2023 12:41 IST","Jun 03, 2023 12:43 IST",0:02:00,NA,0,NA,Yes,0:00:00
+Sangeetha,ALBERT NA,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 03, 2023 12:45 IST","Jun 03, 2023 12:45 IST",0:00:39,0:00:24,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/9094457292-102-51530-2102-2422-9344090298-o-0-030623-124542.wav,Yes,0:00:00
+Sangeetha,ALBERT NA,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 03, 2023 12:46 IST","Jun 03, 2023 12:46 IST",0:00:23,0:00:13,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/9094457292-102-51530-2102-2544-9344090298-o-0-030623-124623.wav,Yes,0:00:01
+Sangeetha,ALBERT NA,Follow-up - Customer out of station,No,No,No,10 days,"Jun 03, 2023 12:46 IST","Jun 03, 2023 12:49 IST",0:02:25,0:00:34,1,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/9094457292-102-51530-2102-2421-9344090298-o-0-030623-124837.wav,Yes,0:01:38
+Sangeetha,HARI PRASHANA R,Follow-up - Ringing No Response,No,No,No,NA,"Jun 03, 2023 12:49 IST","Jun 03, 2023 12:49 IST",0:00:35,0:00:45,0,NA,Yes,0:00:00
+Sangeetha,SHIVAM MALANI,Follow-up - Number not Reachable,No,No,No,NA,"Jun 03, 2023 12:50 IST","Jun 03, 2023 12:50 IST",0:00:20,0:00:20,0,NA,Yes,0:00:00
+Sangeetha,SHIVAM MALANI,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 03, 2023 12:50 IST","Jun 03, 2023 12:51 IST",0:01:18,NA,0,NA,Yes,0:00:00
+Sangeetha,SARAVANAN NA,Interested - TR Scheduled,No,No,No,NA,"Jun 03, 2023 13:13 IST","Jun 03, 2023 13:20 IST",0:06:53,0:03:25,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/7358639593-102-51530-2235-2546-9344090298-o-0-030623-131356.wav,Yes,0:00:28
+Sangeetha,SHIVAM MALANI,Follow-up - Number not Reachable,No,No,No,NA,"Jun 03, 2023 13:20 IST","Jun 03, 2023 13:20 IST",0:00:18,0:00:20,0,NA,Yes,0:00:00
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 03, 2023 13:21 IST","Jun 03, 2023 13:22 IST",0:01:02,NA,0,NA,Yes,0:00:01
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 03, 2023 13:23 IST","Jun 03, 2023 13:24 IST",0:01:18,0:00:53,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/9489911111-102-51530-2217-2547-9344090298-o-0-030623-132343.wav,Yes,0:00:22
+Sangeetha,SATHISH KUMART,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 03, 2023 13:28 IST","Jun 03, 2023 13:29 IST",0:00:27,0:00:12,0,NA,Yes,0:00:00
+Sangeetha,HAEIGARAN NA,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 03, 2023 13:29 IST","Jun 03, 2023 13:31 IST",0:01:36,0:01:37,0,http://103.73.188.156/Recording/Rec1/102/1965/3-6-2023/8072245395-102-51530-2203-2425-9344090298-o-0-030623-133000.wav,Yes,0:00:00
+Sangeetha,NAVEENTHAN  NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 03, 2023 13:31 IST","Jun 03, 2023 13:32 IST",0:01:14,NA,0,NA,Yes,0:00:00
+Sangeetha,NAVEENTHAN  NA,Follow-up - Number switched off,No,No,No,NA,"Jun 03, 2023 13:42 IST","Jun 03, 2023 13:43 IST",0:00:17,0:00:31,0,NA,Yes,0:00:00
+Sangeetha,AMARNATH NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 03, 2023 13:43 IST","Jun 03, 2023 13:45 IST",0:02:14,NA,0,NA,Yes,0:00:00
+Sangeetha,KIRUTHIC KAILUSH A,Follow-up - Ringing No Response,No,No,No,NA,"Jun 03, 2023 13:45 IST","Jun 03, 2023 13:46 IST",0:00:39,0:00:51,0,NA,Yes,0:00:01
+Sangeetha,RAJ KUMAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 13:48 IST","Jun 03, 2023 13:48 IST",0:00:21,NA,0,NA,Yes,0:00:00
+Sangeetha,BALA CHANDRA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 13:48 IST","Jun 03, 2023 13:51 IST",0:02:57,NA,0,NA,Yes,0:00:01
+Sangeetha,N GHOUSE BASHA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 03, 2023 13:52 IST","Jun 03, 2023 13:55 IST",0:03:17,NA,0,NA,Yes,0:00:18
+Sangeetha,m nagenthiram,Follow-up - Ringing No Response,No,No,No,NA,"Jun 03, 2023 13:59 IST","Jun 03, 2023 14:01 IST",0:02:00,0:00:49,1,NA,Yes,0:01:30
+Sangeetha,SATHISH NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 03, 2023 14:01 IST","Jun 03, 2023 14:01 IST",0:00:34,NA,0,NA,Yes,0:00:00
+Sangeetha,MAHESH RAM,Follow-up - Customer out of station,No,No,No,16 days,"Jun 05, 2023 09:38 IST","Jun 05, 2023 09:39 IST",0:01:29,0:01:16,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/7708971321-102-51568-2367-2551-9344090298-o-0-050623-093836.wav,Yes,0:00:02
+Sangeetha,Gowtham Null,Follow-up - Ringing No Response,No,No,No,NA,"Jun 05, 2023 09:40 IST","Jun 05, 2023 09:41 IST",0:00:43,0:00:59,0,NA,Yes,0:00:01
+Sangeetha,CHAKKARAVARTHY Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 05, 2023 09:41 IST","Jun 05, 2023 09:42 IST",0:00:51,NA,0,NA,Yes,0:00:04
+Sangeetha,Ankit Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 05, 2023 09:42 IST","Jun 05, 2023 09:43 IST",0:00:51,NA,0,NA,Yes,0:00:00
+Sangeetha,Samual Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 05, 2023 09:43 IST","Jun 05, 2023 09:44 IST",0:00:48,NA,0,NA,Yes,0:00:01
+Sangeetha,venkatesh Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 05, 2023 09:44 IST","Jun 05, 2023 09:49 IST",0:04:48,NA,0,NA,Yes,0:00:28
+Sangeetha,Ranjith Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 09:49 IST","Jun 05, 2023 09:53 IST",0:04:18,NA,0,NA,Yes,0:00:01
+Sangeetha,JIHIN JOHNY,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 09:56 IST","Jun 05, 2023 10:01 IST",0:05:12,NA,0,NA,Yes,0:00:18
+Sangeetha,SHAM NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 05, 2023 10:01 IST","Jun 05, 2023 10:02 IST",0:00:56,0:00:58,0,NA,Yes,0:00:00
+Sangeetha,DHAKSHANA MOORTHY,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 05, 2023 10:02 IST","Jun 05, 2023 10:06 IST",0:03:41,NA,0,NA,Yes,0:00:00
+Sangeetha,UTKARSH RAJ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 10:06 IST","Jun 05, 2023 10:08 IST",0:02:10,NA,0,NA,Yes,0:00:00
+Sangeetha,Arshu Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 05, 2023 10:09 IST","Jun 05, 2023 10:09 IST",0:00:27,NA,0,NA,Yes,0:00:00
+Sangeetha,UTKARSH RAJ,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 05, 2023 10:09 IST","Jun 05, 2023 10:10 IST",0:00:30,0:00:41,0,NA,Yes,0:00:00
+Sangeetha,Praveen Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 05, 2023 10:10 IST","Jun 05, 2023 10:10 IST",0:00:22,NA,0,NA,Yes,0:00:00
+Sangeetha,NA ASIF,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 05, 2023 10:11 IST","Jun 05, 2023 10:13 IST",0:02:24,NA,0,NA,Yes,0:00:00
+Sangeetha,JAWAAD AHMED GHIAS,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 05, 2023 10:20 IST","Jun 05, 2023 10:21 IST",0:01:02,NA,0,NA,Yes,0:00:01
+Sangeetha,MOHAMEED ASHIK,Follow-up - Ringing No Response,No,No,No,NA,"Jun 05, 2023 10:21 IST","Jun 05, 2023 10:22 IST",0:01:04,0:00:51,0,NA,Yes,0:00:28
+Sangeetha,MOHAMEED ASHIK,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 05, 2023 10:33 IST","Jun 05, 2023 10:34 IST",0:01:19,NA,0,NA,Yes,0:00:17
+Sangeetha,JAWAAD AHMED GHIAS,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 10:34 IST","Jun 05, 2023 10:39 IST",0:04:58,NA,0,NA,Yes,0:00:18
+Sangeetha,c vishesh,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 10:39 IST","Jun 05, 2023 10:41 IST",0:02:01,NA,0,NA,Yes,0:00:01
+Sangeetha,RAJA NA,Number does not exists,No,Yes,No,NA,"Jun 05, 2023 10:41 IST","Jun 05, 2023 10:42 IST",0:00:20,0:00:20,0,NA,Yes,0:00:00
+Sangeetha,MANIKANDAN NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 05, 2023 10:42 IST","Jun 05, 2023 10:46 IST",0:04:41,NA,0,NA,Yes,0:00:00
+Sangeetha,ladi sailesh kumar,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 05, 2023 10:46 IST","Jun 05, 2023 10:47 IST",0:00:55,0:00:49,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/8895292193-102-51568-2367-2548-9344090298-o-0-050623-104704.wav,Yes,0:00:00
+Sangeetha,SHAFI NA,Follow-up - Number not Reachable,No,No,No,NA,"Jun 05, 2023 10:47 IST","Jun 05, 2023 10:49 IST",0:01:52,0:00:48,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9962964963-102-51568-2367-2427-9344090298-o-0-050623-104836.wav,Yes,0:00:24
+Sangeetha,SHAFI NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 05, 2023 10:49 IST","Jun 05, 2023 10:51 IST",0:01:44,NA,0,NA,Yes,0:00:00
+Sangeetha,MATHI NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 10:51 IST","Jun 05, 2023 10:53 IST",0:02:18,NA,0,NA,Yes,0:00:20
+Sangeetha,BALAJI NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 10:54 IST","Jun 05, 2023 10:56 IST",0:02:26,NA,0,NA,Yes,0:00:00
+Sangeetha,VENKATESH NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 11:01 IST","Jun 05, 2023 11:06 IST",0:05:23,NA,0,NA,Yes,0:00:00
+Sangeetha,BHARATH NA,Interested - Follow-up,No,No,No,NA,"Jun 05, 2023 11:06 IST","Jun 05, 2023 11:12 IST",0:05:24,0:03:42,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9894706799-102-51568-2296-2426-9344090298-o-0-050623-110729.wav,Yes,0:00:27
+Sangeetha,JAIKARTHIK S,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 11:12 IST","Jun 05, 2023 11:17 IST",0:05:34,NA,1,NA,Yes,0:01:13
+Sangeetha,BALAJI NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 11:20 IST","Jun 05, 2023 11:22 IST",0:02:02,NA,0,NA,Yes,0:00:00
+Sangeetha,PREMKUMAR NA,Not interested now -TR Completed in Showroom,No,Yes,No,NA,"Jun 05, 2023 11:22 IST","Jun 05, 2023 11:23 IST",0:00:59,0:01:03,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9585783502-102-51568-2257-2550-9344090298-o-0-050623-112236.wav,Yes,0:00:00
+Sangeetha,HARI PRASHANA R,Lost Lead - Not Interested - No plans to purchase now,No,Yes,No,NA,"Jun 05, 2023 11:23 IST","Jun 05, 2023 11:24 IST",0:01:05,0:01:03,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9971229227-102-51568-2257-2426-9344090298-o-0-050623-112333.wav,Yes,0:00:00
+Sangeetha,SHIVAM MALANI,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 11:37 IST","Jun 05, 2023 11:40 IST",0:02:32,NA,0,NA,Yes,0:00:00
+Sangeetha,SATHISH KUMART,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 05, 2023 11:49 IST","Jun 05, 2023 11:50 IST",0:00:23,NA,0,NA,Yes,0:00:00
+Sangeetha,NAVEENTHAN  NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 11:50 IST","Jun 05, 2023 11:51 IST",0:01:09,NA,0,NA,Yes,0:00:00
+Sangeetha,VIJAY CHAMUNDI,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 05, 2023 11:51 IST","Jun 05, 2023 11:52 IST",0:01:06,0:00:24,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9962888268-102-51568-2233-2545-9344090298-o-0-050623-115202.wav,Yes,0:00:18
+Sangeetha,VIJAY CHAMUNDI,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 05, 2023 11:52 IST","Jun 05, 2023 11:54 IST",0:01:59,NA,0,NA,Yes,0:00:00
+Sangeetha,AMARNATH NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 05, 2023 11:57 IST","Jun 05, 2023 11:58 IST",0:01:35,NA,0,NA,Yes,0:00:00
+Sangeetha,KIRUTHIC KAILUSH A,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 11:59 IST","Jun 05, 2023 12:02 IST",0:03:00,NA,0,NA,Yes,0:00:01
+Sangeetha,RAJ KUMAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 12:02 IST","Jun 05, 2023 12:04 IST",0:01:53,NA,0,NA,Yes,0:00:01
+Sangeetha,VIJAYSHAKAR K,Not interested now -TR Completed in Showroom,No,Yes,No,NA,"Jun 05, 2023 12:04 IST","Jun 05, 2023 12:05 IST",0:01:25,0:00:49,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9025902509-102-51568-2180-2422-9344090298-o-0-050623-120452.wav,Yes,0:00:29
+Sangeetha,THILAK na,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 05, 2023 12:05 IST","Jun 05, 2023 12:08 IST",0:02:59,NA,0,NA,Yes,0:00:00
+Sangeetha,VEERARAGAVAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 12:08 IST","Jun 05, 2023 12:11 IST",0:02:46,NA,0,NA,Yes,0:00:00
+Sangeetha,VIJAYSHAKAR K,Not interested now -TR Completed in Showroom,No,Yes,No,NA,"Jun 05, 2023 12:25 IST","Jun 05, 2023 12:26 IST",0:00:15,0:00:06,0,NA,Yes,0:00:00
+Sangeetha,ARYA DUTTA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 05, 2023 12:26 IST","Jun 05, 2023 12:31 IST",0:05:46,0:00:54,1,NA,Yes,0:05:05
+Sangeetha,SILAMBARASAN NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 05, 2023 12:32 IST","Jun 05, 2023 12:32 IST",0:00:52,NA,0,NA,Yes,0:00:00
+Sangeetha,PRATHASH NA,Interested - Document Verification,No,Yes,No,NA,"Jun 05, 2023 12:39 IST","Jun 05, 2023 12:42 IST",0:02:17,0:01:38,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/8122139599-102-51568-2090-2547-9344090298-o-0-050623-124016.wav,Yes,0:00:01
+Sangeetha,m nagenthiram,Not interested now -TR Completed in Showroom,No,Yes,No,NA,"Jun 05, 2023 12:42 IST","Jun 05, 2023 12:43 IST",0:01:19,0:00:53,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9962982121-102-51568-2090-2425-9344090298-o-0-050623-124306.wav,Yes,0:00:29
+Sangeetha,RAMAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 12:43 IST","Jun 05, 2023 12:54 IST",0:10:35,NA,0,NA,Yes,0:00:00
+Sangeetha,prashanth b,Follow-up - Customer Busy,No,No,No,NA,"Jun 05, 2023 12:54 IST","Jun 05, 2023 12:55 IST",0:00:33,0:00:40,0,NA,Yes,0:00:01
+Sangeetha,SATHISH NA,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 05, 2023 12:55 IST","Jun 05, 2023 12:55 IST",0:00:35,0:00:52,0,NA,Yes,0:00:00
+Sangeetha,BHARATH NA,Interested - TR Scheduled,No,No,No,NA,"Jun 05, 2023 12:56 IST","Jun 05, 2023 13:06 IST",0:09:54,0:02:02,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9894706799-102-51568-2090-2551-9344090298-o-0-050623-125707.wav,Yes,0:00:01
+Sangeetha,SATHISH NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 13:06 IST","Jun 05, 2023 13:08 IST",0:01:47,NA,0,NA,Yes,0:00:01
+Sangeetha,KULOTHUNGAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 13:08 IST","Jun 05, 2023 13:10 IST",0:01:28,NA,0,NA,Yes,0:00:01
+Sangeetha,N GHOUSE BASHA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 13:10 IST","Jun 05, 2023 13:11 IST",0:01:38,NA,0,NA,Yes,0:00:01
+Sangeetha,jaison suresh,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 13:11 IST","Jun 05, 2023 13:13 IST",0:01:25,NA,0,NA,Yes,0:00:00
+Sangeetha,JAYA BASKAR TI,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 05, 2023 13:13 IST","Jun 05, 2023 13:14 IST",0:00:45,0:00:39,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9003075283-102-51568-2090-2550-9344090298-o-0-050623-131343.wav,Yes,0:00:00
+Sangeetha,BALA CHANDRA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 13:14 IST","Jun 05, 2023 13:16 IST",0:01:50,NA,0,NA,Yes,0:00:00
+Sangeetha,naveen kumar,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 13:16 IST","Jun 05, 2023 13:18 IST",0:02:06,NA,0,NA,Yes,0:00:00
+Sangeetha,selva kumar,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 05, 2023 13:18 IST","Jun 05, 2023 13:21 IST",0:03:11,NA,1,NA,Yes,0:02:02
+Sangeetha,Manoj,Follow-up - Customer disconnecting call,No,No,No,9 days,"Jun 05, 2023 13:22 IST","Jun 05, 2023 13:22 IST",0:00:23,0:00:26,0,NA,Yes,0:00:00
+Sangeetha,LAKESH B,Interested - Test Ride completed in showroom,No,No,No,NA,"Jun 05, 2023 13:23 IST","Jun 05, 2023 13:24 IST",0:01:28,0:01:12,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/8610714962-102-51568-2090-2551-9344090298-o-0-050623-132330.wav,Yes,0:00:01
+Sangeetha,Asif Null,Follow-up - Customer Busy,Yes,No,No,9 days,"Jun 05, 2023 13:25 IST","Jun 05, 2023 13:25 IST",0:00:27,NA,0,NA,Yes,0:00:00
+Sangeetha,Senthilkumar Rajamanikam,Follow-up - Customer out of station,No,No,No,3 days,"Jun 05, 2023 13:26 IST","Jun 05, 2023 13:28 IST",0:01:53,0:01:51,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9003345556-102-51568-2428-2426-9344090298-o-0-050623-132642.wav,Yes,0:00:01
+Sangeetha,Shankar Vaithiyanathan,Follow-up - Customer out of station,No,No,No,6 days,"Jun 05, 2023 13:28 IST","Jun 05, 2023 13:32 IST",0:03:53,0:00:58,1,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9597591791-102-51568-2428-2425-9344090298-o-0-050623-133127.wav,Yes,0:02:39
+Sangeetha,NAVANEETHAN G,Follow-up - Ringing No Response,Yes,No,No,9 days,"Jun 05, 2023 13:32 IST","Jun 05, 2023 13:34 IST",0:01:20,NA,0,NA,Yes,0:00:01
+Sangeetha,ALBERT NA,Follow-up - Ringing No Response,No,No,No,9 days,"Jun 05, 2023 13:34 IST","Jun 05, 2023 13:35 IST",0:01:17,0:00:59,0,NA,Yes,0:00:22
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 05, 2023 13:35 IST","Jun 05, 2023 13:37 IST",0:01:36,NA,0,NA,Yes,0:00:00
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 05, 2023 13:39 IST","Jun 05, 2023 13:39 IST",0:00:24,0:00:23,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9489911111-102-51568-2428-2550-9344090298-o-0-050623-133940.wav,Yes,0:00:00
+Sangeetha,Vivekanandan NA,Interested - TR Scheduled,No,No,No,NA,"Jun 05, 2023 13:40 IST","Jun 05, 2023 13:46 IST",0:05:32,0:03:18,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/7708451780-102-51568-2428-2548-9344090298-o-0-050623-134044.wav,Yes,0:00:00
+Sangeetha,Hemu,Follow-up - Number switched off,Yes,No,No,NA,"Jun 05, 2023 13:47 IST","Jun 05, 2023 13:47 IST",0:00:26,NA,0,NA,Yes,0:00:00
+Sangeetha,Mohammed,Follow-up - Number switched off,Yes,No,No,NA,"Jun 05, 2023 13:47 IST","Jun 05, 2023 13:48 IST",0:00:36,NA,0,NA,Yes,0:00:01
+Sangeetha,Anandhan A,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 05, 2023 13:48 IST","Jun 05, 2023 13:49 IST",0:00:56,0:00:44,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/8124719045-102-51568-2428-2551-9344090298-o-0-050623-134840.wav,Yes,0:00:00
+Sangeetha,Pavithra,Not interested now -TR Completed in Showroom,No,Yes,No,NA,"Jun 05, 2023 13:49 IST","Jun 05, 2023 13:51 IST",0:01:35,0:01:32,0,http://103.73.188.156/Recording/Rec1/102/1965/5-6-2023/9791034802-102-51568-2428-2430-9344090298-o-0-050623-135015.wav,Yes,0:00:01
+Sangeetha,AMARNATH NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 05, 2023 13:57 IST","Jun 05, 2023 13:59 IST",0:01:59,NA,0,NA,Yes,0:00:00
+Sangeetha,Andrew Michael NA ,Follow-up - Number switched off,Yes,No,No,NA,"Jun 05, 2023 13:59 IST","Jun 05, 2023 14:04 IST",0:05:11,NA,0,NA,Yes,0:00:00
+Sangeetha,RAJA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 05, 2023 14:04 IST","Jun 05, 2023 14:05 IST",0:00:27,NA,0,NA,Yes,0:00:01
+Sangeetha,Gowtham Null,Lost Lead - Not Interested - Just Inquired,No,Yes,No,NA,"Jun 06, 2023 09:35 IST","Jun 06, 2023 09:37 IST",0:01:16,0:01:14,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/8056640454-102-51599-2344-2551-9344090298-o-0-060623-093617.wav,Yes,0:00:00
+Sangeetha,CHAKKARAVARTHY Null,Follow-up - Number not Reachable,No,No,No,NA,"Jun 06, 2023 09:37 IST","Jun 06, 2023 09:37 IST",0:00:40,0:01:01,0,NA,Yes,0:00:00
+Sangeetha,Ankit Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 06, 2023 09:38 IST","Jun 06, 2023 09:42 IST",0:04:41,NA,0,NA,Yes,0:00:00
+Sangeetha,Samual Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 09:43 IST","Jun 06, 2023 09:48 IST",0:05:25,NA,0,NA,Yes,0:00:00
+Sangeetha,venkatesh Null,Interested - TR Scheduled,No,No,No,NA,"Jun 06, 2023 09:48 IST","Jun 06, 2023 09:57 IST",0:08:20,0:04:01,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/9841011699-102-51599-2344-2551-9344090298-o-0-060623-094856.wav,Yes,0:00:00
+Sangeetha,Ranjith Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 09:57 IST","Jun 06, 2023 10:00 IST",0:02:59,NA,0,NA,Yes,0:00:00
+Sangeetha,JIHIN JOHNY,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 10:03 IST","Jun 06, 2023 10:06 IST",0:03:30,NA,0,NA,Yes,0:00:23
+Sangeetha,JIHIN JOHNY,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 10:11 IST","Jun 06, 2023 10:15 IST",0:03:44,NA,0,NA,Yes,0:00:00
+Sangeetha,SHAM NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 10:15 IST","Jun 06, 2023 10:21 IST",0:05:51,NA,0,NA,Yes,0:00:00
+Sangeetha,DHAKSHANA MOORTHY,Follow-up - Number not Reachable,No,No,No,NA,"Jun 06, 2023 10:21 IST","Jun 06, 2023 10:22 IST",0:01:04,0:00:11,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/9087386370-102-51599-2312-2550-9344090298-o-0-060623-102138.wav,Yes,0:00:25
+Sangeetha,DHAKSHANA MOORTHY,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 10:22 IST","Jun 06, 2023 10:29 IST",0:06:47,NA,1,NA,Yes,0:01:47
+Sangeetha,UTKARSH RAJ,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 10:29 IST","Jun 06, 2023 10:30 IST",0:01:01,NA,0,NA,Yes,0:00:00
+Sangeetha,parthiban na,Lost Lead - Invalid contact number,No,Yes,No,NA,"Jun 06, 2023 10:33 IST","Jun 06, 2023 10:34 IST",0:00:41,0:00:20,0,NA,Yes,0:00:00
+Sangeetha,Ramganapathy Null,Follow-up - Customer out of station,No,No,No,6 days,"Jun 06, 2023 10:34 IST","Jun 06, 2023 10:36 IST",0:01:55,0:01:17,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/9943944499-102-51599-2288-2548-9344090298-o-0-060623-103449.wav,Yes,0:00:00
+Sangeetha,Arshu Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 10:36 IST","Jun 06, 2023 10:37 IST",0:00:24,NA,0,NA,Yes,0:00:01
+Sangeetha,Praveen Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 10:40 IST","Jun 06, 2023 10:42 IST",0:01:51,NA,0,NA,Yes,0:00:00
+Sangeetha,NA ASIF,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 06, 2023 10:43 IST","Jun 06, 2023 10:50 IST",0:07:04,NA,0,NA,Yes,0:00:01
+Sangeetha,JAWAAD AHMED GHIAS,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 10:50 IST","Jun 06, 2023 10:51 IST",0:01:41,NA,0,NA,Yes,0:00:01
+Sangeetha,MOHAMEED ASHIK,Follow-up - Ringing No Response,No,No,No,NA,"Jun 06, 2023 10:52 IST","Jun 06, 2023 10:53 IST",0:00:48,0:00:51,0,NA,Yes,0:00:01
+Sangeetha,c vishesh,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 10:53 IST","Jun 06, 2023 10:55 IST",0:01:59,NA,0,NA,Yes,0:00:01
+Sangeetha,RAJA NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 11:02 IST","Jun 06, 2023 11:02 IST",0:00:54,NA,0,NA,Yes,0:00:00
+Sangeetha,NIHAR NA,Number does not exists,No,Yes,No,NA,"Jun 06, 2023 11:08 IST","Jun 06, 2023 11:12 IST",0:04:34,0:00:15,0,NA,Yes,0:00:00
+Sangeetha,MANIKANDAN NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 06, 2023 11:12 IST","Jun 06, 2023 11:15 IST",0:03:01,NA,0,NA,Yes,0:00:00
+Sangeetha,GOWSHKI NA,Lost Lead - Invalid contact number,No,Yes,No,NA,"Jun 06, 2023 11:15 IST","Jun 06, 2023 11:17 IST",0:01:13,0:00:20,0,NA,Yes,0:00:00
+Sangeetha,SHAFI NA,Follow-up - Number not Reachable,No,No,No,NA,"Jun 06, 2023 11:17 IST","Jun 06, 2023 11:18 IST",0:01:14,0:00:57,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/9962964963-102-51599-2269-2547-9344090298-o-0-060623-111748.wav,Yes,0:00:01
+Sangeetha,SHAFI NA,Follow-up - Customer out of station,No,No,No,3 days,"Jun 06, 2023 11:18 IST","Jun 06, 2023 11:22 IST",0:03:49,0:01:47,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/9962964963-102-51599-2160-2430-9344090298-o-0-060623-111907.wav,Yes,0:00:00
+Sangeetha,MATHI NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 11:22 IST","Jun 06, 2023 11:29 IST",0:06:32,NA,0,NA,Yes,0:00:19
+Sangeetha,NAVANEETHAN G,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 11:29 IST","Jun 06, 2023 11:32 IST",0:02:47,NA,0,NA,Yes,0:00:00
+Sangeetha,BALAJI NA,Follow-up - Number not Reachable,No,No,No,NA,"Jun 06, 2023 11:33 IST","Jun 06, 2023 11:34 IST",0:00:58,0:00:34,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/9566246074-102-51599-2149-2548-9344090298-o-0-060623-113334.wav,Yes,0:00:00
+Sangeetha,BALAJI NA,Follow-up - Customer out of station,No,No,No,16 days,"Jun 06, 2023 11:34 IST","Jun 06, 2023 11:36 IST",0:02:25,0:01:13,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/9566246074-102-51599-2122-2546-9344090298-o-0-060623-113424.wav,Yes,0:00:01
+Sangeetha,SHYAM SUNDAR,Follow-up - Ringing No Response,No,No,No,NA,"Jun 06, 2023 11:36 IST","Jun 06, 2023 11:37 IST",0:00:39,0:00:58,0,NA,Yes,0:00:01
+Sangeetha,SINGA DHEENA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 06, 2023 11:37 IST","Jun 06, 2023 11:40 IST",0:02:54,NA,0,NA,Yes,0:00:00
+Sangeetha,JAIKARTHIK S,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 11:40 IST","Jun 06, 2023 11:44 IST",0:03:43,NA,0,NA,Yes,0:00:00
+Sangeetha,JAIKARTHIK S,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 06, 2023 11:47 IST","Jun 06, 2023 11:47 IST",0:00:37,NA,0,NA,Yes,0:00:22
+Sangeetha,SUNDAR KARTHIKEYAN,Interested - Test Ride Completed,No,No,No,NA,"Jun 06, 2023 11:48 IST","Jun 06, 2023 11:49 IST",0:01:47,0:01:08,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/8610502087-102-51599-2104-2547-9344090298-o-0-060623-114835.wav,Yes,0:00:20
+Sangeetha,serangeevi na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 11:50 IST","Jun 06, 2023 11:50 IST",0:00:32,NA,0,NA,Yes,0:00:01
+Sangeetha,serangeevi na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 11:55 IST","Jun 06, 2023 11:56 IST",0:01:27,NA,0,NA,Yes,0:00:00
+Sangeetha,ALBERT NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 11:56 IST","Jun 06, 2023 12:01 IST",0:04:22,NA,0,NA,Yes,0:00:00
+Sangeetha,DEEPAK NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 06, 2023 12:01 IST","Jun 06, 2023 12:02 IST",0:01:30,NA,0,NA,Yes,0:00:00
+Sangeetha,SHIVAM MALANI,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 12:02 IST","Jun 06, 2023 12:04 IST",0:01:13,NA,0,NA,Yes,0:00:00
+Sangeetha,SATHISH KUMART,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 12:04 IST","Jun 06, 2023 12:06 IST",0:01:59,NA,0,NA,Yes,0:00:00
+Sangeetha,NAVEENTHAN  NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 12:06 IST","Jun 06, 2023 12:08 IST",0:02:04,NA,0,NA,Yes,0:00:00
+Sangeetha,VIJAY CHAMUNDI,Number not belongs to the customer,No,Yes,No,NA,"Jun 06, 2023 12:08 IST","Jun 06, 2023 12:09 IST",0:01:17,0:00:43,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/9962888268-102-51599-2099-2545-9344090298-o-0-060623-120902.wav,Yes,0:00:00
+Sangeetha,AMARNATH NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 06, 2023 12:09 IST","Jun 06, 2023 12:10 IST",0:00:37,NA,0,NA,Yes,0:00:00
+Sangeetha,KIRUTHIC KAILUSH A,Follow-up - Ringing No Response,No,No,No,NA,"Jun 06, 2023 12:10 IST","Jun 06, 2023 12:11 IST",0:00:52,0:00:52,0,NA,Yes,0:00:00
+Sangeetha,RAJ KUMAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 12:11 IST","Jun 06, 2023 12:12 IST",0:00:59,NA,0,NA,Yes,0:00:00
+Sangeetha,THILAK na,Follow-up - Ringing No Response,No,No,No,NA,"Jun 06, 2023 12:12 IST","Jun 06, 2023 12:13 IST",0:00:58,0:00:58,0,NA,Yes,0:00:00
+Sangeetha,THILAK na,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 12:18 IST","Jun 06, 2023 12:18 IST",0:00:20,NA,0,NA,Yes,0:00:00
+Sangeetha,VEERARAGAVAN NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 06, 2023 12:36 IST","Jun 06, 2023 12:40 IST",0:04:18,NA,1,NA,Yes,0:02:09
+Sangeetha,ARYA DUTTA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 06, 2023 12:40 IST","Jun 06, 2023 12:43 IST",0:02:53,NA,1,NA,Yes,0:02:23
+Sangeetha,VEERARAGAVAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 12:44 IST","Jun 06, 2023 12:47 IST",0:02:52,NA,0,NA,Yes,0:00:00
+Sangeetha,ARYA DUTTA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 12:47 IST","Jun 06, 2023 12:48 IST",0:01:21,NA,0,NA,Yes,0:00:22
+Sangeetha,SILAMBARASAN NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 12:48 IST","Jun 06, 2023 12:53 IST",0:04:34,NA,0,NA,Yes,0:00:00
+Sangeetha,RAMAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 12:53 IST","Jun 06, 2023 12:54 IST",0:01:24,NA,0,NA,Yes,0:00:00
+Sangeetha,prashanth b,Follow-up - Ringing No Response,No,No,No,NA,"Jun 06, 2023 12:54 IST","Jun 06, 2023 12:55 IST",0:00:44,0:00:52,0,NA,Yes,0:00:00
+Sangeetha,SATHISH NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 12:55 IST","Jun 06, 2023 12:58 IST",0:02:33,NA,0,NA,Yes,0:00:00
+Sangeetha,N GHOUSE BASHA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 12:58 IST","Jun 06, 2023 13:00 IST",0:02:24,NA,0,NA,Yes,0:00:00
+Sangeetha,jaison suresh,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 13:01 IST","Jun 06, 2023 13:05 IST",0:04:19,NA,0,NA,Yes,0:00:21
+Sangeetha,BALA CHANDRA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 06, 2023 13:05 IST","Jun 06, 2023 13:08 IST",0:03:14,NA,0,NA,Yes,0:00:01
+Sangeetha,selva kumar,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 06, 2023 13:11 IST","Jun 06, 2023 13:12 IST",0:01:21,NA,0,NA,Yes,0:00:00
+Sangeetha,naveen kumar,Follow-up - Ringing No Response,No,No,No,NA,"Jun 06, 2023 13:12 IST","Jun 06, 2023 13:13 IST",0:00:40,0:00:51,0,NA,Yes,0:00:00
+Sangeetha,BALA CHANDRA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 06, 2023 13:13 IST","Jun 06, 2023 13:14 IST",0:00:43,0:00:58,0,NA,Yes,0:00:00
+Sangeetha,Manoj,Follow-up - Ringing No Response,No,No,No,NA,"Jun 06, 2023 13:14 IST","Jun 06, 2023 13:15 IST",0:00:48,0:00:51,0,NA,Yes,0:00:01
+Sangeetha,Bala Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 13:15 IST","Jun 06, 2023 13:17 IST",0:01:19,NA,0,NA,Yes,0:00:00
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 06, 2023 13:17 IST","Jun 06, 2023 13:18 IST",0:01:28,0:01:31,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/9489911111-102-51599-2382-2546-9344090298-o-0-060623-131744.wav,Yes,0:00:00
+Sangeetha,Karthik Null,Lost Lead - Not Interested - No plans to purchase now,No,Yes,No,NA,"Jun 06, 2023 13:20 IST","Jun 06, 2023 13:20 IST",0:00:51,0:00:51,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/9884044991-102-51599-2382-2427-9344090298-o-0-060623-132018.wav,Yes,0:00:00
+Sangeetha,Aravind,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 06, 2023 13:21 IST","Jun 06, 2023 13:23 IST",0:01:53,0:00:22,1,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/8754086065-102-51599-2382-2548-9344090298-o-0-060623-132237.wav,Yes,0:01:17
+Sangeetha,Aravind,Follow-up - Customer disconnecting call,No,No,No,8 days,"Jun 06, 2023 13:23 IST","Jun 06, 2023 13:23 IST",0:00:42,0:00:28,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/8754086065-102-51599-2382-2425-9344090298-o-0-060623-132324.wav,Yes,0:00:00
+Sangeetha,Raj,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 13:24 IST","Jun 06, 2023 13:29 IST",0:05:05,NA,0,NA,Yes,0:00:00
+Sangeetha,Santosh,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 06, 2023 13:33 IST","Jun 06, 2023 13:35 IST",0:02:19,NA,1,NA,Yes,0:01:11
+Sangeetha,Bala,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 06, 2023 13:45 IST","Jun 06, 2023 13:48 IST",0:02:17,NA,0,NA,Yes,0:00:22
+Sangeetha,Gokul,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 06, 2023 13:48 IST","Jun 06, 2023 13:48 IST",0:00:42,NA,0,NA,Yes,0:00:01
+Sangeetha,Nandha,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 13:48 IST","Jun 06, 2023 13:50 IST",0:01:40,NA,0,NA,Yes,0:00:00
+Sangeetha,harish,Follow-up - Ringing No Response,No,No,No,NA,"Jun 06, 2023 13:50 IST","Jun 06, 2023 13:51 IST",0:00:58,0:00:59,0,NA,Yes,0:00:00
+Sangeetha,DHamu Null,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 06, 2023 13:58 IST","Jun 06, 2023 13:59 IST",0:01:01,0:01:06,0,http://103.73.188.156/Recording/Rec1/102/1965/6-6-2023/9092030666-102-51599-2312-2551-9344090298-o-0-060623-135845.wav,Yes,0:00:00
+Sangeetha,Jayamurugan shanmugaperumal NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 06, 2023 14:00 IST","Jun 06, 2023 14:01 IST",0:01:11,NA,0,NA,Yes,0:00:00
+Sangeetha,PRAVEEN  RAJ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 06, 2023 14:01 IST","Jun 06, 2023 14:02 IST",0:01:05,NA,0,NA,Yes,0:00:27
+Sangeetha,CHAKKARAVARTHY Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 07, 2023 09:33 IST","Jun 07, 2023 09:34 IST",0:00:29,NA,0,NA,Yes,0:00:00
+Sangeetha,Ankit Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 07, 2023 09:34 IST","Jun 07, 2023 09:35 IST",0:00:54,NA,0,NA,Yes,0:00:00
+Sangeetha,Samual Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 09:35 IST","Jun 07, 2023 09:37 IST",0:02:04,NA,0,NA,Yes,0:00:25
+Sangeetha,Bala Null,Lost Lead - Not Interested - No plans to purchase now,No,Yes,No,NA,"Jun 07, 2023 09:37 IST","Jun 07, 2023 09:59 IST",0:21:47,0:01:45,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9789826831-102-51630-2359-2430-9344090298-o-0-070623-093756.wav,Yes,0:00:00
+Sangeetha,Ranjith Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 10:00 IST","Jun 07, 2023 10:01 IST",0:01:39,NA,1,NA,Yes,0:00:35
+Sangeetha,JIHIN JOHNY,Follow-up - Ringing No Response,No,No,No,NA,"Jun 07, 2023 10:02 IST","Jun 07, 2023 10:02 IST",0:00:51,0:00:51,0,NA,Yes,0:00:00
+Sangeetha,SHAM NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 10:02 IST","Jun 07, 2023 10:03 IST",0:01:00,NA,0,NA,Yes,0:00:00
+Sangeetha,DHAKSHANA MOORTHY,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 10:06 IST","Jun 07, 2023 10:06 IST",0:00:30,NA,0,NA,Yes,0:00:00
+Sangeetha,UTKARSH RAJ,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 07, 2023 10:11 IST","Jun 07, 2023 10:12 IST",0:00:57,0:00:32,1,NA,Yes,0:00:39
+Sangeetha,Arshu Null,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 07, 2023 10:12 IST","Jun 07, 2023 10:12 IST",0:00:14,0:00:23,0,NA,Yes,0:00:00
+Sangeetha,Praveen Null,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 07, 2023 10:13 IST","Jun 07, 2023 10:13 IST",0:00:17,0:00:22,0,NA,Yes,0:00:00
+Sangeetha,NA ASIF,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 07, 2023 10:13 IST","Jun 07, 2023 10:14 IST",0:01:12,NA,0,NA,Yes,0:00:00
+Sangeetha,JAWAAD AHMED GHIAS,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 07, 2023 10:14 IST","Jun 07, 2023 10:15 IST",0:00:19,0:00:23,0,NA,Yes,0:00:00
+Sangeetha,MOHAMEED ASHIK,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 10:15 IST","Jun 07, 2023 10:16 IST",0:01:20,NA,0,NA,Yes,0:00:24
+Sangeetha,c vishesh,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 10:16 IST","Jun 07, 2023 10:17 IST",0:01:13,NA,0,NA,Yes,0:00:00
+Sangeetha,RAJA NA,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 07, 2023 10:18 IST","Jun 07, 2023 10:18 IST",0:00:28,0:00:28,0,NA,Yes,0:00:00
+Sangeetha,MANIKANDAN NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 07, 2023 10:18 IST","Jun 07, 2023 10:19 IST",0:00:20,NA,0,NA,Yes,0:00:00
+Sangeetha,MATHI NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 07, 2023 10:19 IST","Jun 07, 2023 10:20 IST",0:00:55,0:00:58,0,NA,Yes,0:00:00
+Sangeetha,NAVANEETHAN G,Postponed the purchase- TR Completed in showroom,No,No,No,3 months,"Jun 07, 2023 10:20 IST","Jun 07, 2023 10:22 IST",0:02:08,0:00:59,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/7358377759-102-51630-2346-2550-9344090298-o-0-070623-102102.wav,Yes,0:00:21
+Sangeetha,SHYAM SUNDAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 10:23 IST","Jun 07, 2023 10:24 IST",0:01:03,NA,0,NA,Yes,0:00:00
+Sangeetha,SINGA DHEENA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 07, 2023 10:24 IST","Jun 07, 2023 10:24 IST",0:00:32,NA,0,NA,Yes,0:00:01
+Sangeetha,JAIKARTHIK S,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 07, 2023 10:25 IST","Jun 07, 2023 10:27 IST",0:01:52,NA,0,NA,Yes,0:00:01
+Sangeetha,VENKATESH NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 10:27 IST","Jun 07, 2023 10:29 IST",0:02:03,NA,0,NA,Yes,0:00:00
+Sangeetha,serangeevi na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 10:30 IST","Jun 07, 2023 10:32 IST",0:01:55,NA,0,NA,Yes,0:00:20
+Sangeetha,ALBERT NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 10:34 IST","Jun 07, 2023 10:35 IST",0:00:45,NA,0,NA,Yes,0:00:01
+Sangeetha,SATHISH KUMART,Follow-up - Number switched off,Yes,No,No,NA,"Jun 07, 2023 10:35 IST","Jun 07, 2023 10:36 IST",0:00:23,NA,0,NA,Yes,0:00:00
+Sangeetha,NAVEENTHAN  NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 10:36 IST","Jun 07, 2023 10:37 IST",0:01:00,NA,0,NA,Yes,0:00:01
+Sangeetha,AMARNATH NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 07, 2023 10:37 IST","Jun 07, 2023 10:38 IST",0:00:48,NA,0,NA,Yes,0:00:00
+Sangeetha,KIRUTHIC KAILUSH A,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 10:40 IST","Jun 07, 2023 10:43 IST",0:03:23,NA,1,NA,Yes,0:01:32
+Sangeetha,RAJ KUMAR,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 07, 2023 10:44 IST","Jun 07, 2023 10:46 IST",0:02:03,0:01:09,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9444485859-102-51630-2346-2551-9344090298-o-0-070623-104418.wav,Yes,0:00:00
+Sangeetha,THILAK na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 10:47 IST","Jun 07, 2023 10:48 IST",0:01:04,NA,0,NA,Yes,0:00:01
+Sangeetha,VEERARAGAVAN NA,Follow-up - Customer Busy,No,No,No,7 days,"Jun 07, 2023 10:48 IST","Jun 07, 2023 10:50 IST",0:01:29,0:00:32,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9176360622-102-51630-2306-2551-9344090298-o-0-070623-104904.wav,Yes,0:00:00
+Sangeetha,ARYA DUTTA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 10:50 IST","Jun 07, 2023 10:52 IST",0:01:35,NA,0,NA,Yes,0:00:00
+Sangeetha,SILAMBARASAN NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 10:52 IST","Jun 07, 2023 10:53 IST",0:00:36,NA,0,NA,Yes,0:00:01
+Sangeetha,RAMAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 10:53 IST","Jun 07, 2023 10:54 IST",0:01:08,NA,0,NA,Yes,0:00:00
+Sangeetha,prashanth b,Follow-up - Customer Busy,No,No,No,7 days,"Jun 07, 2023 10:55 IST","Jun 07, 2023 10:56 IST",0:01:18,0:00:40,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9962966069-102-51630-2302-2424-9344090298-o-0-070623-105528.wav,Yes,0:00:00
+Sangeetha,selva kumar,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 07, 2023 11:09 IST","Jun 07, 2023 11:11 IST",0:01:45,NA,1,NA,Yes,0:00:35
+Sangeetha,naveen kumar,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 11:11 IST","Jun 07, 2023 11:12 IST",0:01:10,NA,0,NA,Yes,0:00:00
+Sangeetha,BALA CHANDRA,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 07, 2023 11:13 IST","Jun 07, 2023 11:15 IST",0:02:13,0:01:00,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9600286206-102-51630-2277-2424-9344090298-o-0-070623-111322.wav,Yes,0:00:01
+Sangeetha,jaison suresh,Postponed the purchase- TR Completed in showroom,No,No,No,about 2 months,"Jun 07, 2023 11:15 IST","Jun 07, 2023 11:17 IST",0:01:49,0:01:32,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9566097121-102-51630-2227-2427-9344090298-o-0-070623-111538.wav,Yes,0:00:00
+Sangeetha,N GHOUSE BASHA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 11:17 IST","Jun 07, 2023 11:19 IST",0:01:37,NA,0,NA,Yes,0:00:01
+Sangeetha,KULOTHUNGAN NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 07, 2023 11:19 IST","Jun 07, 2023 11:19 IST",0:00:30,NA,0,NA,Yes,0:00:00
+Sangeetha,SATHISH NA,Follow-up - Number not Reachable,No,No,No,NA,"Jun 07, 2023 11:30 IST","Jun 07, 2023 11:30 IST",0:00:36,0:00:41,0,NA,Yes,0:00:00
+Sangeetha,prashanth b,Follow-up - Customer disconnecting call,No,No,No,7 days,"Jun 07, 2023 11:31 IST","Jun 07, 2023 11:31 IST",0:00:22,0:00:08,0,NA,Yes,0:00:00
+Sangeetha,Manoj,Lost Lead - Multiple RNR's more than 10 times,No,Yes,No,NA,"Jun 07, 2023 11:32 IST","Jun 07, 2023 11:35 IST",0:03:47,0:00:51,0,NA,Yes,0:00:00
+Sangeetha,Prabhu Inbarasan,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 11:47 IST","Jun 07, 2023 11:49 IST",0:01:58,NA,0,NA,Yes,0:00:21
+Sangeetha,PA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 07, 2023 11:52 IST","Jun 07, 2023 11:54 IST",0:02:13,NA,0,NA,Yes,0:00:00
+Sangeetha,Jayabalan R M,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 07, 2023 11:56 IST","Jun 07, 2023 11:58 IST",0:02:00,0:00:31,1,NA,Yes,0:01:37
+Sangeetha,Meghi M,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 11:58 IST","Jun 07, 2023 11:59 IST",0:00:33,NA,0,NA,Yes,0:00:00
+Sangeetha,Graituz,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 12:07 IST","Jun 07, 2023 12:08 IST",0:00:30,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9061482884-102-51630-2165-2548-9344090298-o-0-070623-120805.wav,Yes,0:00:00
+Sangeetha,Richard,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 12:09 IST","Jun 07, 2023 12:10 IST",0:01:03,NA,0,NA,Yes,0:00:00
+Sangeetha,Arumugam S,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 07, 2023 12:11 IST","Jun 07, 2023 12:13 IST",0:02:27,0:00:29,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9739417278-102-51630-2144-2424-9344090298-o-0-070623-121122.wav,Yes,0:00:00
+Sangeetha,Karthi,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 12:13 IST","Jun 07, 2023 12:15 IST",0:02:06,NA,0,NA,Yes,0:00:00
+Sangeetha,John,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 07, 2023 12:16 IST","Jun 07, 2023 12:17 IST",0:01:04,NA,0,NA,Yes,0:00:01
+Sangeetha,Sethu Popz,Follow-up - Number not Reachable,No,No,No,NA,"Jun 07, 2023 12:17 IST","Jun 07, 2023 12:18 IST",0:01:09,0:00:57,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/8667084879-102-51630-2132-2545-9344090298-o-0-070623-121816.wav,Yes,0:00:00
+Sangeetha,Sethu Popz,Follow-up - Number not Reachable,No,No,No,NA,"Jun 07, 2023 12:19 IST","Jun 07, 2023 12:20 IST",0:01:22,0:00:42,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/8667084879-102-51630-2125-2547-9344090298-o-0-070623-121909.wav,Yes,0:00:01
+Sangeetha,Gopi,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 07, 2023 12:20 IST","Jun 07, 2023 12:22 IST",0:01:51,0:01:46,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9176400729-102-51630-2124-2551-9344090298-o-0-070623-122057.wav,Yes,0:00:00
+Sangeetha,Shiva,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 07, 2023 12:22 IST","Jun 07, 2023 12:24 IST",0:01:30,NA,0,NA,Yes,0:00:00
+Sangeetha,Mani,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 12:27 IST","Jun 07, 2023 12:28 IST",0:01:14,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9786311856-102-51630-2121-2551-9344090298-o-0-070623-122750.wav,Yes,0:00:26
+Sangeetha,Mani,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 12:29 IST","Jun 07, 2023 12:29 IST",0:00:28,NA,0,NA,Yes,0:00:00
+Sangeetha,Dinojoelroy,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 12:36 IST","Jun 07, 2023 12:37 IST",0:00:31,NA,0,NA,Yes,0:00:00
+Sangeetha,Richard,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 12:38 IST","Jun 07, 2023 12:41 IST",0:03:30,NA,0,NA,Yes,0:00:23
+Sangeetha,Christopher Null,Lost Lead - Multiple RNR's more than 10 times,No,No,No,NA,"Jun 07, 2023 12:50 IST","Jun 07, 2023 12:50 IST",0:00:46,0:00:26,0,NA,Yes,0:00:25
+Sangeetha,VEERIAH,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 12:54 IST","Jun 07, 2023 12:55 IST",0:00:56,NA,0,NA,Yes,0:00:00
+Sangeetha,PRAVEEN  RAJ,Follow-up - Ringing No Response,No,No,No,NA,"Jun 07, 2023 12:56 IST","Jun 07, 2023 12:56 IST",0:00:42,0:00:51,0,NA,Yes,0:00:00
+Sangeetha,Venkat NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 07, 2023 12:58 IST","Jun 07, 2023 12:59 IST",0:00:45,NA,0,NA,Yes,0:00:00
+Sangeetha,User,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 07, 2023 12:59 IST","Jun 07, 2023 13:00 IST",0:01:06,0:00:30,1,NA,Yes,0:00:46
+Sangeetha,Thala,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 07, 2023 13:01 IST","Jun 07, 2023 13:03 IST",0:02:29,0:01:55,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9629941738-102-51630-2081-2425-9344090298-o-0-070623-130209.wav,Yes,0:00:19
+Sangeetha,Prem Null,Interested - Follow-up,Yes,No,No,NA,"Jun 07, 2023 13:04 IST","Jun 07, 2023 13:06 IST",0:01:19,NA,1,NA,Yes,0:00:35
+Sangeetha,Rajganesh Rganesh,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 07, 2023 13:08 IST","Jun 07, 2023 13:11 IST",0:03:13,0:00:24,1,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9655626827-102-51630-2081-2550-9344090298-o-0-070623-131120.wav,Yes,0:02:29
+Sangeetha,Bala Bala,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 13:12 IST","Jun 07, 2023 13:16 IST",0:04:17,NA,0,NA,Yes,0:00:00
+Sangeetha,Dhanish Khadir,Lost Lead - Multiple RNR's more than 10 times,No,Yes,No,NA,"Jun 07, 2023 13:24 IST","Jun 07, 2023 13:25 IST",0:00:51,0:00:24,0,NA,Yes,0:00:25
+Sangeetha,Prabhu Inbarasan,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 07, 2023 13:25 IST","Jun 07, 2023 13:26 IST",0:00:47,NA,0,NA,Yes,0:00:00
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 07, 2023 13:26 IST","Jun 07, 2023 13:27 IST",0:00:52,0:00:58,0,NA,Yes,0:00:00
+Sangeetha,Dhanush,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 13:29 IST","Jun 07, 2023 13:30 IST",0:01:02,NA,0,NA,Yes,0:00:17
+Sangeetha,Siva,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 07, 2023 13:31 IST","Jun 07, 2023 13:32 IST",0:00:21,NA,0,NA,Yes,0:00:00
+Sangeetha,Sureshbabu,Follow-up - Ringing No Response,No,No,No,NA,"Jun 07, 2023 13:32 IST","Jun 07, 2023 13:32 IST",0:00:41,0:00:50,0,NA,Yes,0:00:00
+Sangeetha,Praveen,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 13:33 IST","Jun 07, 2023 13:33 IST",0:00:22,NA,0,NA,Yes,0:00:00
+Sangeetha,Prasath Jerry,Lost Lead - Multiple RNR's more than 10 times,No,Yes,No,NA,"Jun 07, 2023 13:33 IST","Jun 07, 2023 13:33 IST",0:00:23,0:00:27,0,NA,Yes,0:00:00
+Sangeetha,JOSEPH Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 07, 2023 13:33 IST","Jun 07, 2023 13:38 IST",0:04:32,NA,0,NA,Yes,0:00:28
+Sangeetha,Edward Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 13:44 IST","Jun 07, 2023 13:45 IST",0:00:44,NA,0,NA,Yes,0:00:01
+Sangeetha,Uma Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 13:45 IST","Jun 07, 2023 13:48 IST",0:03:34,NA,0,NA,Yes,0:00:00
+Sangeetha,Thameem Null,Lost Lead - Multiple RNR's more than 10 times,No,Yes,No,NA,"Jun 07, 2023 13:49 IST","Jun 07, 2023 13:49 IST",0:00:25,0:00:33,0,NA,Yes,0:00:01
+Sangeetha,Gsundar Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 07, 2023 13:49 IST","Jun 07, 2023 13:50 IST",0:00:56,NA,0,NA,Yes,0:00:00
+Sangeetha,Gsundar Null,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 07, 2023 13:50 IST","Jun 07, 2023 13:51 IST",0:00:34,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/7-6-2023/9043982323-102-51630-2013-2427-9344090298-o-0-070623-135054.wav,Yes,0:00:00
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 07, 2023 13:59 IST","Jun 07, 2023 14:01 IST",0:01:50,0:00:58,1,NA,Yes,0:00:55
+Sangeetha,Civil,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 09:35 IST","Jun 08, 2023 09:40 IST",0:04:08,NA,0,NA,Yes,0:00:24
+Sangeetha,Deepa,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 09:45 IST","Jun 08, 2023 09:46 IST",0:00:56,NA,0,NA,Yes,0:00:00
+Sangeetha,Pk Raaz,Follow-up - Number switched off,Yes,No,No,NA,"Jun 08, 2023 09:47 IST","Jun 08, 2023 09:48 IST",0:01:17,NA,0,NA,Yes,0:00:18
+Sangeetha,Dhanush,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 08, 2023 09:48 IST","Jun 08, 2023 09:49 IST",0:00:37,NA,0,NA,Yes,0:00:00
+Sangeetha,Jayabalan R M,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 09:55 IST","Jun 08, 2023 09:56 IST",0:01:04,NA,0,NA,Yes,0:00:01
+Sangeetha,Meghi M,Lost Lead - Multiple RNR's more than 10 times,No,Yes,No,NA,"Jun 08, 2023 10:00 IST","Jun 08, 2023 10:00 IST",0:00:20,0:00:30,0,NA,Yes,0:00:00
+Sangeetha,Mohanambal,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 08, 2023 10:00 IST","Jun 08, 2023 10:04 IST",0:04:30,NA,0,NA,Yes,0:00:24
+Sangeetha,Vijay,Follow-up - Ringing No Response,No,No,No,NA,"Jun 08, 2023 10:04 IST","Jun 08, 2023 10:06 IST",0:01:15,0:00:52,0,NA,Yes,0:00:24
+Sangeetha,Hemu,Follow-up - Number switched off,Yes,No,No,NA,"Jun 08, 2023 10:06 IST","Jun 08, 2023 10:08 IST",0:02:06,NA,0,NA,Yes,0:00:23
+Sangeetha,Sureshbabu,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 10:08 IST","Jun 08, 2023 10:09 IST",0:00:59,NA,0,NA,Yes,0:00:00
+Sangeetha,Sureshbabu,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 10:09 IST","Jun 08, 2023 10:10 IST",0:01:02,NA,0,NA,Yes,0:00:00
+Sangeetha,yedidhya,Number not belongs to the customer,No,Yes,No,NA,"Jun 08, 2023 10:10 IST","Jun 08, 2023 10:11 IST",0:00:35,0:00:27,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9176141432-102-51665-2342-2551-9344090298-o-0-080623-101059.wav,Yes,0:00:01
+Sangeetha,Mohamed,Follow-up - Number switched off,Yes,No,No,NA,"Jun 08, 2023 10:11 IST","Jun 08, 2023 10:12 IST",0:01:18,NA,0,NA,Yes,0:00:00
+Sangeetha,Praveen,Lost Lead - Multiple RNR's more than 10 times,No,Yes,No,NA,"Jun 08, 2023 10:15 IST","Jun 08, 2023 10:15 IST",0:00:24,0:00:32,0,NA,Yes,0:00:00
+Sangeetha,JOSEPH Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 10:15 IST","Jun 08, 2023 10:20 IST",0:05:06,NA,0,NA,Yes,0:00:01
+Sangeetha,Rajesh Null,Interested - Follow-up,No,No,No,NA,"Jun 08, 2023 10:20 IST","Jun 08, 2023 10:24 IST",0:03:14,0:01:34,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9841218850-102-51665-2342-2430-9344090298-o-0-080623-102111.wav,Yes,0:00:00
+Sangeetha,Edward Null,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 08, 2023 10:24 IST","Jun 08, 2023 10:25 IST",0:00:48,0:00:37,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9840774411-102-51665-2332-2426-9344090298-o-0-080623-102447.wav,Yes,0:00:00
+Sangeetha,Edward Null,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 08, 2023 10:25 IST","Jun 08, 2023 10:26 IST",0:01:20,0:00:56,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9840774411-102-51665-2326-2551-9344090298-o-0-080623-102559.wav,Yes,0:00:25
+Sangeetha,Uma Null,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 08, 2023 10:26 IST","Jun 08, 2023 10:27 IST",0:01:06,0:01:00,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9790937999-102-51665-2326-2425-9344090298-o-0-080623-102713.wav,Yes,0:00:00
+Sangeetha,Manickam Null,Follow-up - Customer out of station,No,No,No,3 days,"Jun 08, 2023 10:39 IST","Jun 08, 2023 10:43 IST",0:03:26,0:02:43,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9790820882-102-51665-2326-2426-9344090298-o-0-080623-104009.wav,Yes,0:00:01
+Sangeetha,karu ramesh NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 10:43 IST","Jun 08, 2023 10:48 IST",0:05:09,NA,0,NA,Yes,0:00:00
+Sangeetha,Siddarth,Lost Lead - Not Interested - No plans to purchase now,No,Yes,No,NA,"Jun 08, 2023 10:55 IST","Jun 08, 2023 10:56 IST",0:00:46,0:00:15,0,NA,Yes,0:00:00
+Sangeetha,Future Makes Old Screen NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 08, 2023 10:56 IST","Jun 08, 2023 10:57 IST",0:01:08,0:00:59,0,NA,Yes,0:00:20
+Sangeetha,Senthilkumar k NA,Interested - Follow-up,No,No,No,1 day,"Jun 08, 2023 10:57 IST","Jun 08, 2023 11:00 IST",0:02:13,0:01:18,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9884242357-102-51665-2286-2551-9344090298-o-0-080623-105806.wav,Yes,0:00:00
+Sangeetha,Karthikeyan NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 08, 2023 11:12 IST","Jun 08, 2023 11:15 IST",0:02:32,NA,0,NA,Yes,0:00:00
+Sangeetha,Kishore Null,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 08, 2023 11:19 IST","Jun 08, 2023 11:22 IST",0:02:24,0:01:45,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/8056192534-102-51665-2286-2430-9344090298-o-0-080623-112048.wav,Yes,0:00:25
+Sangeetha,Dharani Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 08, 2023 11:22 IST","Jun 08, 2023 11:26 IST",0:04:13,NA,1,NA,Yes,0:03:50
+Sangeetha,SYED AMEER BASHA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 11:26 IST","Jun 08, 2023 11:27 IST",0:01:01,NA,0,NA,Yes,0:00:00
+Sangeetha,Siva NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 08, 2023 11:27 IST","Jun 08, 2023 11:33 IST",0:05:42,NA,0,NA,Yes,0:00:00
+Sangeetha,deepak b NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 11:34 IST","Jun 08, 2023 11:36 IST",0:02:15,NA,0,NA,Yes,0:00:00
+Sangeetha,Sen Null,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 08, 2023 11:36 IST","Jun 08, 2023 11:39 IST",0:03:22,0:01:21,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9789450937-102-51665-2286-2551-9344090298-o-0-080623-113638.wav,Yes,0:00:00
+Sangeetha,Hari Chandan NA,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 08, 2023 11:39 IST","Jun 08, 2023 11:40 IST",0:00:27,0:00:31,0,NA,Yes,0:00:00
+Sangeetha,Rajkumar Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 08, 2023 11:40 IST","Jun 08, 2023 11:43 IST",0:03:13,NA,0,NA,Yes,0:00:00
+Sangeetha,Bala,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 08, 2023 11:50 IST","Jun 08, 2023 11:51 IST",0:00:55,NA,0,NA,Yes,0:00:01
+Sangeetha,Mani,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 08, 2023 11:51 IST","Jun 08, 2023 11:52 IST",0:01:22,0:01:29,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9786311856-102-51665-2202-2427-9344090298-o-0-080623-115138.wav,Yes,0:00:00
+Sangeetha,Vijay,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 11:52 IST","Jun 08, 2023 11:56 IST",0:03:14,NA,0,NA,Yes,0:00:00
+Sangeetha,Karthi,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 11:56 IST","Jun 08, 2023 12:02 IST",0:06:38,NA,0,NA,Yes,0:00:01
+Sangeetha,Dev,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 08, 2023 12:06 IST","Jun 08, 2023 12:07 IST",0:00:52,0:00:23,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9444511588-102-51665-2202-2430-9344090298-o-0-080623-120648.wav,Yes,0:00:00
+Sangeetha,Dev,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 08, 2023 12:07 IST","Jun 08, 2023 12:08 IST",0:00:54,NA,0,NA,Yes,0:00:45
+Sangeetha,Arokia,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 08, 2023 12:08 IST","Jun 08, 2023 12:10 IST",0:02:19,NA,2,NA,Yes,0:01:09
+Sangeetha,saravananmani NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 08, 2023 12:10 IST","Jun 08, 2023 12:12 IST",0:01:51,NA,1,NA,Yes,0:01:09
+Sangeetha,Kumar G NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 08, 2023 12:16 IST","Jun 08, 2023 12:17 IST",0:00:46,NA,0,NA,Yes,0:00:20
+Sangeetha,Vasanth Maddasani,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 12:24 IST","Jun 08, 2023 12:25 IST",0:01:00,NA,0,NA,Yes,0:00:01
+Sangeetha,Nivas Null,Follow-up - Ringing No Response,No,No,No,NA,"Jun 08, 2023 12:29 IST","Jun 08, 2023 12:29 IST",0:00:47,0:00:58,0,NA,Yes,0:00:00
+Sangeetha,Sam R,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 12:29 IST","Jun 08, 2023 12:32 IST",0:02:18,NA,0,NA,Yes,0:00:00
+Sangeetha,Ashish Gudla NA,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 08, 2023 12:32 IST","Jun 08, 2023 12:33 IST",0:01:07,0:00:16,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/7327888202-102-51665-2155-2545-9344090298-o-0-080623-123300.wav,Yes,0:00:22
+Sangeetha,Ashish Gudla NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 08, 2023 12:33 IST","Jun 08, 2023 12:34 IST",0:00:43,NA,0,NA,Yes,0:00:00
+Sangeetha,Kishanth Kumar,Follow-up - Ringing No Response,No,No,No,NA,"Jun 08, 2023 12:38 IST","Jun 08, 2023 12:39 IST",0:00:53,0:00:58,0,NA,Yes,0:00:00
+Sangeetha,Asif Null,Follow-up - Customer Busy,No,No,No,6 days,"Jun 08, 2023 12:41 IST","Jun 08, 2023 12:45 IST",0:03:29,0:00:41,1,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/7299977771-102-51665-2155-2551-9344090298-o-0-080623-124433.wav,Yes,0:02:44
+Sangeetha,Aravind,Follow-up - Ringing No Response,No,No,No,6 days,"Jun 08, 2023 12:45 IST","Jun 08, 2023 12:47 IST",0:02:13,0:00:47,1,NA,Yes,0:01:22
+Sangeetha,Sathish Kumar,Follow-up - Customer Busy,No,No,No,6 days,"Jun 08, 2023 12:48 IST","Jun 08, 2023 12:50 IST",0:01:59,0:01:00,1,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9840715996-102-51665-2096-2550-9344090298-o-0-080623-124927.wav,Yes,0:00:41
+Sangeetha,Thenni Arasan,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 12:53 IST","Jun 08, 2023 12:54 IST",0:01:26,NA,0,NA,Yes,0:00:00
+Sangeetha,Pradeep NA ,Interested - Follow-up,No,No,No,5 days,"Jun 08, 2023 12:55 IST","Jun 08, 2023 12:57 IST",0:02:07,0:01:36,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/7708631165-102-51665-2078-2427-9344090298-o-0-080623-125516.wav,Yes,0:00:01
+Sangeetha,VEERARAGAVAN NA,Follow-up - Number not Reachable,No,No,No,6 days,"Jun 08, 2023 12:58 IST","Jun 08, 2023 12:59 IST",0:01:39,0:00:37,1,NA,Yes,0:01:01
+Sangeetha,prashanth b,Follow-up - Number not Reachable,Yes,No,No,6 days,"Jun 08, 2023 12:59 IST","Jun 08, 2023 13:04 IST",0:04:28,NA,2,NA,Yes,0:03:06
+Sangeetha,Riyaz,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 08, 2023 13:06 IST","Jun 08, 2023 13:08 IST",0:01:39,0:01:39,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9487828045-102-51665-2078-2546-9344090298-o-0-080623-130700.wav,Yes,0:00:00
+Sangeetha,Sumanth,Follow-up - Ringing No Response,No,No,No,NA,"Jun 08, 2023 13:13 IST","Jun 08, 2023 13:13 IST",0:00:53,0:00:53,0,NA,Yes,0:00:01
+Sangeetha,Mansoor,Follow-up - Language Barrier,No,Yes,No,NA,"Jun 08, 2023 13:13 IST","Jun 08, 2023 13:14 IST",0:01:01,0:00:42,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9847550604-102-51665-2051-2430-9344090298-o-0-080623-131405.wav,Yes,0:00:01
+Sangeetha,Graituz,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 08, 2023 13:15 IST","Jun 08, 2023 13:16 IST",0:01:05,0:01:04,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9061482884-102-51665-2051-2550-9344090298-o-0-080623-131517.wav,Yes,0:00:00
+Sangeetha,Vijayakumar,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 08, 2023 13:16 IST","Jun 08, 2023 13:16 IST",0:00:22,NA,0,NA,Yes,0:00:00
+Sangeetha,Richard,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 13:16 IST","Jun 08, 2023 13:20 IST",0:03:25,NA,1,NA,Yes,0:00:55
+Sangeetha,Gk,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 08, 2023 13:20 IST","Jun 08, 2023 13:21 IST",0:00:59,0:00:36,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9884580038-102-51665-2051-2548-9344090298-o-0-080623-132015.wav,Yes,0:00:00
+Sangeetha,Vishal,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 08, 2023 13:21 IST","Jun 08, 2023 13:22 IST",0:00:57,0:00:57,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/7338880420-102-51665-2034-2548-9344090298-o-0-080623-132121.wav,Yes,0:00:00
+Sangeetha,Elumdas,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 08, 2023 13:22 IST","Jun 08, 2023 13:23 IST",0:01:11,0:00:27,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/9884900602-102-51665-2034-2430-9344090298-o-0-080623-132222.wav,Yes,0:00:00
+Sangeetha,Elumdas,Lost Lead - Not Interested - Others,Yes,Yes,No,NA,"Jun 08, 2023 13:34 IST","Jun 08, 2023 13:34 IST",0:00:23,NA,0,NA,Yes,0:00:20
+Sangeetha,Sabirul Sanpui,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 08, 2023 13:35 IST","Jun 08, 2023 13:36 IST",0:00:37,NA,0,NA,Yes,0:00:00
+Sangeetha,Mohammad,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 08, 2023 13:37 IST","Jun 08, 2023 13:38 IST",0:01:01,NA,0,NA,Yes,0:00:25
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 08, 2023 13:38 IST","Jun 08, 2023 13:39 IST",0:00:50,0:00:39,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/7418515203-102-51665-2018-2551-9344090298-o-0-080623-133859.wav,Yes,0:00:00
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 08, 2023 13:39 IST","Jun 08, 2023 13:40 IST",0:00:31,0:00:30,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/7418515203-102-51665-2017-2551-9344090298-o-0-080623-133954.wav,Yes,0:00:00
+Sangeetha,Velmurugan,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 08, 2023 13:40 IST","Jun 08, 2023 13:42 IST",0:02:31,NA,0,NA,Yes,0:00:00
+Sangeetha,saran kumar NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 08, 2023 13:43 IST","Jun 08, 2023 13:44 IST",0:01:06,NA,0,NA,Yes,0:00:22
+Sangeetha,Jeffrey Christopher NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 08, 2023 13:44 IST","Jun 08, 2023 13:45 IST",0:00:43,0:00:51,0,NA,Yes,0:00:00
+Sangeetha,Yuvaraj Null,Interested - Customer will visit showroom,No,No,No,4 days,"Jun 08, 2023 13:45 IST","Jun 08, 2023 13:49 IST",0:04:01,0:03:20,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/8637460102-102-51665-2016-2547-9344090298-o-0-080623-134554.wav,Yes,0:00:00
+Sangeetha,Munesh Null,Follow-up - Language Barrier,No,Yes,No,NA,"Jun 08, 2023 13:49 IST","Jun 08, 2023 13:51 IST",0:01:44,0:00:54,0,http://103.73.188.156/Recording/Rec1/102/1965/8-6-2023/8543840178-102-51665-2016-2430-9344090298-o-0-080623-135013.wav,Yes,0:00:01
+Sangeetha,ravikumar Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 08, 2023 14:01 IST","Jun 08, 2023 14:01 IST",0:00:14,NA,0,NA,Yes,0:00:00
+Sangeetha,Karthikeyan Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 08, 2023 14:01 IST","Jun 08, 2023 14:02 IST",0:01:28,NA,0,NA,Yes,0:00:00
+Sangeetha,Akash v NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 08, 2023 14:02 IST","Jun 08, 2023 14:03 IST",0:00:52,NA,0,NA,Yes,0:00:01
+Sangeetha,Raj G,Lost Lead - Not Interested - TR Missed - Bought competing brand/ JAWA-YEZDI with other dealer,No,Yes,No,NA,"Jun 09, 2023 09:35 IST","Jun 09, 2023 09:37 IST",0:01:27,0:01:25,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/8778525578-102-51719-2439-2430-9344090298-o-0-090623-093547.wav,Yes,0:00:01
+Sangeetha,Aravind,Follow-up - Customer out of station,No,No,No,4 days,"Jun 09, 2023 09:37 IST","Jun 09, 2023 09:40 IST",0:02:45,0:02:06,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/8754086065-102-51719-2439-2430-9344090298-o-0-090623-093802.wav,Yes,0:00:00
+Sangeetha,Sathish Kumar,Follow-up - Ringing No Response,No,No,No,5 days,"Jun 09, 2023 09:41 IST","Jun 09, 2023 09:42 IST",0:01:26,0:00:59,0,NA,Yes,0:00:27
+Sangeetha,Shankar Vaithiyanathan,Interested - TR Scheduled,Yes,No,No,NA,"Jun 09, 2023 09:42 IST","Jun 09, 2023 09:51 IST",0:08:40,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/9597591791-102-51719-2414-2430-9344090298-o-0-090623-094321.wav,Yes,0:00:30
+Sangeetha,Ramganapathy Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 09:51 IST","Jun 09, 2023 09:56 IST",0:04:26,NA,0,NA,Yes,0:00:31
+Sangeetha,VEERARAGAVAN NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 09, 2023 10:07 IST","Jun 09, 2023 10:11 IST",0:03:45,0:01:11,1,NA,Yes,0:02:51
+Sangeetha,prashanth b,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 10:16 IST","Jun 09, 2023 10:19 IST",0:03:04,NA,0,NA,Yes,0:00:00
+Sangeetha,CHAKKARAVARTHY Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 10:20 IST","Jun 09, 2023 10:22 IST",0:02:05,NA,0,NA,Yes,0:00:01
+Sangeetha,Ankit Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 09, 2023 10:22 IST","Jun 09, 2023 10:23 IST",0:00:36,NA,0,NA,Yes,0:00:01
+Sangeetha,Samual Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 09, 2023 10:23 IST","Jun 09, 2023 10:28 IST",0:05:29,NA,0,NA,Yes,0:00:01
+Sangeetha,Ranjith Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 10:28 IST","Jun 09, 2023 10:30 IST",0:01:18,NA,0,NA,Yes,0:00:24
+Sangeetha,JIHIN JOHNY,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 10:30 IST","Jun 09, 2023 10:32 IST",0:02:17,NA,0,NA,Yes,0:00:02
+Sangeetha,DHAKSHANA MOORTHY,Follow-up - Ringing No Response,No,No,No,NA,"Jun 09, 2023 10:39 IST","Jun 09, 2023 10:39 IST",0:00:43,0:00:46,0,NA,Yes,0:00:02
+Sangeetha,UTKARSH RAJ,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 09, 2023 10:41 IST","Jun 09, 2023 10:41 IST",0:00:21,0:00:35,0,NA,Yes,0:00:02
+Sangeetha,Ramganapathy Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 09, 2023 11:02 IST","Jun 09, 2023 11:07 IST",0:05:16,NA,1,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/9943944499-102-51719-2417-2551-9344090298-o-0-090623-110315.wav,Yes,0:00:53
+Sangeetha,Arshu Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 11:07 IST","Jun 09, 2023 11:09 IST",0:02:06,NA,0,NA,Yes,0:00:20
+Sangeetha,Praveen Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 09, 2023 11:19 IST","Jun 09, 2023 11:23 IST",0:03:53,NA,0,NA,Yes,0:00:01
+Sangeetha,NA ASIF,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 11:23 IST","Jun 09, 2023 11:24 IST",0:01:43,NA,0,NA,Yes,0:00:01
+Sangeetha,JAWAAD AHMED GHIAS,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 09, 2023 11:24 IST","Jun 09, 2023 11:26 IST",0:01:04,NA,0,NA,Yes,0:00:01
+Sangeetha,MOHAMEED ASHIK,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 11:26 IST","Jun 09, 2023 11:28 IST",0:01:57,NA,0,NA,Yes,0:00:01
+Sangeetha,c vishesh,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 11:28 IST","Jun 09, 2023 11:31 IST",0:03:09,NA,0,NA,Yes,0:00:01
+Sangeetha,RAJA NA,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 09, 2023 11:31 IST","Jun 09, 2023 11:31 IST",0:00:20,0:00:25,0,NA,Yes,0:00:04
+Sangeetha,MANIKANDAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 11:31 IST","Jun 09, 2023 11:38 IST",0:06:40,NA,0,NA,Yes,0:00:01
+Sangeetha,MATHI NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 09, 2023 11:38 IST","Jun 09, 2023 11:39 IST",0:00:42,0:00:58,0,NA,Yes,0:00:02
+Sangeetha,SHYAM SUNDAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 11:39 IST","Jun 09, 2023 11:40 IST",0:00:43,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/9940353634-102-51719-2231-2427-9344090298-o-0-090623-113933.wav,Yes,0:00:01
+Sangeetha,SINGA DHEENA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 11:46 IST","Jun 09, 2023 11:47 IST",0:00:17,NA,0,NA,Yes,0:00:02
+Sangeetha,JAIKARTHIK S,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 11:47 IST","Jun 09, 2023 11:48 IST",0:01:19,NA,0,NA,Yes,0:00:25
+Sangeetha,VENKATESH NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 09, 2023 11:48 IST","Jun 09, 2023 11:49 IST",0:00:39,0:00:51,0,NA,Yes,0:00:01
+Sangeetha,serangeevi na,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 09, 2023 11:49 IST","Jun 09, 2023 11:51 IST",0:01:46,NA,0,NA,Yes,0:00:01
+Sangeetha,ALBERT NA,Follow-up - Customer Busy,No,No,No,NA,"Jun 09, 2023 11:51 IST","Jun 09, 2023 11:52 IST",0:01:00,0:00:43,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/9094457292-102-51719-2231-2547-9344090298-o-0-090623-115139.wav,Yes,0:00:01
+Sangeetha,DEEPAK NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 11:52 IST","Jun 09, 2023 11:53 IST",0:00:28,NA,0,NA,Yes,0:00:01
+Sangeetha,SHIVAM MALANI,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 11:54 IST","Jun 09, 2023 11:56 IST",0:02:02,NA,0,NA,Yes,0:00:26
+Sangeetha,SATHISH KUMART,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 09, 2023 11:56 IST","Jun 09, 2023 11:57 IST",0:00:31,NA,0,NA,Yes,0:00:01
+Sangeetha,NAVEENTHAN  NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 12:01 IST","Jun 09, 2023 12:03 IST",0:01:48,NA,0,NA,Yes,0:00:25
+Sangeetha,AMARNATH NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 12:03 IST","Jun 09, 2023 12:08 IST",0:05:28,NA,0,NA,Yes,0:00:01
+Sangeetha,KIRUTHIC KAILUSH A,Follow-up - Ringing No Response,No,No,No,NA,"Jun 09, 2023 12:08 IST","Jun 09, 2023 12:09 IST",0:00:52,0:00:52,0,NA,Yes,0:00:01
+Sangeetha,AMARNATH NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 12:15 IST","Jun 09, 2023 12:15 IST",0:00:34,NA,0,NA,Yes,0:00:12
+Sangeetha,ALBERT NA,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 09, 2023 12:15 IST","Jun 09, 2023 12:16 IST",0:00:49,0:00:43,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/9094457292-102-51719-2409-2430-9344090298-o-0-090623-121607.wav,Yes,0:00:00
+Sangeetha,KIRUTHIC KAILUSH A,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 12:18 IST","Jun 09, 2023 12:20 IST",0:01:25,NA,0,NA,Yes,0:00:00
+Sangeetha,THILAK na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 12:20 IST","Jun 09, 2023 12:21 IST",0:00:44,NA,0,NA,Yes,0:00:01
+Sangeetha,VEERARAGAVAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 12:21 IST","Jun 09, 2023 12:25 IST",0:04:33,NA,0,NA,Yes,0:00:21
+Sangeetha,ARYA DUTTA,Postponed the purchase- TR Completed in showroom,No,No,No,6 months,"Jun 09, 2023 12:26 IST","Jun 09, 2023 12:27 IST",0:01:40,0:01:18,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/7845147688-102-51719-2407-2548-9344090298-o-0-090623-122621.wav,Yes,0:00:01
+Sangeetha,SILAMBARASAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 12:28 IST","Jun 09, 2023 12:34 IST",0:06:35,NA,0,NA,Yes,0:00:01
+Sangeetha,RAMAN NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 09, 2023 12:34 IST","Jun 09, 2023 12:38 IST",0:03:21,0:01:00,2,NA,Yes,0:02:23
+Sangeetha,prashanth b,Follow-up - Ringing No Response,No,No,No,NA,"Jun 09, 2023 12:48 IST","Jun 09, 2023 12:49 IST",0:01:00,0:00:53,0,NA,Yes,0:00:19
+Sangeetha,SATHISH NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 09, 2023 12:50 IST","Jun 09, 2023 12:51 IST",0:01:21,NA,0,NA,Yes,0:00:05
+Sangeetha,KULOTHUNGAN NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 09, 2023 12:51 IST","Jun 09, 2023 12:54 IST",0:03:27,NA,0,NA,Yes,0:00:09
+Sangeetha,N GHOUSE BASHA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 12:55 IST","Jun 09, 2023 12:56 IST",0:01:01,NA,0,NA,Yes,0:00:01
+Sangeetha,naveen kumar,Follow-up - Ringing No Response,No,No,No,NA,"Jun 09, 2023 12:56 IST","Jun 09, 2023 12:57 IST",0:01:08,0:00:51,0,NA,Yes,0:00:23
+Sangeetha,selva kumar,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 12:57 IST","Jun 09, 2023 12:59 IST",0:02:23,NA,1,NA,Yes,0:00:55
+Sangeetha,EZHILARASU,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 13:01 IST","Jun 09, 2023 13:07 IST",0:05:37,NA,1,NA,Yes,0:05:04
+Sangeetha,SINIVASAN S,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 13:07 IST","Jun 09, 2023 13:09 IST",0:02:21,NA,0,NA,Yes,0:00:01
+Sangeetha,PRITHVI RAMKUMAR,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 09, 2023 13:09 IST","Jun 09, 2023 13:12 IST",0:03:28,NA,0,NA,Yes,0:00:00
+Sangeetha,GANESH PANDIAN,Follow-up - Ringing No Response,No,No,No,NA,"Jun 09, 2023 13:13 IST","Jun 09, 2023 13:14 IST",0:01:01,0:00:58,0,NA,Yes,0:00:11
+Sangeetha,Venkatesh Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 13:14 IST","Jun 09, 2023 13:18 IST",0:04:15,NA,0,NA,Yes,0:00:18
+Sangeetha,RAJA,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 09, 2023 13:18 IST","Jun 09, 2023 13:19 IST",0:01:22,0:01:22,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/7871743773-102-51719-2402-2551-9344090298-o-0-090623-131843.wav,Yes,0:00:01
+Sangeetha,MOHAN ,Follow-up - Number not Reachable,No,No,No,NA,"Jun 09, 2023 13:19 IST","Jun 09, 2023 13:20 IST",0:00:32,0:00:42,0,NA,Yes,0:00:02
+Sangeetha,Bala Bala,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 13:20 IST","Jun 09, 2023 13:21 IST",0:01:13,NA,0,NA,Yes,0:00:01
+Sangeetha,Rajesh NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 09, 2023 13:21 IST","Jun 09, 2023 13:25 IST",0:04:08,NA,0,NA,Yes,0:00:02
+Sangeetha,Raghvendra Shukla NA,Follow-up - Language Barrier,No,Yes,No,NA,"Jun 09, 2023 13:26 IST","Jun 09, 2023 13:27 IST",0:01:08,0:00:38,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/8860933730-102-51719-2402-2550-9344090298-o-0-090623-132637.wav,Yes,0:00:19
+Sangeetha,Sathish Kumar,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 09, 2023 13:27 IST","Jun 09, 2023 13:28 IST",0:00:43,0:00:14,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/9840715996-102-51719-2402-2427-9344090298-o-0-090623-132735.wav,Yes,0:00:00
+Sangeetha,Sathish Kumar,Interested - Customer will visit showroom,No,No,No,3 days,"Jun 09, 2023 13:28 IST","Jun 09, 2023 13:29 IST",0:00:55,0:00:47,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/9840715996-102-51719-2448-2427-9344090298-o-0-090623-132824.wav,Yes,0:00:01
+Sangeetha,Francis Sandy,Follow-up - Ringing No Response,No,No,No,NA,"Jun 09, 2023 13:29 IST","Jun 09, 2023 13:30 IST",0:00:42,0:00:50,0,NA,Yes,0:00:00
+Sangeetha,Prabhu Inbarasan,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 13:31 IST","Jun 09, 2023 13:31 IST",0:00:36,NA,0,NA,Yes,0:00:03
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 09, 2023 13:32 IST","Jun 09, 2023 13:32 IST",0:00:38,0:00:37,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/7418515203-102-51719-2419-2546-9344090298-o-0-090623-133229.wav,Yes,0:00:08
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 09, 2023 13:32 IST","Jun 09, 2023 13:33 IST",0:00:49,0:00:43,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/7418515203-102-51719-2419-2425-9344090298-o-0-090623-133327.wav,Yes,0:00:08
+Sangeetha,PA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 13:33 IST","Jun 09, 2023 13:35 IST",0:01:24,NA,0,NA,Yes,0:00:06
+Sangeetha,Yasir,Lost Lead - Multiple RNR's more than 10 times,No,Yes,No,NA,"Jun 09, 2023 13:35 IST","Jun 09, 2023 13:35 IST",0:00:15,0:00:22,0,NA,Yes,0:00:01
+Sangeetha,Deepgayu,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 09, 2023 13:35 IST","Jun 09, 2023 13:36 IST",0:01:07,NA,1,NA,Yes,0:00:44
+Sangeetha,Navis,Follow-up - Number not Reachable,No,No,No,NA,"Jun 09, 2023 13:47 IST","Jun 09, 2023 13:48 IST",0:00:37,0:00:21,0,NA,Yes,0:00:23
+Sangeetha,Selva,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 13:48 IST","Jun 09, 2023 13:49 IST",0:01:21,NA,0,NA,Yes,0:00:18
+Sangeetha,Siva,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 13:50 IST","Jun 09, 2023 13:50 IST",0:00:10,NA,0,NA,Yes,0:00:01
+Sangeetha,Kathiresan,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 09, 2023 13:50 IST","Jun 09, 2023 13:50 IST",0:00:17,0:00:29,0,NA,Yes,0:00:00
+Sangeetha,Kathiresan,Follow-up - Customer Busy,No,No,No,5 days,"Jun 09, 2023 13:50 IST","Jun 09, 2023 13:51 IST",0:00:42,0:00:31,0,http://103.73.188.156/Recording/Rec1/102/1965/9-6-2023/8939124274-102-51719-2432-2547-9344090298-o-0-090623-135049.wav,Yes,0:00:01
+Sangeetha,Nirmal Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 13:51 IST","Jun 09, 2023 13:53 IST",0:02:18,NA,0,NA,Yes,0:00:07
+Sangeetha,Di NA,Follow-up - Number not Reachable,No,No,No,NA,"Jun 09, 2023 13:54 IST","Jun 09, 2023 13:54 IST",0:00:14,0:00:22,0,NA,Yes,0:00:00
+Sangeetha,Vimal S NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 09, 2023 13:54 IST","Jun 09, 2023 13:55 IST",0:00:39,NA,0,NA,Yes,0:00:04
+Sangeetha,Meena Viswakarma NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 09, 2023 13:55 IST","Jun 09, 2023 14:04 IST",0:09:00,NA,0,NA,Yes,0:00:01
+Sangeetha,CHAKKARAVARTHY Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 10, 2023 09:59 IST","Jun 10, 2023 09:59 IST",0:00:49,NA,0,NA,Yes,0:00:20
+Sangeetha,Ankit Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 10, 2023 10:00 IST","Jun 10, 2023 10:07 IST",0:07:15,NA,0,NA,Yes,0:00:00
+Sangeetha,Samual Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 10, 2023 10:07 IST","Jun 10, 2023 10:13 IST",0:05:59,NA,1,NA,Yes,0:01:01
+Sangeetha,Ranjith Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 10, 2023 10:15 IST","Jun 10, 2023 10:17 IST",0:01:22,NA,0,NA,Yes,0:00:06
+Sangeetha,JIHIN JOHNY,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 10:17 IST","Jun 10, 2023 10:21 IST",0:04:28,NA,1,NA,Yes,0:01:08
+Sangeetha,SHAM NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 10, 2023 10:21 IST","Jun 10, 2023 10:22 IST",0:00:41,0:00:58,0,NA,Yes,0:00:01
+Sangeetha,DHAKSHANA MOORTHY,Follow-up - Ringing No Response,No,No,No,NA,"Jun 10, 2023 10:22 IST","Jun 10, 2023 10:24 IST",0:01:44,0:00:51,0,NA,Yes,0:00:01
+Sangeetha,UTKARSH RAJ,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 10, 2023 10:27 IST","Jun 10, 2023 10:29 IST",0:01:40,NA,1,NA,Yes,0:01:05
+Sangeetha,Ramganapathy Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 10:30 IST","Jun 10, 2023 10:36 IST",0:05:28,NA,0,NA,Yes,0:00:22
+Sangeetha,Arshu Null,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 10, 2023 10:36 IST","Jun 10, 2023 10:41 IST",0:05:07,0:00:23,2,NA,Yes,0:04:54
+Sangeetha,Praveen Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 10, 2023 10:41 IST","Jun 10, 2023 10:41 IST",0:00:28,NA,0,NA,Yes,0:00:02
+Sangeetha,NA ASIF,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 10:42 IST","Jun 10, 2023 10:44 IST",0:02:20,NA,0,NA,Yes,0:00:01
+Sangeetha,DEEPAK NA,Lost Lead - Not Interested - High price when compared to other showroom,No,Yes,No,NA,"Jun 10, 2023 10:51 IST","Jun 10, 2023 10:52 IST",0:01:08,0:00:25,0,NA,Yes,0:00:01
+Sangeetha,SHIVAM MALANI,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 10:52 IST","Jun 10, 2023 10:54 IST",0:02:10,NA,0,NA,Yes,0:00:01
+Sangeetha,serangeevi na,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 10, 2023 10:54 IST","Jun 10, 2023 10:59 IST",0:05:06,NA,0,NA,Yes,0:00:01
+Sangeetha,VENKATESH NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 10, 2023 10:59 IST","Jun 10, 2023 11:00 IST",0:00:42,0:00:39,0,NA,Yes,0:00:09
+Sangeetha,JAIKARTHIK S,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 11:00 IST","Jun 10, 2023 11:02 IST",0:02:27,NA,0,NA,Yes,0:00:28
+Sangeetha,SINGA DHEENA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 10, 2023 11:03 IST","Jun 10, 2023 11:04 IST",0:01:41,NA,1,NA,Yes,0:00:36
+Sangeetha,naveen kumar,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 11:05 IST","Jun 10, 2023 11:10 IST",0:05:31,NA,1,NA,Yes,0:01:09
+Sangeetha,N GHOUSE BASHA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 10, 2023 11:10 IST","Jun 10, 2023 11:12 IST",0:01:41,0:00:59,1,NA,Yes,0:00:57
+Sangeetha,prashanth b,Follow-up - Ringing No Response,No,No,No,NA,"Jun 10, 2023 11:12 IST","Jun 10, 2023 11:14 IST",0:02:16,0:00:51,1,NA,Yes,0:01:30
+Sangeetha,RAMAN NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 10, 2023 11:14 IST","Jun 10, 2023 11:16 IST",0:01:57,0:00:59,1,NA,Yes,0:01:03
+Sangeetha,SILAMBARASAN NA,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 10, 2023 11:16 IST","Jun 10, 2023 11:17 IST",0:00:54,0:00:52,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/9159823817-102-51815-2429-2430-9344090298-o-0-100623-111705.wav,Yes,0:00:01
+Sangeetha,VEERARAGAVAN NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 10, 2023 11:17 IST","Jun 10, 2023 11:18 IST",0:00:56,NA,1,NA,Yes,0:00:42
+Sangeetha,THILAK na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 11:18 IST","Jun 10, 2023 11:21 IST",0:02:43,NA,1,NA,Yes,0:01:00
+Sangeetha,KIRUTHIC KAILUSH A,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 11:21 IST","Jun 10, 2023 11:23 IST",0:01:33,NA,0,NA,Yes,0:00:23
+Sangeetha,NAVEENTHAN  NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 11:23 IST","Jun 10, 2023 11:25 IST",0:02:30,NA,0,NA,Yes,0:00:01
+Sangeetha,SHIVAM MALANI,Follow-up - Customer Busy,No,No,No,NA,"Jun 10, 2023 11:25 IST","Jun 10, 2023 11:26 IST",0:00:50,0:00:55,0,NA,Yes,0:00:01
+Sangeetha,VENKATESH NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 11:38 IST","Jun 10, 2023 11:43 IST",0:04:47,NA,0,NA,Yes,0:00:01
+Sangeetha,JAIKARTHIK S,Follow-up - Customer Busy,No,No,No,NA,"Jun 10, 2023 11:43 IST","Jun 10, 2023 11:44 IST",0:01:34,0:00:58,1,NA,Yes,0:01:07
+Sangeetha,SHYAM SUNDAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 11:44 IST","Jun 10, 2023 11:46 IST",0:01:51,NA,0,NA,Yes,0:00:24
+Sangeetha,MATHI NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 11:46 IST","Jun 10, 2023 11:48 IST",0:02:00,NA,1,NA,Yes,0:01:00
+Sangeetha,MANIKANDAN NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 10, 2023 11:48 IST","Jun 10, 2023 11:50 IST",0:01:53,NA,1,NA,Yes,0:01:22
+Sangeetha,Jeffrey Christopher NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 11:54 IST","Jun 10, 2023 11:55 IST",0:00:32,NA,0,NA,Yes,0:00:01
+Sangeetha,PRAVEEN  RAJ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 11:56 IST","Jun 10, 2023 11:58 IST",0:01:26,NA,0,NA,Yes,0:00:01
+Sangeetha,VEERIAH,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 10, 2023 11:58 IST","Jun 10, 2023 11:59 IST",0:01:19,NA,0,NA,Yes,0:00:01
+Sangeetha,SINIVASAN S,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 10, 2023 11:59 IST","Jun 10, 2023 12:00 IST",0:00:54,NA,0,NA,Yes,0:00:20
+Sangeetha,GANESH PANDIAN,Lost Lead - Not Interested - No plans to purchase now,No,Yes,No,NA,"Jun 10, 2023 12:03 IST","Jun 10, 2023 12:04 IST",0:00:56,0:00:28,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/9677135724-102-51815-2403-2425-9344090298-o-0-100623-120317.wav,Yes,0:00:01
+Sangeetha,Venkatesh Null,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 10, 2023 12:09 IST","Jun 10, 2023 12:10 IST",0:01:11,0:00:57,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/9629634324-102-51815-2400-2427-9344090298-o-0-100623-120946.wav,Yes,0:00:14
+Sangeetha,Bala Bala,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 12:10 IST","Jun 10, 2023 12:13 IST",0:02:28,NA,0,NA,Yes,0:00:01
+Sangeetha,Francis Sandy,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 10, 2023 12:13 IST","Jun 10, 2023 12:14 IST",0:01:12,NA,1,NA,Yes,0:00:43
+Sangeetha,Thenni Arasan,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 12:14 IST","Jun 10, 2023 12:14 IST",0:00:27,NA,0,NA,Yes,0:00:01
+Sangeetha,Civil,Follow-up - Customer Busy,No,No,No,NA,"Jun 10, 2023 12:15 IST","Jun 10, 2023 12:16 IST",0:01:03,0:00:40,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/7094558203-102-51815-2434-2424-9344090298-o-0-100623-121518.wav,Yes,0:00:01
+Sangeetha,Deepa,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 10, 2023 12:16 IST","Jun 10, 2023 12:17 IST",0:01:33,NA,0,NA,Yes,0:00:09
+Sangeetha,Prabhu Inbarasan,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 12:18 IST","Jun 10, 2023 12:20 IST",0:02:10,NA,0,NA,Yes,0:00:01
+Sangeetha,Jayabalan R M,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 12:21 IST","Jun 10, 2023 12:21 IST",0:00:46,NA,0,NA,Yes,0:00:05
+Sangeetha,Vijay,Follow-up - Ringing No Response,No,No,No,NA,"Jun 10, 2023 12:21 IST","Jun 10, 2023 12:22 IST",0:00:36,0:00:51,0,NA,Yes,0:00:02
+Sangeetha,Selva,Number not belongs to the customer,No,Yes,No,NA,"Jun 10, 2023 12:22 IST","Jun 10, 2023 12:23 IST",0:00:41,0:00:21,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/9941269423-102-51815-2411-2425-9344090298-o-0-100623-122242.wav,Yes,0:00:04
+Sangeetha,Sureshbabu,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 10, 2023 12:23 IST","Jun 10, 2023 12:24 IST",0:01:01,0:01:04,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/9344774361-102-51815-2411-2548-9344090298-o-0-100623-122322.wav,Yes,0:00:01
+Sangeetha,JOSEPH Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 12:24 IST","Jun 10, 2023 12:25 IST",0:01:04,NA,0,NA,Yes,0:00:00
+Sangeetha,karu ramesh NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 10, 2023 12:25 IST","Jun 10, 2023 12:26 IST",0:01:26,NA,0,NA,Yes,0:00:01
+Sangeetha,JOSEPH Null,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 10, 2023 12:29 IST","Jun 10, 2023 12:30 IST",0:01:05,0:00:45,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/9840665425-102-51815-2406-2551-9344090298-o-0-100623-122917.wav,Yes,0:00:01
+Sangeetha,karu ramesh NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 10, 2023 12:30 IST","Jun 10, 2023 12:34 IST",0:04:22,NA,0,NA,Yes,0:00:01
+Sangeetha,Meena Viswakarma NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 12:34 IST","Jun 10, 2023 12:36 IST",0:01:46,NA,0,NA,Yes,0:00:02
+Sangeetha,deepak b NA,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 10, 2023 12:36 IST","Jun 10, 2023 12:38 IST",0:02:20,0:00:51,1,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/9789686207-102-51815-2413-2547-9344090298-o-0-100623-123840.wav,Yes,0:01:32
+Sangeetha,deepak b NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 10, 2023 12:39 IST","Jun 10, 2023 12:39 IST",0:00:30,NA,0,NA,Yes,0:00:01
+Sangeetha,SYED AMEER BASHA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 12:39 IST","Jun 10, 2023 12:41 IST",0:01:42,NA,0,NA,Yes,0:00:01
+Sangeetha,Future Makes Old Screen NA,Lost Lead - Not Interested - No plans to purchase now,No,Yes,No,NA,"Jun 10, 2023 12:41 IST","Jun 10, 2023 12:42 IST",0:01:15,0:01:09,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/7200187245-102-51815-2422-2550-9344090298-o-0-100623-124139.wav,Yes,0:00:00
+Sangeetha,Vijay,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 12:42 IST","Jun 10, 2023 12:44 IST",0:01:42,NA,0,NA,Yes,0:00:00
+Sangeetha,Karthi,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 10, 2023 12:44 IST","Jun 10, 2023 12:49 IST",0:05:14,NA,0,NA,Yes,0:00:00
+Sangeetha,Vasanth Maddasani,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 10, 2023 12:49 IST","Jun 10, 2023 12:50 IST",0:00:26,0:00:29,0,NA,Yes,0:00:00
+Sangeetha,Nivas Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 12:50 IST","Jun 10, 2023 12:56 IST",0:05:51,NA,0,NA,Yes,0:00:00
+Sangeetha,Sam R,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 12:56 IST","Jun 10, 2023 12:57 IST",0:01:19,NA,0,NA,Yes,0:00:01
+Sangeetha,Kishanth Kumar,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 10, 2023 12:58 IST","Jun 10, 2023 13:01 IST",0:02:33,0:00:01,0,NA,Yes,0:00:01
+Sangeetha,Richard,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 13:01 IST","Jun 10, 2023 13:09 IST",0:08:14,NA,0,NA,Yes,0:00:01
+Sangeetha,Sumanth,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 13:09 IST","Jun 10, 2023 13:12 IST",0:03:27,NA,0,NA,Yes,0:00:25
+Sangeetha,Raj,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 10, 2023 13:12 IST","Jun 10, 2023 13:13 IST",0:00:30,0:00:19,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/9080458625-102-51815-2378-2551-9344090298-o-0-100623-131310.wav,Yes,0:00:02
+Sangeetha,Nandha,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 13:31 IST","Jun 10, 2023 13:33 IST",0:01:30,NA,0,NA,Yes,0:00:01
+Sangeetha,harish,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 10, 2023 13:33 IST","Jun 10, 2023 13:37 IST",0:04:45,NA,1,NA,Yes,0:01:58
+Sangeetha,harish,Follow-up - Customer Busy,No,No,No,NA,"Jun 10, 2023 13:38 IST","Jun 10, 2023 13:38 IST",0:00:25,0:00:28,0,NA,Yes,0:00:01
+Sangeetha,Jeffrey Christopher NA,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 10, 2023 13:38 IST","Jun 10, 2023 13:39 IST",0:01:06,0:00:58,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/8270218160-102-51815-2203-2550-9344090298-o-0-100623-133851.wav,Yes,0:00:01
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 10, 2023 13:40 IST","Jun 10, 2023 13:40 IST",0:00:55,NA,0,NA,Yes,0:00:01
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 10, 2023 13:41 IST","Jun 10, 2023 13:41 IST",0:00:46,0:00:21,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/7418515203-102-51815-2203-2550-9344090298-o-0-100623-134125.wav,Yes,0:00:01
+Sangeetha,SATHISH NA,Interested - Customer will visit showroom,No,No,No,3 days,"Jun 10, 2023 13:43 IST","Jun 10, 2023 13:45 IST",0:01:59,0:00:53,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/9884332000-102-51815-2355-2550-9344090298-o-0-100623-134329.wav,Yes,0:00:01
+Sangeetha,Pradeep NA ,Follow-up - Ringing No Response,Yes,No,No,3 days,"Jun 10, 2023 13:45 IST","Jun 10, 2023 13:47 IST",0:02:05,NA,0,NA,Yes,0:00:01
+Sangeetha,Sampath,Follow-up - Customer out of station,No,No,No,3 days,"Jun 10, 2023 13:47 IST","Jun 10, 2023 13:48 IST",0:00:57,0:00:41,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/9677116676-102-51815-2361-2427-9344090298-o-0-100623-134747.wav,Yes,0:00:01
+Sangeetha,Samenadan,Follow-up - Number not Reachable,No,No,No,3 days,"Jun 10, 2023 13:48 IST","Jun 10, 2023 13:51 IST",0:02:58,0:00:01,0,NA,Yes,0:00:01
+Sangeetha,Kathiresan,Follow-up - Customer Busy,No,No,No,3 days,"Jun 10, 2023 13:56 IST","Jun 10, 2023 14:01 IST",0:05:15,0:00:25,0,http://103.73.188.156/Recording/Rec1/102/1965/10-6-2023/8939124274-102-51815-2361-2550-9344090298-o-0-100623-135621.wav,Yes,0:00:01
+Sangeetha,Selvendiran,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 10, 2023 14:01 IST","Jun 10, 2023 14:02 IST",0:00:47,NA,0,NA,Yes,0:00:01
+Sangeetha,DINESH K,Postponed the purchase- TR Completed in showroom,No,No,No,NA,"Jun 12, 2023 09:31 IST","Jun 12, 2023 09:34 IST",0:02:30,0:01:23,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/9080582288-102-51869-2348-2551-9344090298-o-0-120623-093215.wav,Yes,0:00:22
+Sangeetha,SATHISH NA,Interested - Customer will visit showroom,Yes,No,No,NA,"Jun 12, 2023 09:36 IST","Jun 12, 2023 09:36 IST",0:00:54,NA,0,NA,Yes,0:00:01
+Sangeetha,HARSGAVARDHA NA,Follow-up - Customer Busy,No,No,No,3 days,"Jun 12, 2023 09:38 IST","Jun 12, 2023 09:39 IST",0:01:23,0:00:31,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/6382970066-102-51869-2348-2430-9344090298-o-0-120623-093905.wav,Yes,0:00:28
+Sangeetha,SATHISH NA,Interested - Test Ride completed in showroom,No,No,No,2 days,"Jun 12, 2023 09:39 IST","Jun 12, 2023 09:44 IST",0:04:53,0:01:22,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/9884332000-102-51869-2348-2430-9344090298-o-0-120623-094028.wav,Yes,0:00:28
+Sangeetha,Ramkunar Null,Interested - Follow-up,No,No,No,2 days,"Jun 12, 2023 09:45 IST","Jun 12, 2023 09:47 IST",0:02:07,0:01:17,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/9791015827-102-51869-2334-2430-9344090298-o-0-120623-094520.wav,Yes,0:00:01
+Sangeetha,Sam Arun Kumar,Follow-up - Customer out of station,No,No,No,18 days,"Jun 12, 2023 09:47 IST","Jun 12, 2023 09:52 IST",0:05:04,0:00:54,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/9791532203-102-51869-2334-2430-9344090298-o-0-120623-094747.wav,Yes,0:00:01
+Sangeetha,Kathiresan,Lost Lead - Not Interested - Just Inquired,No,Yes,No,NA,"Jun 12, 2023 09:53 IST","Jun 12, 2023 09:54 IST",0:00:58,0:01:01,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/8939124274-102-51869-2334-2551-9344090298-o-0-120623-095325.wav,Yes,0:00:01
+Sangeetha,Manickam Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 09:54 IST","Jun 12, 2023 09:57 IST",0:03:47,NA,0,NA,Yes,0:00:01
+Sangeetha,Samenadan,Interested - Follow-up,No,No,No,about 1 month,"Jun 12, 2023 09:58 IST","Jun 12, 2023 10:00 IST",0:02:34,0:00:50,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/9360330010-102-51869-2334-2550-9344090298-o-0-120623-095837.wav,Yes,0:00:23
+Sangeetha,Senthilkumar Rajamanikam,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 10:00 IST","Jun 12, 2023 10:01 IST",0:01:13,NA,0,NA,Yes,0:00:01
+Sangeetha,Manickam Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 10:03 IST","Jun 12, 2023 10:05 IST",0:02:03,NA,0,NA,Yes,0:00:01
+Sangeetha,Sampath,Interested - Customer will visit showroom,No,No,No,NA,"Jun 12, 2023 10:06 IST","Jun 12, 2023 10:10 IST",0:04:16,0:01:36,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/9677116676-102-51869-2293-2551-9344090298-o-0-120623-100616.wav,Yes,0:00:01
+Sangeetha,Sathish Kumar,Interested - Customer will visit showroom,Yes,No,No,NA,"Jun 12, 2023 10:10 IST","Jun 12, 2023 10:14 IST",0:03:45,NA,0,NA,Yes,0:00:01
+Sangeetha,Pradeep NA ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 10:14 IST","Jun 12, 2023 10:16 IST",0:02:09,NA,0,NA,Yes,0:00:01
+Sangeetha,Senthilkumar Rajamanikam,Follow-up - Number not Reachable,No,No,No,NA,"Jun 12, 2023 10:17 IST","Jun 12, 2023 10:18 IST",0:01:28,0:00:57,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/9003345556-102-51869-2293-2430-9344090298-o-0-120623-101729.wav,Yes,0:00:01
+Sangeetha,Senthilkumar Rajamanikam,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 10:18 IST","Jun 12, 2023 10:21 IST",0:02:31,NA,2,NA,Yes,0:01:50
+Sangeetha,Manickam Null,Follow-up - Ringing No Response,No,No,No,2 days,"Jun 12, 2023 10:21 IST","Jun 12, 2023 10:24 IST",0:03:12,0:00:58,1,NA,Yes,0:02:10
+Sangeetha,Pradeep NA ,Follow-up - Ringing No Response,No,No,No,NA,"Jun 12, 2023 10:26 IST","Jun 12, 2023 10:29 IST",0:02:41,0:00:59,1,NA,Yes,0:01:58
+Sangeetha,Bento,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 10:30 IST","Jun 12, 2023 10:31 IST",0:01:29,NA,1,NA,Yes,0:00:34
+Sangeetha,Sumanth,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 10:31 IST","Jun 12, 2023 10:34 IST",0:02:15,NA,1,NA,Yes,0:01:00
+Sangeetha,Akash,Lost Lead - Invalid contact number,Yes,Yes,Yes,NA,"Jun 12, 2023 10:34 IST","Jun 12, 2023 10:34 IST",0:00:17,NA,0,NA,Yes,0:00:01
+Sangeetha,Samy,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 10:34 IST","Jun 12, 2023 10:37 IST",0:03:19,NA,2,NA,Yes,0:02:37
+Sangeetha,Samy,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 10:38 IST","Jun 12, 2023 10:38 IST",0:00:27,NA,0,NA,Yes,0:00:01
+Sangeetha,Wasim,Follow-up - Number switched off,Yes,No,No,NA,"Jun 12, 2023 10:38 IST","Jun 12, 2023 10:39 IST",0:00:36,NA,0,NA,Yes,0:00:01
+Sangeetha,S,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 12, 2023 10:39 IST","Jun 12, 2023 10:39 IST",0:00:25,NA,0,NA,Yes,0:00:01
+Sangeetha,Ansar,Interested - Follow-up,No,No,No,2 days,"Jun 12, 2023 10:39 IST","Jun 12, 2023 10:43 IST",0:03:39,0:01:55,1,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/9605990975-102-51869-2229-2426-9344090298-o-0-120623-104106.wav,Yes,0:01:05
+Sangeetha,User,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 10:43 IST","Jun 12, 2023 10:43 IST",0:00:23,NA,0,NA,Yes,0:00:01
+Sangeetha,Raj,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 12, 2023 10:44 IST","Jun 12, 2023 10:44 IST",0:00:38,NA,0,NA,Yes,0:00:01
+Sangeetha,aswath,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 10:44 IST","Jun 12, 2023 10:48 IST",0:03:49,NA,0,NA,Yes,0:00:01
+Sangeetha,Manojkumar,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 12, 2023 10:48 IST","Jun 12, 2023 10:50 IST",0:01:24,NA,0,NA,Yes,0:00:01
+Sangeetha,Fasalu Rahman,Follow-up - Number switched off,Yes,No,No,NA,"Jun 12, 2023 10:50 IST","Jun 12, 2023 10:50 IST",0:00:28,NA,0,NA,Yes,0:00:01
+Sangeetha,Sunil,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 10:50 IST","Jun 12, 2023 10:54 IST",0:03:26,NA,0,NA,Yes,0:00:01
+Sangeetha,User,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 10:55 IST","Jun 12, 2023 10:57 IST",0:02:03,NA,0,NA,Yes,0:00:01
+Sangeetha,Balaji,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 10:57 IST","Jun 12, 2023 11:02 IST",0:05:45,NA,0,NA,Yes,0:00:01
+Sangeetha,Mohamed,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 11:02 IST","Jun 12, 2023 11:09 IST",0:06:58,NA,1,NA,Yes,0:04:09
+Sangeetha,aloneboyashok,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 11:10 IST","Jun 12, 2023 11:12 IST",0:02:34,NA,0,NA,Yes,0:00:02
+Sangeetha,Jaison,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 11:12 IST","Jun 12, 2023 11:14 IST",0:02:02,NA,1,NA,Yes,0:01:06
+Sangeetha,Sonjay,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 12, 2023 11:14 IST","Jun 12, 2023 11:19 IST",0:04:19,NA,0,NA,Yes,0:00:02
+Sangeetha,G,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 11:21 IST","Jun 12, 2023 11:29 IST",0:07:31,NA,1,NA,Yes,0:03:55
+Sangeetha,Jrrvan,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 11:29 IST","Jun 12, 2023 11:32 IST",0:02:49,NA,0,NA,Yes,0:00:02
+Sangeetha,ummer,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 11:32 IST","Jun 12, 2023 11:39 IST",0:06:34,NA,0,NA,Yes,0:00:01
+Sangeetha,Prakash,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 11:39 IST","Jun 12, 2023 11:40 IST",0:01:15,NA,0,NA,Yes,0:00:02
+Sangeetha,Santosh,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 11:40 IST","Jun 12, 2023 11:45 IST",0:04:28,NA,2,NA,Yes,0:02:37
+Sangeetha,Ratheesh,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 11:45 IST","Jun 12, 2023 11:48 IST",0:03:39,NA,1,NA,Yes,0:02:31
+Sangeetha,habibur,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 11:50 IST","Jun 12, 2023 11:54 IST",0:04:11,NA,0,NA,Yes,0:00:21
+Sangeetha,Vasanth,Follow-up - Ringing No Response,No,No,No,NA,"Jun 12, 2023 11:56 IST","Jun 12, 2023 11:57 IST",0:00:37,0:00:40,0,NA,Yes,0:00:01
+Sangeetha,Dinesh,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 11:57 IST","Jun 12, 2023 12:04 IST",0:06:50,NA,1,NA,Yes,0:00:49
+Sangeetha,Anandan,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 12:04 IST","Jun 12, 2023 12:07 IST",0:03:10,NA,0,NA,Yes,0:00:01
+Sangeetha,How Much Rate Naresh,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 12:07 IST","Jun 12, 2023 12:09 IST",0:02:08,NA,1,NA,Yes,0:01:37
+Sangeetha,Bala,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 12, 2023 12:09 IST","Jun 12, 2023 12:15 IST",0:06:10,NA,2,NA,Yes,0:05:31
+Sangeetha,Sabirul Sanpui,Follow-up - Customer Busy,No,No,No,2 days,"Jun 12, 2023 12:15 IST","Jun 12, 2023 12:17 IST",0:02:02,0:00:42,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/9360489470-102-51869-2061-2547-9344090298-o-0-120623-121629.wav,Yes,0:00:24
+Sangeetha,Manickam Null,Follow-up - Ringing No Response,No,No,No,2 days,"Jun 12, 2023 12:19 IST","Jun 12, 2023 12:21 IST",0:02:00,0:01:00,1,NA,Yes,0:00:53
+Sangeetha,Rajesh,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 12:21 IST","Jun 12, 2023 12:21 IST",0:00:30,NA,0,NA,Yes,0:00:02
+Sangeetha,Mohammad,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 12, 2023 12:22 IST","Jun 12, 2023 12:22 IST",0:00:25,NA,0,NA,Yes,0:00:01
+Sangeetha,Sabari,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 12:22 IST","Jun 12, 2023 12:25 IST",0:02:39,NA,0,NA,Yes,0:00:02
+Sangeetha,Velmurugan,Follow-up - Customer Busy,No,No,No,2 days,"Jun 12, 2023 12:25 IST","Jun 12, 2023 12:27 IST",0:02:00,0:01:07,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/7418635399-102-51869-2034-2427-9344090298-o-0-120623-122554.wav,Yes,0:00:01
+Sangeetha,Gokul,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 12, 2023 12:28 IST","Jun 12, 2023 12:31 IST",0:02:19,NA,0,NA,Yes,0:00:02
+Sangeetha,Deep,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 12:31 IST","Jun 12, 2023 12:32 IST",0:01:29,NA,0,NA,Yes,0:00:02
+Sangeetha,Shivaramakrishnan V,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 12:36 IST","Jun 12, 2023 12:39 IST",0:03:47,NA,0,NA,Yes,0:00:01
+Sangeetha,Anil,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 12, 2023 12:40 IST","Jun 12, 2023 12:41 IST",0:01:08,0:01:05,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/8790743708-102-51869-2034-2548-9344090298-o-0-120623-124022.wav,Yes,0:00:01
+Sangeetha,Jai,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 12:41 IST","Jun 12, 2023 12:42 IST",0:01:20,NA,0,NA,Yes,0:00:01
+Sangeetha,Gsjks,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 12:42 IST","Jun 12, 2023 12:48 IST",0:05:44,NA,0,NA,Yes,0:00:01
+Sangeetha,Gi,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 12, 2023 12:48 IST","Jun 12, 2023 12:52 IST",0:04:10,NA,1,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/9363636363-102-51869-2034-2551-9344090298-o-0-120623-125203.wav,Yes,0:03:23
+Sangeetha,Suriya,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 12:52 IST","Jun 12, 2023 12:55 IST",0:02:12,NA,0,NA,Yes,0:00:01
+Sangeetha,Jithendra,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 12, 2023 12:55 IST","Jun 12, 2023 13:02 IST",0:07:37,NA,1,NA,Yes,0:06:44
+Sangeetha,arvint,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 13:02 IST","Jun 12, 2023 13:03 IST",0:00:55,NA,0,NA,Yes,0:00:01
+Sangeetha,Nandha,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 13:03 IST","Jun 12, 2023 13:06 IST",0:02:46,NA,0,NA,Yes,0:00:02
+Sangeetha,Aakash Babu,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 12, 2023 13:13 IST","Jun 12, 2023 13:14 IST",0:01:40,NA,0,NA,Yes,0:00:01
+Sangeetha,Karthikeyan,Follow-up - Number not Reachable,No,No,No,NA,"Jun 12, 2023 13:16 IST","Jun 12, 2023 13:18 IST",0:01:18,0:00:43,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/8489053053-102-51869-2343-2546-9344090298-o-0-120623-131714.wav,Yes,0:00:01
+Sangeetha,Karthikeyan,Interested - TR Scheduled,No,No,No,NA,"Jun 12, 2023 13:18 IST","Jun 12, 2023 13:25 IST",0:07:18,0:03:47,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/8489053053-102-51869-2308-2548-9344090298-o-0-120623-131826.wav,Yes,0:00:02
+Sangeetha,harish,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 12, 2023 13:26 IST","Jun 12, 2023 13:32 IST",0:06:33,NA,0,NA,Yes,0:00:01
+Sangeetha,deva Null,Follow-up - Language Barrier,No,Yes,No,NA,"Jun 12, 2023 13:33 IST","Jun 12, 2023 13:34 IST",0:01:00,0:00:50,0,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/7695840973-102-51869-2280-2550-9344090298-o-0-120623-133357.wav,Yes,0:00:02
+Sangeetha,Sakthivel Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 13:34 IST","Jun 12, 2023 13:39 IST",0:04:29,NA,2,NA,Yes,0:03:33
+Sangeetha,Hari Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 12, 2023 13:39 IST","Jun 12, 2023 13:44 IST",0:05:03,NA,0,NA,Yes,0:00:19
+Sangeetha,Maheswari Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 13:44 IST","Jun 12, 2023 13:46 IST",0:01:39,NA,0,NA,Yes,0:00:26
+Sangeetha,John Micheal NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 12, 2023 13:46 IST","Jun 12, 2023 13:47 IST",0:01:12,NA,0,NA,Yes,0:00:01
+Sangeetha,ravikumar Null,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 12, 2023 13:47 IST","Jun 12, 2023 13:48 IST",0:01:10,NA,0,NA,Yes,0:00:46
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 12, 2023 13:48 IST","Jun 12, 2023 13:52 IST",0:03:26,0:00:40,2,http://103.73.188.156/Recording/Rec1/102/1965/12-6-2023/7418515203-102-51869-2222-2547-9344090298-o-0-120623-135147.wav,Yes,0:02:35
+Sangeetha,SHAFI NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 12, 2023 13:54 IST","Jun 12, 2023 13:57 IST",0:03:01,NA,0,NA,Yes,0:00:02
+Sangeetha,SHAFI NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 12, 2023 13:57 IST","Jun 12, 2023 13:58 IST",0:00:30,NA,0,NA,Yes,0:00:01
+Sangeetha,SHAFI NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 12, 2023 14:04 IST","Jun 12, 2023 14:06 IST",0:02:27,NA,0,NA,Yes,0:00:01
+Sangeetha,CHAKKARAVARTHY Null,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 09:30 IST","Jun 13, 2023 09:31 IST",0:00:22,NA,0,NA,Yes,0:00:01
+Sangeetha,Ankit Null,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 09:31 IST","Jun 13, 2023 09:31 IST",0:00:36,NA,0,NA,Yes,0:00:01
+Sangeetha,Samual Null,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 09:31 IST","Jun 13, 2023 09:33 IST",0:01:49,NA,0,NA,Yes,0:00:01
+Sangeetha,Ranjith Null,Interested - Follow-up,No,No,No,NA,"Jun 13, 2023 09:33 IST","Jun 13, 2023 09:41 IST",0:08:10,0:00:58,0,NA,Yes,0:00:01
+Sangeetha,JIHIN JOHNY,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 09:42 IST","Jun 13, 2023 09:43 IST",0:01:45,NA,0,NA,Yes,0:00:01
+Sangeetha,SHAM NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 09:43 IST","Jun 13, 2023 09:47 IST",0:03:50,NA,0,NA,Yes,0:00:01
+Sangeetha,DHAKSHANA MOORTHY,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 09:47 IST","Jun 13, 2023 09:50 IST",0:02:57,NA,2,NA,Yes,0:02:19
+Sangeetha,UTKARSH RAJ,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 09:50 IST","Jun 13, 2023 09:52 IST",0:01:34,NA,0,NA,Yes,0:00:01
+Sangeetha,Ramganapathy Null,Follow-up - Customer Busy,No,No,No,NA,"Jun 13, 2023 09:52 IST","Jun 13, 2023 09:53 IST",0:01:09,0:00:54,0,NA,Yes,0:00:21
+Sangeetha,Arshu Null,Lost Lead - Not Interested - Just Inquired,No,Yes,No,NA,"Jun 13, 2023 09:57 IST","Jun 13, 2023 10:03 IST",0:06:27,0:00:24,0,NA,Yes,0:00:01
+Sangeetha,Praveen Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 13, 2023 10:03 IST","Jun 13, 2023 10:11 IST",0:07:35,NA,0,NA,Yes,0:00:01
+Sangeetha,Ramganapathy Null,Follow-up - Customer Busy,No,No,No,1 day,"Jun 13, 2023 10:11 IST","Jun 13, 2023 10:15 IST",0:03:55,0:00:57,1,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/9943944499-102-51902-2296-2551-9344090298-o-0-130623-101429.wav,Yes,0:02:29
+Sangeetha,NA ASIF,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 10:15 IST","Jun 13, 2023 10:19 IST",0:03:35,NA,0,NA,Yes,0:00:01
+Sangeetha,JAWAAD AHMED GHIAS,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 13, 2023 10:19 IST","Jun 13, 2023 10:23 IST",0:03:27,NA,2,NA,Yes,0:02:35
+Sangeetha,MOHAMEED ASHIK,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 10:23 IST","Jun 13, 2023 10:24 IST",0:01:14,NA,0,NA,Yes,0:00:01
+Sangeetha,c vishesh,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 10:24 IST","Jun 13, 2023 10:25 IST",0:01:23,NA,0,NA,Yes,0:00:01
+Sangeetha,RAJA NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 13, 2023 10:25 IST","Jun 13, 2023 10:26 IST",0:00:34,NA,0,NA,Yes,0:00:01
+Sangeetha,MANIKANDAN NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 10:26 IST","Jun 13, 2023 10:27 IST",0:00:39,NA,0,NA,Yes,0:00:01
+Sangeetha,SHAFI NA,Interested - Follow-up,No,No,No,NA,"Jun 13, 2023 10:27 IST","Jun 13, 2023 10:30 IST",0:02:53,0:02:03,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/9962964963-102-51902-2296-2551-9344090298-o-0-130623-102731.wav,Yes,0:00:01
+Sangeetha,MATHI NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 13, 2023 10:31 IST","Jun 13, 2023 10:35 IST",0:03:49,NA,0,NA,Yes,0:00:01
+Sangeetha,SHYAM SUNDAR,Follow-up - Number not Reachable,No,No,No,NA,"Jun 13, 2023 10:35 IST","Jun 13, 2023 10:36 IST",0:00:45,0:00:15,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/9940353634-102-51902-2234-2426-9344090298-o-0-130623-103535.wav,Yes,0:00:01
+Sangeetha,SHYAM SUNDAR,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 13, 2023 10:36 IST","Jun 13, 2023 10:37 IST",0:01:21,NA,1,NA,Yes,0:00:35
+Sangeetha,SINGA DHEENA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 13, 2023 10:37 IST","Jun 13, 2023 10:40 IST",0:02:48,NA,0,NA,Yes,0:00:01
+Sangeetha,JAIKARTHIK S,Not interested now -TR Completed in Showroom,No,Yes,No,NA,"Jun 13, 2023 10:40 IST","Jun 13, 2023 10:45 IST",0:04:56,0:00:26,0,NA,Yes,0:00:01
+Sangeetha,VENKATESH NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 10:45 IST","Jun 13, 2023 10:47 IST",0:01:34,NA,0,NA,Yes,0:00:01
+Sangeetha,serangeevi na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 10:47 IST","Jun 13, 2023 10:48 IST",0:01:11,NA,0,NA,Yes,0:00:01
+Sangeetha,SHIVAM MALANI,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 10:48 IST","Jun 13, 2023 10:50 IST",0:01:44,NA,0,NA,Yes,0:00:26
+Sangeetha,SATHISH KUMART,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 10:50 IST","Jun 13, 2023 10:53 IST",0:02:28,NA,0,NA,Yes,0:00:01
+Sangeetha,NAVEENTHAN  NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 10:53 IST","Jun 13, 2023 10:55 IST",0:02:20,NA,0,NA,Yes,0:00:01
+Sangeetha,AMARNATH NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 10:55 IST","Jun 13, 2023 10:58 IST",0:02:10,NA,0,NA,Yes,0:00:01
+Sangeetha,KIRUTHIC KAILUSH A,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 10:58 IST","Jun 13, 2023 11:03 IST",0:05:05,NA,0,NA,Yes,0:00:02
+Sangeetha,THILAK na,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 11:04 IST","Jun 13, 2023 11:05 IST",0:01:39,NA,0,NA,Yes,0:00:01
+Sangeetha,VEERARAGAVAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 11:05 IST","Jun 13, 2023 11:07 IST",0:01:33,NA,0,NA,Yes,0:00:02
+Sangeetha,HARSGAVARDHA NA,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 13, 2023 11:07 IST","Jun 13, 2023 11:09 IST",0:02:12,0:01:22,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/6382970066-102-51902-2222-2423-9344090298-o-0-130623-110753.wav,Yes,0:00:01
+Sangeetha,RAMAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 11:10 IST","Jun 13, 2023 11:12 IST",0:01:55,NA,0,NA,Yes,0:00:27
+Sangeetha,prashanth b,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 11:12 IST","Jun 13, 2023 11:15 IST",0:02:35,NA,0,NA,Yes,0:00:01
+Sangeetha,SATHISH NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 11:15 IST","Jun 13, 2023 11:18 IST",0:02:34,NA,0,NA,Yes,0:00:30
+Sangeetha,KULOTHUNGAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 11:18 IST","Jun 13, 2023 11:19 IST",0:01:24,NA,0,NA,Yes,0:00:02
+Sangeetha,N GHOUSE BASHA,Not interested now -TR Completed in Showroom,No,Yes,No,NA,"Jun 13, 2023 11:19 IST","Jun 13, 2023 11:21 IST",0:02:06,0:01:41,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/7358010761-102-51902-2158-2430-9344090298-o-0-130623-112005.wav,Yes,0:00:01
+Sangeetha,SATHISH NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 13, 2023 11:22 IST","Jun 13, 2023 11:24 IST",0:01:18,NA,0,NA,Yes,0:00:02
+Sangeetha,Manickam Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 13, 2023 11:25 IST","Jun 13, 2023 11:27 IST",0:02:01,NA,0,NA,Yes,0:00:02
+Sangeetha,Ansar,Follow-up - Ringing No Response,Yes,No,No,1 day,"Jun 13, 2023 11:27 IST","Jun 13, 2023 11:28 IST",0:01:26,NA,0,NA,Yes,0:00:01
+Sangeetha,Sabirul Sanpui,Follow-up - Customer Busy,No,No,No,about 22 hours,"Jun 13, 2023 11:29 IST","Jun 13, 2023 11:30 IST",0:01:19,0:00:34,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/9360489470-102-51902-2155-2430-9344090298-o-0-130623-112930.wav,Yes,0:00:02
+Sangeetha,Velmurugan,Dropped Lead: Customer not in Chennai,No,Yes,No,NA,"Jun 13, 2023 11:30 IST","Jun 13, 2023 11:32 IST",0:02:13,0:01:48,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/7418635399-102-51902-2142-2550-9344090298-o-0-130623-113057.wav,Yes,0:00:01
+Sangeetha,Asif Null,Interested - Follow-up,No,No,No,30 days,"Jun 13, 2023 11:33 IST","Jun 13, 2023 11:35 IST",0:02:07,0:01:17,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/7299977771-102-51902-2128-2427-9344090298-o-0-130623-113346.wav,Yes,0:00:01
+Sangeetha,Prabhu Inbarasan,Interested - Follow-up,No,No,No,2 days,"Jun 13, 2023 11:41 IST","Jun 13, 2023 11:43 IST",0:02:28,0:01:54,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/9940597388-102-51902-2118-2544-9344090298-o-0-130623-114116.wav,Yes,0:00:02
+Sangeetha,Jayabalan R M,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 11:43 IST","Jun 13, 2023 11:44 IST",0:00:55,NA,0,NA,Yes,0:00:01
+Sangeetha,Vijay,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 11:44 IST","Jun 13, 2023 11:45 IST",0:00:32,NA,0,NA,Yes,0:00:01
+Sangeetha,Meena Viswakarma NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 11:45 IST","Jun 13, 2023 11:46 IST",0:01:18,NA,0,NA,Yes,0:00:01
+Sangeetha,SYED AMEER BASHA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 11:46 IST","Jun 13, 2023 11:48 IST",0:01:34,NA,0,NA,Yes,0:00:01
+Sangeetha,Vijay,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 11:48 IST","Jun 13, 2023 11:49 IST",0:01:03,NA,0,NA,Yes,0:00:02
+Sangeetha,Nivas Null,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 11:50 IST","Jun 13, 2023 11:51 IST",0:01:23,NA,0,NA,Yes,0:00:01
+Sangeetha,Sam R,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 13, 2023 11:51 IST","Jun 13, 2023 11:51 IST",0:00:27,NA,0,NA,Yes,0:00:02
+Sangeetha,Richard,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 11:52 IST","Jun 13, 2023 11:53 IST",0:01:56,NA,0,NA,Yes,0:00:25
+Sangeetha,Ansar,Follow-up - Ringing No Response,No,No,No,1 day,"Jun 13, 2023 11:54 IST","Jun 13, 2023 11:55 IST",0:00:57,0:00:52,0,NA,Yes,0:00:01
+Sangeetha,Sunil,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 11:55 IST","Jun 13, 2023 11:56 IST",0:01:20,NA,0,NA,Yes,0:00:01
+Sangeetha,Balaji,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 11:56 IST","Jun 13, 2023 11:57 IST",0:01:10,NA,0,NA,Yes,0:00:01
+Sangeetha,Prakash,Follow-up - Ringing No Response,No,No,No,NA,"Jun 13, 2023 11:57 IST","Jun 13, 2023 11:59 IST",0:01:48,0:01:01,0,NA,Yes,0:00:01
+Sangeetha,Vasanth,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 12:00 IST","Jun 13, 2023 12:02 IST",0:01:59,NA,0,NA,Yes,0:00:01
+Sangeetha,Vasanth,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 12:02 IST","Jun 13, 2023 12:05 IST",0:03:18,NA,0,NA,Yes,0:00:01
+Sangeetha,Dinesh,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 13, 2023 12:08 IST","Jun 13, 2023 12:10 IST",0:01:45,NA,1,NA,Yes,0:00:52
+Sangeetha,Anandan,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 13, 2023 12:16 IST","Jun 13, 2023 12:21 IST",0:05:11,NA,1,NA,Yes,0:01:15
+Sangeetha,Deep,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 12:21 IST","Jun 13, 2023 12:23 IST",0:01:41,NA,0,NA,Yes,0:00:01
+Sangeetha,Shivaramakrishnan V,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 12:23 IST","Jun 13, 2023 12:24 IST",0:01:48,NA,0,NA,Yes,0:00:02
+Sangeetha,Jai,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 12:24 IST","Jun 13, 2023 12:29 IST",0:04:12,NA,0,NA,Yes,0:00:02
+Sangeetha,Suriya,Follow-up - Customer out of station,No,No,No,16 days,"Jun 13, 2023 12:33 IST","Jun 13, 2023 12:34 IST",0:01:29,0:01:23,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/8056164290-102-51902-2059-2550-9344090298-o-0-130623-123343.wav,Yes,0:00:01
+Sangeetha,SATHISH NA,Vehicle Booked,Yes,Yes,No,NA,"Jun 13, 2023 12:34 IST","Jun 13, 2023 12:35 IST",0:00:23,NA,0,NA,Yes,0:00:25
+Sangeetha,arvint,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 12:36 IST","Jun 13, 2023 12:41 IST",0:04:56,NA,0,NA,Yes,0:00:02
+Sangeetha,Nandha,Interested - TR Missed - To be Rescheduled,No,No,No,NA,"Jun 13, 2023 12:41 IST","Jun 13, 2023 12:45 IST",0:03:03,0:01:39,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/9840983524-102-51902-2365-2550-9344090298-o-0-130623-124215.wav,Yes,0:00:01
+Sangeetha,PRAVEEN  RAJ,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 12:54 IST","Jun 13, 2023 12:56 IST",0:01:53,NA,0,NA,Yes,0:00:01
+Sangeetha,Bala Bala,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 12:56 IST","Jun 13, 2023 12:58 IST",0:01:57,NA,0,NA,Yes,0:00:02
+Sangeetha,SATHISH NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 12:59 IST","Jun 13, 2023 13:01 IST",0:02:15,NA,0,NA,Yes,0:00:02
+Sangeetha,KULOTHUNGAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 13:06 IST","Jun 13, 2023 13:10 IST",0:04:00,NA,1,NA,Yes,0:02:40
+Sangeetha,naveen kumar,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 13:10 IST","Jun 13, 2023 13:11 IST",0:00:59,NA,0,NA,Yes,0:00:01
+Sangeetha,Manickam Null,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 13, 2023 13:12 IST","Jun 13, 2023 13:12 IST",0:00:51,NA,0,NA,Yes,0:00:01
+Sangeetha,selva kumar,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 13, 2023 13:15 IST","Jun 13, 2023 13:19 IST",0:04:05,NA,1,NA,Yes,0:03:30
+Sangeetha,Sampath,Interested - Customer will visit showroom,No,No,No,NA,"Jun 13, 2023 13:20 IST","Jun 13, 2023 13:21 IST",0:00:43,0:00:38,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/9677116676-102-51902-2307-2548-9344090298-o-0-130623-132038.wav,Yes,0:00:01
+Sangeetha,Pk Raaz,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 13:22 IST","Jun 13, 2023 13:23 IST",0:00:59,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/9342006353-102-51902-2307-2547-9344090298-o-0-130623-132331.wav,Yes,0:00:25
+Sangeetha,Hemu,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 13:23 IST","Jun 13, 2023 13:26 IST",0:02:20,NA,0,NA,Yes,0:00:01
+Sangeetha,Mohamed,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 13:26 IST","Jun 13, 2023 13:30 IST",0:04:02,NA,0,NA,Yes,0:00:01
+Sangeetha,Mohammed,Follow-up - Number switched off,Yes,No,No,NA,"Jun 13, 2023 13:30 IST","Jun 13, 2023 13:31 IST",0:00:59,NA,0,NA,Yes,0:00:01
+Sangeetha,Wasim,Follow-up - Number switched off,Yes,No,No,NA,"Jun 13, 2023 13:39 IST","Jun 13, 2023 13:42 IST",0:03:35,NA,0,NA,Yes,0:00:01
+Sangeetha,Fasalu Rahman,Follow-up - Number switched off,Yes,No,No,NA,"Jun 13, 2023 13:42 IST","Jun 13, 2023 13:46 IST",0:03:36,NA,0,NA,Yes,0:00:02
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 13, 2023 13:46 IST","Jun 13, 2023 13:47 IST",0:00:56,0:00:47,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/7418515203-102-51902-2233-2548-9344090298-o-0-130623-134710.wav,Yes,0:00:02
+Sangeetha,Vivek Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 13, 2023 13:51 IST","Jun 13, 2023 13:54 IST",0:03:25,NA,0,NA,Yes,0:00:02
+Sangeetha,Rajesh NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 13, 2023 13:54 IST","Jun 13, 2023 13:56 IST",0:01:24,NA,0,NA,Yes,0:00:02
+Sangeetha,Andrew Michael NA ,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 13, 2023 13:57 IST","Jun 13, 2023 14:00 IST",0:03:12,NA,0,NA,Yes,0:00:02
+Sangeetha,Venkat NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 13, 2023 14:00 IST","Jun 13, 2023 14:02 IST",0:01:34,NA,1,NA,Yes,0:01:09
+Sangeetha,Civil,Follow-up - Customer Busy,No,No,No,NA,"Jun 13, 2023 14:04 IST","Jun 13, 2023 14:06 IST",0:01:13,0:01:05,0,http://103.73.188.156/Recording/Rec1/102/1965/13-6-2023/7094558203-102-51902-2123-2547-9344090298-o-0-130623-140502.wav,Yes,0:00:01
+Sangeetha,Ramganapathy Null,Interested - Follow-up,No,No,No,1 day,"Jun 14, 2023 09:33 IST","Jun 14, 2023 09:34 IST",0:01:07,0:00:59,0,NA,Yes,0:00:02
+Sangeetha,selva kumar,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 09:36 IST","Jun 14, 2023 09:37 IST",0:01:27,NA,0,NA,Yes,0:00:02
+Sangeetha,naveen kumar,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 14, 2023 09:38 IST","Jun 14, 2023 09:40 IST",0:02:27,NA,0,NA,Yes,0:00:02
+Sangeetha,KULOTHUNGAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 14, 2023 09:41 IST","Jun 14, 2023 09:45 IST",0:04:00,NA,0,NA,Yes,0:00:01
+Sangeetha,RAMAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 14, 2023 09:45 IST","Jun 14, 2023 09:47 IST",0:01:34,NA,0,NA,Yes,0:00:02
+Sangeetha,VEERARAGAVAN NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 09:47 IST","Jun 14, 2023 09:51 IST",0:03:22,NA,0,NA,Yes,0:00:02
+Sangeetha,THILAK na,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 09:52 IST","Jun 14, 2023 09:55 IST",0:02:47,NA,0,NA,Yes,0:00:24
+Sangeetha,NAVEENTHAN  NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 09:55 IST","Jun 14, 2023 09:59 IST",0:03:40,NA,0,NA,Yes,0:00:02
+Sangeetha,SATHISH KUMART,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 14, 2023 09:59 IST","Jun 14, 2023 10:01 IST",0:02:32,NA,0,NA,Yes,0:00:22
+Sangeetha,serangeevi na,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 10:01 IST","Jun 14, 2023 10:04 IST",0:02:44,NA,0,NA,Yes,0:00:01
+Sangeetha,SINGA DHEENA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 10:04 IST","Jun 14, 2023 10:07 IST",0:02:16,NA,1,NA,Yes,0:01:10
+Sangeetha,SHYAM SUNDAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 14, 2023 10:07 IST","Jun 14, 2023 10:08 IST",0:01:15,NA,0,NA,Yes,0:00:02
+Sangeetha,MATHI NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 10:08 IST","Jun 14, 2023 10:09 IST",0:01:18,NA,0,NA,Yes,0:00:01
+Sangeetha,SHAFI NA,Follow-up - Ringing No Response,No,No,No,1 day,"Jun 14, 2023 10:10 IST","Jun 14, 2023 10:12 IST",0:01:13,0:01:08,0,NA,Yes,0:00:02
+Sangeetha,RAJA NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 10:19 IST","Jun 14, 2023 10:21 IST",0:01:14,NA,0,NA,Yes,0:00:01
+Sangeetha,c vishesh,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 10:21 IST","Jun 14, 2023 10:24 IST",0:03:17,NA,0,NA,Yes,0:00:01
+Sangeetha,MOHAMEED ASHIK,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 14, 2023 10:24 IST","Jun 14, 2023 10:27 IST",0:02:47,NA,0,NA,Yes,0:00:02
+Sangeetha,JAWAAD AHMED GHIAS,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 10:27 IST","Jun 14, 2023 10:28 IST",0:00:43,NA,0,NA,Yes,0:00:02
+Sangeetha,NA THIYANESH,Lost Lead - Not Interested - No plans to purchase now,No,Yes,No,NA,"Jun 14, 2023 10:28 IST","Jun 14, 2023 10:30 IST",0:01:46,0:00:54,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/9566044639-102-51935-2349-2547-9344090298-o-0-140623-102840.wav,Yes,0:00:02
+Sangeetha,Praveen Null,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 14, 2023 10:31 IST","Jun 14, 2023 10:34 IST",0:03:15,NA,0,NA,Yes,0:00:02
+Sangeetha,Ramganapathy Null,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 14, 2023 10:35 IST","Jun 14, 2023 10:37 IST",0:01:51,NA,0,NA,Yes,0:00:01
+Sangeetha,Kannan Null,Follow-up - Customer Busy,No,No,No,4 minutes,"Jun 14, 2023 10:37 IST","Jun 14, 2023 10:40 IST",0:02:32,0:00:47,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/9500837673-102-51935-2349-2430-9344090298-o-0-140623-103754.wav,Yes,0:00:01
+Sangeetha,JEYSEELA Null,Follow-up - Customer Busy,No,No,No,about 2 hours,"Jun 14, 2023 10:41 IST","Jun 14, 2023 10:42 IST",0:00:50,0:00:35,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/8122012604-102-51935-2243-2547-9344090298-o-0-140623-104134.wav,Yes,0:00:02
+Sangeetha,aloneboyashok,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 10:50 IST","Jun 14, 2023 10:53 IST",0:03:12,NA,0,NA,Yes,0:00:02
+Sangeetha,Jaison,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 10:57 IST","Jun 14, 2023 11:01 IST",0:03:45,NA,0,NA,Yes,0:00:01
+Sangeetha,G,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 11:01 IST","Jun 14, 2023 11:05 IST",0:03:43,NA,0,NA,Yes,0:00:01
+Sangeetha,Jrrvan,Number does not exists,Yes,Yes,No,NA,"Jun 14, 2023 11:05 IST","Jun 14, 2023 11:07 IST",0:01:51,NA,0,NA,Yes,0:00:22
+Sangeetha,ummer,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 11:07 IST","Jun 14, 2023 11:12 IST",0:05:21,NA,0,NA,Yes,0:00:01
+Sangeetha,Prakash,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 11:12 IST","Jun 14, 2023 11:14 IST",0:02:07,NA,0,NA,Yes,0:00:02
+Sangeetha,Santosh,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 11:15 IST","Jun 14, 2023 11:19 IST",0:04:58,NA,0,NA,Yes,0:00:01
+Sangeetha,Ratheesh,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 11:20 IST","Jun 14, 2023 11:22 IST",0:01:55,NA,0,NA,Yes,0:00:21
+Sangeetha,Ajay,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 14, 2023 11:22 IST","Jun 14, 2023 11:26 IST",0:04:02,NA,0,NA,Yes,0:00:01
+Sangeetha,Swapan,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 14, 2023 11:27 IST","Jun 14, 2023 11:30 IST",0:03:37,NA,0,NA,Yes,0:00:02
+Sangeetha,habibur,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 14, 2023 11:30 IST","Jun 14, 2023 11:32 IST",0:01:51,NA,0,NA,Yes,0:00:02
+Sangeetha,Vasanth,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 11:32 IST","Jun 14, 2023 11:35 IST",0:02:31,NA,0,NA,Yes,0:00:02
+Sangeetha,Anandan,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 11:37 IST","Jun 14, 2023 11:40 IST",0:02:18,NA,0,NA,Yes,0:00:01
+Sangeetha,Rajesh,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 11:41 IST","Jun 14, 2023 11:42 IST",0:01:02,NA,0,NA,Yes,0:00:20
+Sangeetha,Sontosh Null,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 11:46 IST","Jun 14, 2023 11:48 IST",0:02:34,NA,0,NA,Yes,0:00:01
+Sangeetha,Sakthivel Null,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 11:49 IST","Jun 14, 2023 11:49 IST",0:00:49,NA,0,NA,Yes,0:00:01
+Sangeetha,Nirosha Suman NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 12:04 IST","Jun 14, 2023 12:07 IST",0:02:59,NA,0,NA,Yes,0:00:02
+Sangeetha,Selva NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 14, 2023 12:07 IST","Jun 14, 2023 12:09 IST",0:02:26,NA,0,NA,Yes,0:00:02
+Sangeetha,Sankar Sankar NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 14, 2023 12:09 IST","Jun 14, 2023 12:10 IST",0:00:26,NA,0,NA,Yes,0:00:02
+Sangeetha,Anand Null,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 12:12 IST","Jun 14, 2023 12:14 IST",0:01:53,NA,1,NA,Yes,0:01:30
+Sangeetha,Maheswari Null,Lost Lead - Multiple RNR's more than 10 times,No,Yes,No,NA,"Jun 14, 2023 12:14 IST","Jun 14, 2023 12:16 IST",0:02:06,0:00:56,1,NA,Yes,0:01:15
+Sangeetha,Akash v NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 12:16 IST","Jun 14, 2023 12:18 IST",0:02:11,NA,0,NA,Yes,0:00:02
+Sangeetha,Arun Null,Follow-up - Number not Reachable,No,No,No,NA,"Jun 14, 2023 12:19 IST","Jun 14, 2023 12:22 IST",0:03:02,0:00:01,1,NA,Yes,0:01:05
+Sangeetha,K I N G NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 12:24 IST","Jun 14, 2023 12:26 IST",0:02:15,NA,0,NA,Yes,0:00:01
+Sangeetha,AG Victor NA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 14, 2023 12:26 IST","Jun 14, 2023 12:29 IST",0:02:22,NA,0,NA,Yes,0:00:02
+Sangeetha,ABUBAKKAR NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 12:29 IST","Jun 14, 2023 12:31 IST",0:01:51,NA,1,NA,Yes,0:00:47
+Sangeetha,DEPAK,Number not belongs to the customer,No,Yes,No,NA,"Jun 14, 2023 12:31 IST","Jun 14, 2023 12:33 IST",0:02:41,0:00:50,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/9840312279-102-51935-2100-2550-9344090298-o-0-140623-123124.wav,Yes,0:00:02
+Sangeetha,PRASAD,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 12:33 IST","Jun 14, 2023 12:38 IST",0:04:18,NA,2,NA,No,N/A
+Sangeetha,ROHITH,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 14, 2023 12:38 IST","Jun 14, 2023 12:39 IST",0:00:52,NA,0,NA,Yes,0:00:02
+Sangeetha,GOPALA KRISHNAN K,Lost Lead - Not Interested - No plans to purchase now,No,Yes,No,NA,"Jun 14, 2023 12:40 IST","Jun 14, 2023 12:46 IST",0:05:52,0:01:17,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/9688962329-102-51935-2446-2424-9344090298-o-0-140623-124103.wav,Yes,0:00:01
+Sangeetha,MOTHISH SAI,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 12:46 IST","Jun 14, 2023 12:48 IST",0:02:15,NA,0,NA,Yes,0:00:02
+Sangeetha,VEERIAH,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 12:49 IST","Jun 14, 2023 12:50 IST",0:00:57,NA,0,NA,Yes,0:00:01
+Sangeetha,MURACI DHARAN,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 14, 2023 12:50 IST","Jun 14, 2023 12:52 IST",0:01:55,0:00:39,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/6380270227-102-51935-2409-2547-9344090298-o-0-140623-125044.wav,Yes,0:00:25
+Sangeetha,MOHAN M,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 12:52 IST","Jun 14, 2023 12:52 IST",0:00:26,NA,0,NA,Yes,0:00:01
+Sangeetha,EZHILARASU,Interested - Follow-up,No,No,No,3 months,"Jun 14, 2023 12:52 IST","Jun 14, 2023 12:55 IST",0:02:26,0:01:40,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/7373296409-102-51935-2405-2425-9344090298-o-0-140623-125316.wav,Yes,0:00:01
+Sangeetha,GOPI M,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 12:55 IST","Jun 14, 2023 12:57 IST",0:02:18,NA,1,NA,Yes,0:00:59
+Sangeetha,HARISHANKAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 14, 2023 12:57 IST","Jun 14, 2023 13:00 IST",0:03:01,NA,0,NA,Yes,0:00:02
+Sangeetha,SIVARAMAN,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 13:01 IST","Jun 14, 2023 13:01 IST",0:00:31,NA,0,NA,Yes,0:00:01
+Sangeetha,RAGUL,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 14, 2023 13:01 IST","Jun 14, 2023 13:02 IST",0:01:01,NA,0,NA,Yes,0:00:01
+Sangeetha,VARADARAMAN,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 14, 2023 13:02 IST","Jun 14, 2023 13:05 IST",0:02:46,NA,0,NA,Yes,0:00:01
+Sangeetha,ARUNKUMAR,Interested - Customer will visit showroom,No,No,No,4 days,"Jun 14, 2023 13:06 IST","Jun 14, 2023 13:12 IST",0:06:22,0:01:37,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/8940199859-102-51935-2386-2430-9344090298-o-0-140623-130609.wav,Yes,0:00:01
+Sangeetha,GOKUL,Follow-up - Customer Busy,No,No,No,about 2 hours,"Jun 14, 2023 13:12 IST","Jun 14, 2023 13:13 IST",0:01:09,0:00:53,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/9384637459-102-51935-2383-2551-9344090298-o-0-140623-131254.wav,Yes,0:00:01
+Sangeetha,RAJAGOPALAN,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 14, 2023 13:13 IST","Jun 14, 2023 13:15 IST",0:02:11,NA,0,NA,Yes,0:00:01
+Sangeetha,Raju Null,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 14, 2023 13:16 IST","Jun 14, 2023 13:17 IST",0:01:50,0:01:44,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/9841679431-102-51935-2383-2548-9344090298-o-0-140623-131624.wav,Yes,0:00:02
+Sangeetha,Raju Null,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 14, 2023 13:18 IST","Jun 14, 2023 13:20 IST",0:02:05,0:00:09,0,NA,Yes,0:00:01
+Sangeetha,Karspi Null,Follow-up - Number switched off,Yes,No,No,NA,"Jun 14, 2023 13:22 IST","Jun 14, 2023 13:23 IST",0:01:19,NA,0,NA,Yes,0:00:01
+Sangeetha,VIGNESHWARAN,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 14, 2023 13:23 IST","Jun 14, 2023 13:25 IST",0:01:46,0:00:31,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/9600848534-102-51935-2375-2550-9344090298-o-0-140623-132348.wav,Yes,0:00:02
+Sangeetha,VIGNESHWARAN,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 14, 2023 13:25 IST","Jun 14, 2023 13:26 IST",0:01:16,NA,0,NA,Yes,0:00:28
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 14, 2023 13:26 IST","Jun 14, 2023 13:27 IST",0:00:46,NA,0,NA,Yes,0:00:01
+Sangeetha,VASANTHSADHANA,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 14, 2023 13:29 IST","Jun 14, 2023 13:31 IST",0:01:29,NA,0,NA,Yes,0:00:02
+Sangeetha,BALA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 13:31 IST","Jun 14, 2023 13:32 IST",0:01:05,NA,0,NA,Yes,0:00:01
+Sangeetha,Harif Rahman,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 13:33 IST","Jun 14, 2023 13:34 IST",0:00:36,NA,0,NA,Yes,0:00:02
+Sangeetha,Selvendiran,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 14, 2023 13:37 IST","Jun 14, 2023 13:38 IST",0:01:04,NA,0,NA,Yes,0:00:02
+Sangeetha,Deepgayu,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 14, 2023 13:38 IST","Jun 14, 2023 13:43 IST",0:05:08,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/9841676939-102-51935-2347-2551-9344090298-o-0-140623-133901.wav,Yes,0:00:20
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 14, 2023 13:46 IST","Jun 14, 2023 13:47 IST",0:01:15,NA,0,NA,Yes,0:00:01
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 14, 2023 13:49 IST","Jun 14, 2023 13:50 IST",0:01:08,0:00:24,0,http://103.73.188.156/Recording/Rec1/102/1965/14-6-2023/9489911111-102-51935-2341-2427-9344090298-o-0-140623-134946.wav,Yes,0:00:26
+Sangeetha,Rajesh NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 14, 2023 13:51 IST","Jun 14, 2023 13:52 IST",0:01:19,NA,0,NA,Yes,0:00:01
+Sangeetha,selva kumar,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 13:55 IST","Jun 14, 2023 13:55 IST",0:00:58,NA,0,NA,Yes,0:00:01
+Sangeetha,PA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 13:56 IST","Jun 14, 2023 13:56 IST",0:00:38,NA,0,NA,Yes,0:00:26
+Sangeetha,Navis,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 14, 2023 13:56 IST","Jun 14, 2023 13:57 IST",0:00:48,NA,0,NA,Yes,0:00:01
+Sangeetha,Siva,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 13:57 IST","Jun 14, 2023 13:58 IST",0:00:32,NA,0,NA,Yes,0:00:01
+Sangeetha,Nirmal Null,Follow-up - Number switched off,Yes,No,No,NA,"Jun 14, 2023 13:59 IST","Jun 14, 2023 14:00 IST",0:00:26,NA,0,NA,Yes,0:00:01
+Sangeetha,Gokul NA,Lost Lead - Multiple RNR's more than 10 times,Yes,No,No,NA,"Jun 14, 2023 14:00 IST","Jun 14, 2023 14:00 IST",0:00:41,NA,0,NA,Yes,0:00:02
+Sangeetha,Di NA,Follow-up - Number not Reachable,No,No,No,NA,"Jun 14, 2023 14:00 IST","Jun 14, 2023 14:01 IST",0:00:27,0:00:22,0,NA,Yes,0:00:02
+Sangeetha,Vimal S NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 14:01 IST","Jun 14, 2023 14:01 IST",0:00:24,NA,0,NA,Yes,0:00:02
+Sangeetha,Dharani Null,Follow-up - Ringing No Response,No,No,No,NA,"Jun 14, 2023 14:01 IST","Jun 14, 2023 14:02 IST",0:00:38,0:00:54,0,NA,Yes,0:00:01
+Sangeetha,Karthikeyan NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 14, 2023 14:02 IST","Jun 14, 2023 14:03 IST",0:00:49,0:00:58,0,NA,Yes,0:00:02
+Sangeetha,Dhana NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 14, 2023 14:03 IST","Jun 14, 2023 14:05 IST",0:01:34,NA,0,NA,Yes,0:00:01
+Sangeetha,Deepash P NA,Follow-up - Ringing No Response,No,No,No,NA,"Jun 14, 2023 14:05 IST","Jun 14, 2023 14:06 IST",0:00:43,0:00:51,0,NA,Yes,0:00:02
+Sangeetha,Ranjith Null,Follow-up - Ringing No Response,No,No,No,NA,"Jun 15, 2023 09:37 IST","Jun 15, 2023 09:38 IST",0:01:23,0:00:48,1,NA,Yes,0:00:52
+Sangeetha,JEYSEELA Null,Follow-up - Customer out of station,No,No,No,2 months,"Jun 15, 2023 09:39 IST","Jun 15, 2023 09:40 IST",0:01:53,0:01:35,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/8122012604-102-51977-2305-2550-9344090298-o-0-150623-093914.wav,Yes,0:00:01
+Sangeetha,Kannan Null,Interested - Follow-up,No,No,No,4 months,"Jun 15, 2023 09:41 IST","Jun 15, 2023 09:44 IST",0:02:59,0:00:55,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9500837673-102-51977-2305-2430-9344090298-o-0-150623-094133.wav,Yes,0:00:23
+Sangeetha,Ramganapathy Null,Follow-up - Customer disconnecting call,No,No,No,about 22 hours,"Jun 15, 2023 09:44 IST","Jun 15, 2023 09:46 IST",0:01:39,0:00:27,0,NA,Yes,0:00:01
+Sangeetha,Praveen Null,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 09:46 IST","Jun 15, 2023 09:47 IST",0:01:05,NA,0,NA,Yes,0:00:02
+Sangeetha,MOHAMEED ASHIK,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 09:47 IST","Jun 15, 2023 09:48 IST",0:01:32,NA,0,NA,Yes,0:00:02
+Sangeetha,SHAFI NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 09:49 IST","Jun 15, 2023 09:53 IST",0:03:53,NA,0,NA,Yes,0:00:01
+Sangeetha,SHYAM SUNDAR,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 09:53 IST","Jun 15, 2023 09:55 IST",0:02:28,NA,0,NA,Yes,0:00:02
+Sangeetha,SINGA DHEENA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 09:55 IST","Jun 15, 2023 09:56 IST",0:01:16,NA,0,NA,Yes,0:00:21
+Sangeetha,SATHISH KUMART,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 09:57 IST","Jun 15, 2023 10:02 IST",0:05:02,NA,0,NA,Yes,0:00:18
+Sangeetha,RAMAN NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 10:04 IST","Jun 15, 2023 10:07 IST",0:03:18,NA,0,NA,Yes,0:00:01
+Sangeetha,KULOTHUNGAN NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 10:07 IST","Jun 15, 2023 10:08 IST",0:01:12,NA,0,NA,Yes,0:00:02
+Sangeetha,naveen kumar,Interested - Test Ride Completed,No,No,No,9 days,"Jun 15, 2023 10:09 IST","Jun 15, 2023 10:12 IST",0:03:04,0:01:49,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/8778491268-102-51977-2305-2550-9344090298-o-0-150623-100910.wav,Yes,0:00:01
+Sangeetha,Sri Sri,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 10:12 IST","Jun 15, 2023 10:15 IST",0:02:33,NA,0,NA,Yes,0:00:02
+Sangeetha,Praveen Null ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 10:17 IST","Jun 15, 2023 10:19 IST",0:02:33,NA,0,NA,Yes,0:00:25
+Sangeetha,Rajesh NA,Follow-up - Customer out of station,No,No,No,NA,"Jun 15, 2023 10:19 IST","Jun 15, 2023 10:20 IST",0:01:06,0:01:09,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/8940446324-102-51977-2305-2545-9344090298-o-0-150623-102006.wav,Yes,0:00:01
+Sangeetha,Sampath,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 10:23 IST","Jun 15, 2023 10:23 IST",0:00:19,NA,0,NA,Yes,0:00:02
+Sangeetha,Sathish Kumar,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 10:23 IST","Jun 15, 2023 10:25 IST",0:02:16,NA,0,NA,Yes,0:00:01
+Sangeetha,Francis Sandy,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 10:26 IST","Jun 15, 2023 10:29 IST",0:03:16,NA,0,NA,Yes,0:00:02
+Sangeetha,Thenni Arasan,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 10:29 IST","Jun 15, 2023 10:30 IST",0:00:56,NA,0,NA,Yes,0:00:02
+Sangeetha,Ratheesh Null ,Follow-up - Customer Busy,No,No,No,about 20 hours,"Jun 15, 2023 10:30 IST","Jun 15, 2023 10:31 IST",0:01:15,0:00:58,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9841674775-102-51977-2165-2426-9344090298-o-0-150623-103105.wav,Yes,0:00:01
+Sangeetha,Pradeep NA ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 10:31 IST","Jun 15, 2023 10:33 IST",0:01:24,NA,0,NA,Yes,0:00:02
+Sangeetha,Imran NA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 10:33 IST","Jun 15, 2023 10:40 IST",0:07:17,NA,0,NA,Yes,0:00:01
+Sangeetha,Ramkumar NA ,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 10:44 IST","Jun 15, 2023 10:45 IST",0:00:59,NA,0,NA,Yes,0:00:02
+Sangeetha,Ramganapathy Null,Follow-up - Ringing No Response,Yes,No,No,about 22 hours,"Jun 15, 2023 10:46 IST","Jun 15, 2023 10:52 IST",0:06:39,NA,0,NA,Yes,0:00:01
+Sangeetha,KUMAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 10:53 IST","Jun 15, 2023 10:56 IST",0:03:25,NA,0,NA,Yes,0:00:02
+Sangeetha,MURTHI,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 15, 2023 11:18 IST","Jun 15, 2023 11:20 IST",0:01:31,NA,0,NA,Yes,0:00:02
+Sangeetha,BALA ,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 11:20 IST","Jun 15, 2023 11:27 IST",0:06:45,NA,0,NA,Yes,0:00:01
+Sangeetha,MOHAN ,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 11:28 IST","Jun 15, 2023 11:29 IST",0:01:05,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9551456919-102-51977-2011-2548-9344090298-o-0-150623-112857.wav,Yes,0:00:02
+Sangeetha,RAJESH,Follow-up - Ringing No Response,No,No,No,about 22 hours,"Jun 15, 2023 11:31 IST","Jun 15, 2023 11:32 IST",0:00:51,0:00:59,0,NA,Yes,0:00:02
+Sangeetha,KARTHIK ,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 15, 2023 11:32 IST","Jun 15, 2023 11:35 IST",0:03:48,NA,2,NA,Yes,0:01:28
+Sangeetha,Raghunath A ,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 11:36 IST","Jun 15, 2023 11:37 IST",0:01:02,NA,0,NA,Yes,0:00:02
+Sangeetha,Venkat NA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 11:37 IST","Jun 15, 2023 11:39 IST",0:02:02,NA,0,NA,Yes,0:00:02
+Sangeetha,SATHISH KUMAR,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 11:39 IST","Jun 15, 2023 11:41 IST",0:01:32,NA,0,NA,Yes,0:00:26
+Sangeetha,AKASH ,Follow-up - Number not Reachable,No,No,No,NA,"Jun 15, 2023 11:41 IST","Jun 15, 2023 11:41 IST",0:00:43,0:00:08,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/7397410353-102-51977-2347-2421-9344090298-o-0-150623-114113.wav,Yes,0:00:02
+Sangeetha,AKASH ,Lost Lead - Not Interested - TR Missed - Bought competing brand/ JAWA-YEZDI with other dealer,No,Yes,No,NA,"Jun 15, 2023 11:41 IST","Jun 15, 2023 11:44 IST",0:02:50,0:02:47,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/7397410353-102-51977-2347-2544-9344090298-o-0-150623-114203.wav,Yes,0:00:02
+Sangeetha,Sanjay N,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 11:44 IST","Jun 15, 2023 11:45 IST",0:00:36,NA,0,NA,Yes,0:00:01
+Sangeetha,Zahir Hussain,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 11:47 IST","Jun 15, 2023 11:49 IST",0:02:22,NA,0,NA,Yes,0:00:01
+Sangeetha,Senthilkumar Rajamanikam,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 11:59 IST","Jun 15, 2023 12:01 IST",0:01:33,NA,0,NA,Yes,0:00:01
+Sangeetha,Ramalingam Mallugalla,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 12:01 IST","Jun 15, 2023 12:02 IST",0:01:31,NA,0,NA,Yes,0:00:02
+Sangeetha,Siva Mass,Lost Lead - Multiple RNR's more than 10 times,No,Yes,No,NA,"Jun 15, 2023 12:02 IST","Jun 15, 2023 12:03 IST",0:00:39,0:00:51,0,NA,Yes,0:00:01
+Sangeetha,Rajganesh Rganesh,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 12:03 IST","Jun 15, 2023 12:07 IST",0:03:31,NA,0,NA,Yes,0:00:01
+Sangeetha,Musthafa K,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 12:07 IST","Jun 15, 2023 12:14 IST",0:07:04,NA,0,NA,Yes,0:00:02
+Sangeetha,Muthukumar C,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 12:14 IST","Jun 15, 2023 12:15 IST",0:00:45,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9840406598-102-51977-2347-2430-9344090298-o-0-150623-121437.wav,Yes,0:00:02
+Sangeetha,Sreenivasan K.R,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 12:16 IST","Jun 15, 2023 12:18 IST",0:02:10,NA,0,NA,Yes,0:00:02
+Sangeetha,SRK,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 12:18 IST","Jun 15, 2023 12:19 IST",0:00:50,NA,0,NA,Yes,0:00:26
+Sangeetha,Sabarivasan,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 15, 2023 12:19 IST","Jun 15, 2023 12:21 IST",0:01:31,0:00:20,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/6380454477-102-51977-2168-2548-9344090298-o-0-150623-121954.wav,Yes,0:00:01
+Sangeetha,Andrew Michael NA ,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 12:21 IST","Jun 15, 2023 12:21 IST",0:00:25,NA,0,NA,Yes,0:00:02
+Sangeetha,Rajkamal S,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 12:21 IST","Jun 15, 2023 12:23 IST",0:01:22,NA,1,NA,Yes,0:00:45
+Sangeetha,PAVAN MA,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 12:23 IST","Jun 15, 2023 12:31 IST",0:08:22,NA,0,NA,Yes,0:00:02
+Sangeetha,SAMUEL,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 12:35 IST","Jun 15, 2023 12:36 IST",0:00:40,NA,0,NA,Yes,0:00:01
+Sangeetha,RAGUL,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 12:36 IST","Jun 15, 2023 12:36 IST",0:00:46,NA,0,NA,Yes,0:00:01
+Sangeetha,MOHAN,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 12:36 IST","Jun 15, 2023 12:37 IST",0:00:43,NA,0,NA,Yes,0:00:01
+Sangeetha,KIRAN,Follow-up - Ringing No Response,No,No,No,NA,"Jun 15, 2023 12:37 IST","Jun 15, 2023 12:38 IST",0:00:42,0:00:51,0,NA,Yes,0:00:02
+Sangeetha,VARADARAMAN,Follow-up - Customer disconnecting call,No,No,No,NA,"Jun 15, 2023 12:38 IST","Jun 15, 2023 12:39 IST",0:00:28,0:00:14,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/8608038376-102-51977-2069-2424-9344090298-o-0-150623-123843.wav,Yes,0:00:02
+Sangeetha,VARADARAMAN,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 15, 2023 12:39 IST","Jun 15, 2023 12:40 IST",0:01:09,0:01:02,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/8608038376-102-51977-2059-2551-9344090298-o-0-150623-123913.wav,Yes,0:00:01
+Sangeetha,ARUNKUMAR,Follow-up - Ringing No Response,Yes,No,No,NA,"Jun 15, 2023 12:40 IST","Jun 15, 2023 12:45 IST",0:05:28,NA,0,NA,Yes,0:00:02
+Sangeetha,NICKSON,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 12:48 IST","Jun 15, 2023 12:48 IST",0:00:35,NA,0,NA,Yes,0:00:02
+Sangeetha,Lyon Null,Lost Lead - Not Interested - TR Missed - Bought competing brand/ JAWA-YEZDI with other dealer,No,Yes,No,NA,"Jun 15, 2023 12:48 IST","Jun 15, 2023 12:49 IST",0:01:00,0:01:00,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/7200338195-102-51977-2059-2425-9344090298-o-0-150623-124854.wav,Yes,0:00:01
+Sangeetha,Paul Null,Follow-up - Customer Busy,No,No,No,about 22 hours,"Jun 15, 2023 12:49 IST","Jun 15, 2023 12:52 IST",0:02:44,0:00:33,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9176676667-102-51977-2059-2425-9344090298-o-0-150623-125003.wav,Yes,0:00:01
+Sangeetha,Karspi Null,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 12:55 IST","Jun 15, 2023 12:55 IST",0:00:35,NA,0,NA,Yes,0:00:02
+Sangeetha,Pradeepkumar Null,Lost Lead - Multiple RNR's more than 10 times,No,Yes,No,NA,"Jun 15, 2023 12:55 IST","Jun 15, 2023 12:58 IST",0:02:52,0:00:32,0,NA,Yes,0:00:04
+Sangeetha,John Null,Lost Lead - Not Interested - Dissatisfied with the model after Test Ride,No,Yes,No,NA,"Jun 15, 2023 12:58 IST","Jun 15, 2023 13:00 IST",0:01:16,0:01:16,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9840557374-102-51977-2059-2426-9344090298-o-0-150623-125906.wav,Yes,0:00:01
+Sangeetha,Vineet Null,Interested - Follow-up,No,No,No,3 months,"Jun 15, 2023 13:00 IST","Jun 15, 2023 13:04 IST",0:04:13,0:00:44,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/7358387388-102-51977-2059-2420-9344090298-o-0-150623-130021.wav,Yes,0:00:02
+Sangeetha,Srihith Null,Lost Lead - Multiple RNR's more than 10 times,Yes,No,No,NA,"Jun 15, 2023 13:08 IST","Jun 15, 2023 13:09 IST",0:00:38,NA,0,NA,Yes,0:00:01
+Sangeetha,VIGNESHWARAN,Follow-up - Customer Busy,No,No,No,about 22 hours,"Jun 15, 2023 13:09 IST","Jun 15, 2023 13:12 IST",0:03:22,0:02:44,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9600848534-102-51977-2373-2422-9344090298-o-0-150623-130958.wav,Yes,0:00:23
+Sangeetha,VASANTHSADHANA,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 13:12 IST","Jun 15, 2023 13:18 IST",0:05:32,NA,0,NA,Yes,0:00:02
+Sangeetha,BALA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 15, 2023 13:18 IST","Jun 15, 2023 13:18 IST",0:00:27,NA,0,NA,Yes,0:00:02
+Sangeetha,saran kumar NA,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 15, 2023 13:18 IST","Jun 15, 2023 13:26 IST",0:07:18,NA,0,NA,Yes,0:00:02
+Sangeetha,Prabakaran NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 15, 2023 13:26 IST","Jun 15, 2023 13:29 IST",0:03:22,NA,0,NA,Yes,0:00:02
+Sangeetha,G ajay prithivi NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 15, 2023 13:29 IST","Jun 15, 2023 13:30 IST",0:01:09,NA,0,NA,Yes,0:00:01
+Sangeetha,Sathish Govindharaj NA,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 15, 2023 13:31 IST","Jun 15, 2023 13:33 IST",0:02:55,NA,0,NA,Yes,0:00:01
+Sangeetha,Kannan K NA,Follow-up - Customer Busy,No,No,No,about 22 hours,"Jun 15, 2023 13:34 IST","Jun 15, 2023 13:35 IST",0:01:30,0:00:38,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9524319092-102-51977-2269-2430-9344090298-o-0-150623-133420.wav,Yes,0:00:02
+Sangeetha,Santhosh yadav NA,Follow-up - Number switched off,Yes,No,No,NA,"Jun 15, 2023 13:35 IST","Jun 15, 2023 13:36 IST",0:00:40,NA,0,NA,Yes,0:00:02
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 15, 2023 13:36 IST","Jun 15, 2023 13:37 IST",0:01:07,NA,0,NA,Yes,0:00:02
+Sangeetha,True Caller - Test Lead ,Follow-up - Customer Busy,No,No,No,NA,"Jun 15, 2023 13:37 IST","Jun 15, 2023 13:38 IST",0:00:48,0:00:47,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9489911111-102-51977-2269-2424-9344090298-o-0-150623-133754.wav,Yes,0:00:02
+Sangeetha,AG Victor NA,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 15, 2023 13:38 IST","Jun 15, 2023 13:40 IST",0:01:16,0:01:13,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/8939639339-102-51977-2269-2423-9344090298-o-0-150623-133905.wav,Yes,0:00:02
+Sangeetha,PRASAD,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 15, 2023 13:41 IST","Jun 15, 2023 13:44 IST",0:03:14,NA,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/8074364692-102-51977-2269-2429-9344090298-o-0-150623-134150.wav,Yes,0:00:02
+Sangeetha,ROHITH,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 13:44 IST","Jun 15, 2023 13:45 IST",0:00:24,NA,0,NA,Yes,0:00:01
+Sangeetha,SURESH A,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 15, 2023 13:45 IST","Jun 15, 2023 13:46 IST",0:01:03,0:00:44,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9940478593-102-51977-2269-2425-9344090298-o-0-150623-134526.wav,Yes,0:00:02
+Sangeetha,SADAW BUSSAIN,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 13:46 IST","Jun 15, 2023 13:47 IST",0:00:53,NA,0,NA,Yes,0:00:02
+Sangeetha,RAJ,Follow-up - Customer disconnecting call,Yes,No,No,NA,"Jun 15, 2023 13:47 IST","Jun 15, 2023 13:49 IST",0:01:52,NA,0,NA,Yes,0:00:02
+Sangeetha,KARTHIKRYAN,Follow-up - Customer Busy,Yes,No,No,NA,"Jun 15, 2023 13:49 IST","Jun 15, 2023 13:50 IST",0:00:42,NA,0,NA,Yes,0:00:02
+Sangeetha,MOTHISH SAI,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 15, 2023 13:50 IST","Jun 15, 2023 13:51 IST",0:01:15,NA,0,NA,Yes,0:00:02
+Sangeetha,VEERIAH,Lost Lead - Multiple RNR's more than 10 times,Yes,Yes,No,NA,"Jun 15, 2023 13:51 IST","Jun 15, 2023 13:52 IST",0:00:58,NA,0,NA,Yes,0:00:01
+Sangeetha,KEERTHI PRASHANTH,Number not belongs to the customer,No,Yes,No,NA,"Jun 15, 2023 13:52 IST","Jun 15, 2023 13:53 IST",0:00:50,0:00:45,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9962786978-102-51977-2227-2551-9344090298-o-0-150623-135243.wav,Yes,0:00:02
+Sangeetha,MOHAN M,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 15, 2023 13:53 IST","Jun 15, 2023 13:56 IST",0:03:30,NA,0,NA,Yes,0:00:02
+Sangeetha,HARISHANKAR,Lost Lead - Not Interested - Others,No,Yes,No,NA,"Jun 15, 2023 13:57 IST","Jun 15, 2023 13:59 IST",0:02:50,0:01:31,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/7305439631-102-51977-2227-2547-9344090298-o-0-150623-135720.wav,Yes,0:00:02
+Sangeetha,CHANDRA BABU Y,Follow-up - Language Barrier,No,Yes,No,NA,"Jun 15, 2023 14:00 IST","Jun 15, 2023 14:00 IST",0:00:53,0:00:50,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/9553441559-102-51977-2215-2426-9344090298-o-0-150623-140008.wav,Yes,0:00:02
+Sangeetha,MUKAS,Lost Lead - Not Interested - Already Purchased,No,Yes,No,NA,"Jun 15, 2023 14:00 IST","Jun 15, 2023 14:02 IST",0:01:11,0:00:49,0,http://103.73.188.156/Recording/Rec1/102/1965/15-6-2023/7904839214-102-51977-2213-2427-9344090298-o-0-150623-140128.wav,Yes,0:00:21
+Sangeetha,SIVARAMAN,Follow-up - Number not Reachable,Yes,No,No,NA,"Jun 15, 2023 14:02 IST","Jun 15, 2023 14:02 IST",0:00:41,NA,0,NA,Yes,0:00:02
